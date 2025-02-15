@@ -49,7 +49,9 @@ Flipperi =
 
 ## 2.1 Esihistoria
 
-Vuosia 1958-1972 voidaan ajatella videopelien esihistoriana ja kokeilun ajanjaksona, jolloin monet eri ihmiset erilaisilla taustoilla antoivat oman panoksensa videopelien kehityksessä. Jo aikaisemmin syntyneet huviteollisuus, joka käsitti esimerkiksi flipperit ja lautapelit, sekä nopeasti kehittyvä tietokoneteknologia olivat raivanneet tietä tälle tulevalle uudelle populaarikulttuurin muodolle. (Raessens & Goldstein 2005, 23-25)
+Vuosia 1958-1972 voidaan ajatella videopelien esihistoriana ja kokeilun ajanjaksona, jolloin monet eri ihmiset erilaisilla taustoilla antoivat oman panoksensa videopelien kehitykselle. Jo aikaisemmin syntyneet huviteollisuus, joka käsitti esimerkiksi flipperit ja lautapelit, sekä nopeasti kehittyvä tietokoneteknologia olivat raivanneet tietä tälle tulevalle populaarikulttuurin muodolle. (Raessens & Goldstein 2005, 23-25)
+
+Tänä ajanjaksona "pelikonsolit" olivat kuitenkin lähinnä erilaisia (analogisia) prototyyppejä, eikä kuluttajille kotiin myytäviä pelikonsoleita oltu vielä kehitetty. (lähde?)
 
 
 ### 2.2 1970-luku
