@@ -1,11 +1,11 @@
 # Pelikonsolien historia ja kehitys
 
-- Pekka Hämäläinen
+Pekka Hämäläinen
 
-- Haaga-Helia ammattikorkeakoulu
-- Tradenomi
-- AMK-opinnäytetyö
-- 2025
+Haaga-Helia ammattikorkeakoulu\
+Tradenomi\
+AMK-opinnäytetyö\
+2025
 
 
 ## Tiivistelmä
