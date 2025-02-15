@@ -20,6 +20,8 @@ Tämän opinnäytetyön tavoitteena on tarkastella kotikäyttöön tarkoitettuje
 
 Valitsin tämän aiheen, koska olen harrastanut videopelaamista erityisesti konsoleilla lapsesta saakka, ja olin kiinnostunut oppimaan enemmän historiallisista pelikonsoleista ja niiden teknologisista kehitysaskelista.
 
+Tutkimusmenetelmä opinnäytetyössä oli kirjallisuuskatsaus käyttäen laadukkaita lähteitä (esimerksi) Google Scholarin kautta.
+
 
 ## 2 Pelikonsolien historia ja kehitys
 
