@@ -18,15 +18,17 @@ AMK-opinnäytetyö\
 
 Tämän opinnäytetyön tavoitteena on tarkastella kotikäyttöön tarkoitettujen videopelikonsolien historiaa, kehitystä ja (tulevaisuutta). Tarkastelen pelikonsolien historiaa ja kehitystä teknologisesta näkökulmasta käyden läpi 1970-2020 -luvut tähän päivään saakka, sekä pohdin pelikonsolien tulevaisuutta. Kerron työssäni myös jokaisen vuosikymmennen teknologisesti ja kulttuurisesti merkittävimmistä pelikonsoleista.
 
-
+Valitsin tämän aiheen, koska olen harrastanut videopelaamista erityisesti konsoleilla lapsesta saakka, ja olin kiinnostunut oppimaan enemmän historiallisista pelikonsoleista ja niiden teknologioista.
 
 
 ## 2 Pelikonsolien historia ja kehitys
 
-Kotikäyttöön tarkoitettujen kotivideopelikonsolien historia alkaa 1970-luvulta. Ne tarkoittavat erilliseen näyttöön, kuten televisioon, liitettäviä konsoleita, joissa on ulkoinen virtalähde.
+Kotikäyttöön tarkoitettujen kotivideopelikonsolien historia alkaa 1970-luvulta. Ne tarkoittavat erilliseen näyttöön, kuten televisioon, liitettäviä konsoleita, joissa on ulkoinen virtalähde. Ensimmäisenä pelin
 
 
 ### 2.1 1970-luku
+
+Ensimmäisenä kuluttajille tarpelikonsolina pidetään yleisesti vuonna 1972 julkaistua Magnavox Odyssey
 
 
 ### 2.2 1980-luku
