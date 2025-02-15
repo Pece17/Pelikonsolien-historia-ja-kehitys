@@ -2,9 +2,10 @@
 
 Pekka Hämäläinen
 
+
 Haaga-Helia ammattikorkeakoulu\
 Tradenomi\
-AMK-opinnäytetyö\
+Amk-opinnäytetyöohje\
 2025
 
 
