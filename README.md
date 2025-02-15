@@ -1,5 +1,12 @@
 # Pelikonsolien historia ja kehitys
 
+Pekka Hämäläinen
+
+Haaga-Helia ammattikorkeakoulu
+Tradenomi
+AMK-opinnäytetyö
+2025
+
 
 ## Tiivistelmä
 
@@ -26,12 +33,6 @@ Fairchild Channel F (1976)
 Atari 2600 (1977)
 
 
-#### 2.1.1 Teknologia
-
-
-#### 2.1.2 Kulttuuri
-
-
 ### 2.2 1980-luku
 
 Nintendo Entertainment System (NES) (1985)
@@ -41,12 +42,6 @@ TurboGrafx-16 (1987)
 Commodore 64 (1982)
 
 
-#### 2.2.1 Teknologia
-
-
-#### 2.2.2 Kulttuuri
-
-
 ### 2.3 1990-luku
 
 Super Nintendo Entertainment System (SNES) (1990)
@@ -54,12 +49,6 @@ Sony PlayStation (1994)
 Sega Saturn (1994)
 Nintendo 64 (1996)
 Sega Dreamcast (1999)
-
-
-#### 2.3.1 Teknologia
-
-
-#### 2.3.2 Kulttuuri
 
 
 ### 2.4 2000-luku
@@ -72,12 +61,6 @@ Nintendo Wii (2006)
 Sony PlayStation 3 (2006)
 
 
-#### 2.4.1 Teknologia
-
-
-#### 2.4.2 Kulttuuri
-
-
 ### 2.5 2010-luku
 
 Sony PlayStation 4 (2013)
@@ -85,19 +68,7 @@ Microsoft Xbox One (2013)
 Nintendo Switch (2017)
 
 
-#### 2.5.1 Teknologia
-
-
-#### 2.5.2 Kulttuuri
-
-
 ### 2.6 2020-luku
-
-
-#### 2.6.1 Teknologia
-
-
-#### 2.6.2 Kulttuuri
 
 
 ### 2.7 Tulevaisuus
