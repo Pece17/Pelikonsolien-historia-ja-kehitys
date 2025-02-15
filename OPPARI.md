@@ -39,6 +39,7 @@ Valitsin tämän aiheen, koska olen harrastanut videopelaamista erityisesti kons
 Tutkimusmenetelmä opinnäytetyössä oli kirjallisuuskatsaus käyttäen laadukkaita lähteitä (esimerksi) Google Scholarin kautta.
 
 Kotivideopelikonsoli =
+Flipperi =
 
 
 ## 2 Pelikonsolien historia ja kehitys
@@ -48,12 +49,12 @@ Kotivideopelikonsoli =
 
 ## 2.1 Esihistoria
 
-(Raessens & Goldstein 2005, 23)
+Vuosia 1958-1972 voidaan ajatella videopelien esihistoriana ja kokeilun ajanjaksona, jolloin monet eri ihmiset erilaisilla taustoilla antoivat oman panoksensa videopelien kehityksessä. Jo aikaisemmin syntyneet huviteollisuus, joka käsitti esimerkiksi flipperit ja lautapelit, sekä nopeasti kehittyvä tietokoneteknologia olivat raivanneet tietä tälle tulevalle uudelle populaarikulttuurin muodolle. (Raessens & Goldstein 2005, 23-25)
 
 
 ### 2.2 1970-luku
 
-Ensimmäisenä kuluttajille tarpelikonsolina pidetään yleisesti vuonna 1972 julkaistua Magnavox Odyssey
+Ensimmäisenä kuluttajille tarkoitettuna pelikonsolina pidetään yleisesti vuonna 1972 julkaistua Magnavox Odyssey
 
 
 ### 2.3 1980-luku
