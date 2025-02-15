@@ -47,7 +47,7 @@ Kotikäyttöön tarkoitettujen kotivideopelikonsolien historia alkaa 1970-luvult
 ### 2.7 Tulevaisuus
 
 
-## 3 Pohdinta
+## 3 Johtopäätökset
 
 
 ## Lähteet
