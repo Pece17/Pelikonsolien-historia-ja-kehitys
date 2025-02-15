@@ -5,6 +5,8 @@
 - https://www.theseus.fi/bitstream/handle/10024/96156/Vaananen_Jouko.pdf?sequence=1&isAllowed=y mallia samankaltaiseen oppariin
 - https://libguides.haaga-helia.fi/lahdeviittaamisen-tueksi/viittaa
 - https://www.haaga-helia.fi/fi/amk/opinnaytetyo-amk-opinnot
+- https://libguides.haaga-helia.fi/lahdeviittaamisen-tueksi/tekstiviitteet-ja-lahdeluettelo
+- Tavoite: 2-3 laadukasta ”kivijalkalähdettä” + täydentävät lähteet​
 - Se on tosi hyvä lähestymistapa, ja juuri teknologian kehitykselle on paljon mielenkiintoisia näkökulmia pelikonsolien historiassa! Koska opiskelet tietojenkäsittelyä, voit varmasti tuoda esiin konsolien teknisiä innovaatioita ja niiden vaikutuksia peliteollisuuteen. Tekniset muutokset, kuten prosessorit, grafiikkaratkaisut, tallennusvälineet ja verkkoteknologia, ovat olleet keskiössä konsolien kehityksessä.
 
 Tässä muutamia ideoita, kuinka voisit keskittyä teknologian kehitykseen ja rajata sisältöä:
