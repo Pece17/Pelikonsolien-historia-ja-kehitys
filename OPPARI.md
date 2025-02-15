@@ -16,14 +16,14 @@ AMK-opinnäytetyö\
 
 ## 1 Johdanto
 
-Tämän opinnäytetyön tavoitteena on tarkastella kotikäyttöön tarkoitettujen videopelikonsolien historiaa, kehitystä ja (tulevaisuutta). Tarkastelen pelikonsolien historiaa ja kehitystä teknologisesta näkökulmasta käyden läpi 1970-2020 -luvut tähän päivään saakka, sekä pohdin pelikonsolien tulevaisuutta. Kerron työssäni myös jokaisen vuosikymmennen teknologisesti ja kulttuurisesti merkittävimmistä pelikonsoleista.
+Tämän opinnäytetyön tavoitteena on tarkastella kotikäyttöön tarkoitettujen videopelikonsolien historiaa, kehitystä ja (tulevaisuutta). Tarkastelen pelikonsolien historiaa ja kehitystä (lähinnä) teknologisesta näkökulmasta käyden läpi 1970-2020 -luvut tähän päivään saakka, sekä pohdin pelikonsolien tulevaisuutta, kun lähestymme 2030-lukua. Kerron työssäni jokaisen vuosikymmennen teknologisesti ja kulttuurisesti merkittävimmistä pelikonsoleista. Olen rajannut opinnäytetyön aiheen kotivideopelikonsoleihin, eli en käsittele esimerksi käsikonsoleita, joita ei ei ole suunniteltu yhdistettävän ulkoisiin näyttöihin, julkisia kolikkovideopelejä tai pelitietokoneita.
 
-Valitsin tämän aiheen, koska olen harrastanut videopelaamista erityisesti konsoleilla lapsesta saakka, ja olin kiinnostunut oppimaan enemmän historiallisista pelikonsoleista ja niiden teknologioista.
+Valitsin tämän aiheen, koska olen harrastanut videopelaamista erityisesti konsoleilla lapsesta saakka, ja olin kiinnostunut oppimaan enemmän historiallisista pelikonsoleista ja niiden teknologisista kehityksistä. 
 
 
 ## 2 Pelikonsolien historia ja kehitys
 
-Kotikäyttöön tarkoitettujen kotivideopelikonsolien historia alkaa 1970-luvulta. Ne tarkoittavat erilliseen näyttöön, kuten televisioon, liitettäviä konsoleita, joissa on ulkoinen virtalähde. Ensimmäisenä pelin
+Kotikäyttöön tarkoitettujen kotivideopelikonsolien historia alkaa 1970-luvulta. Ne tarkoittavat erilliseen näyttöön, kuten televisioon tai tietokoneen näyttöön, liitettäviä konsoleita, joissa on ulkoinen virtalähde. Ensimmäisenä pelin
 
 
 ### 2.1 1970-luku
@@ -42,8 +42,12 @@ Ensimmäisenä kuluttajille tarpelikonsolina pidetään yleisesti vuonna 1972 ju
 
 ### 2.5 2010-luku
 
+ps4, stadia
+
 
 ### 2.6 2020-luku
+
+
 
 
 ### (2.7 Tulevaisuus)
