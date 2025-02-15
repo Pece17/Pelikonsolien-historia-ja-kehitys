@@ -17,7 +17,11 @@ Kotikäyttöön tarkoitettujen kotivideopelikonsolien historia alkaa 1970-luvult
 
 ### 2.1 1970-luku
 
-Magnavox Odyssey, Atari Pong, 
+Magnavox Odyssey (1972)
+Atari Pong (1975)
+Color TV-Game Series (1977)
+Fairchild Channel F (1976)
+Atari 2600 (1977)
 
 
 #### 2.1.1 Teknologia
@@ -28,6 +32,12 @@ Magnavox Odyssey, Atari Pong,
 
 ### 2.2 1980-luku
 
+Nintendo Entertainment System (NES) (1985)
+Sega Genesis (Mega Drive) (1988)
+Atari 7800 (1986)
+TurboGrafx-16 (1987)
+Commodore 64 (1982)
+
 
 #### 2.2.1 Teknologia
 
@@ -37,7 +47,11 @@ Magnavox Odyssey, Atari Pong,
 
 ### 2.3 1990-luku
 
-Sony PlayStation,  
+Super Nintendo Entertainment System (SNES) (1990)
+Sony PlayStation (1994)
+Sega Saturn (1994)
+Nintendo 64 (1996)
+Sega Dreamcast (1999)
 
 
 #### 2.3.1 Teknologia
@@ -48,11 +62,12 @@ Sony PlayStation,
 
 ### 2.4 2000-luku
 
-1. **Sony PlayStation 2 (2000)**  
-2. **Microsoft Xbox (2001)**  
-3. **Microsoft Xbox 360 (2005)**  
-4. **Nintendo Wii (2006)**  
-5. **Sony PlayStation 3 (2006)**
+Sony PlayStation 2 (2000)
+Microsoft Xbox (2001)
+Nintendo GameCube (2001)
+Microsoft Xbox 360 (2005)
+Nintendo Wii (2006)
+Sony PlayStation 3 (2006)
 
 
 #### 2.4.1 Teknologia
@@ -62,6 +77,10 @@ Sony PlayStation,
 
 
 ### 2.5 2010-luku
+
+Sony PlayStation 4 (2013)
+Microsoft Xbox One (2013)
+Nintendo Switch (2017)
 
 
 #### 2.5.1 Teknologia
@@ -80,3 +99,9 @@ Sony PlayStation,
 
 
 ### 2.7 Tulevaisuus
+
+
+## Lähteet
+
+http://www.zachhorton.com/wp-content/uploads/2020/08/Horton-a-%E2%80%9Ctotal-play-and-learning-experience%E2%80%9D_-the-magnavox-odyssey%E2%80%99s-1972-dream-of-media-convergence.pdf
+
