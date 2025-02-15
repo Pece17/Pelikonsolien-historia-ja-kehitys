@@ -12,7 +12,7 @@
 
 ## 2 Pelikonsolien historia ja kehitys
 
-Kotikäyttöön tarkoitettujen pelikonsolien historia alkaa 1970-luvulta.
+Kotikäyttöön tarkoitettujen kotivideopelikonsolien historia alkaa 1970-luvulta. Ne tarkoittavat erilliseen näyttöön, kuten televisioon, liitettäviä konsoleita, joissa on ulkoinen virtalähde.
 
 
 ### 2.1 1970-luku
@@ -37,7 +37,7 @@ Magnavox Odyssey, Atari Pong,
 
 ### 2.3 1990-luku
 
-PlayStation, 
+Sony PlayStation,  
 
 
 #### 2.3.1 Teknologia
@@ -47,6 +47,12 @@ PlayStation,
 
 
 ### 2.4 2000-luku
+
+1. **Sony PlayStation 2 (2000)**  
+2. **Microsoft Xbox (2001)**  
+3. **Microsoft Xbox 360 (2005)**  
+4. **Nintendo Wii (2006)**  
+5. **Sony PlayStation 3 (2006)**
 
 
 #### 2.4.1 Teknologia
@@ -65,12 +71,6 @@ PlayStation,
 
 
 ### 2.6 2020-luku
-
-1. **Sony PlayStation 2 (2000)**  
-2. **Microsoft Xbox (2001)**  
-3. **Microsoft Xbox 360 (2005)**  
-4. **Nintendo Wii (2006)**  
-5. **Sony PlayStation 3 (2006)**
 
 
 #### 2.6.1 Teknologia
