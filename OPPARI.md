@@ -18,9 +18,11 @@ AMK-opinnäytetyö\
 
 Tämän opinnäytetyön tavoitteena on tarkastella kotikäyttöön tarkoitettujen videopelikonsolien historiaa, kehitystä ja (tulevaisuutta). Tarkastelen pelikonsolien historiaa ja kehitystä (lähinnä) teknologisesta näkökulmasta käyden läpi 1970-2020 -luvut tähän päivään saakka, sekä pohdin pelikonsolien tulevaisuutta, kun lähestymme 2030-lukua. Kerron työssäni jokaisen vuosikymmennen muutamista teknologisesti ja kulttuurisesti merkittävimmistä pelikonsoleista. Olen rajannut opinnäytetyön aiheen kotivideopelikonsoleihin, eli en käsittele esimerksi käsikonsoleita, joita ei ei ole suunniteltu yhdistettävän ulkoisiin näyttöihin, julkisia kolikkovideopelejä tai pelitietokoneita.
 
-Valitsin tämän aiheen, koska olen harrastanut videopelaamista erityisesti konsoleilla lapsesta saakka, ja olin kiinnostunut oppimaan enemmän historiallisista pelikonsoleista ja niiden teknologisista kehitysaskelista.
+Valitsin tämän aiheen, koska olen harrastanut videopelaamista erityisesti konsoleilla lapsesta saakka, ja olin kiinnostunut oppimaan enemmän historiallisista pelikonsoleista ja niiden teknologisista kehitysaskeleista.
 
 Tutkimusmenetelmä opinnäytetyössä oli kirjallisuuskatsaus käyttäen laadukkaita lähteitä (esimerksi) Google Scholarin kautta.
+
+(Luettelo keskeisistä käsitteistä)
 
 
 ## 2 Pelikonsolien historia ja kehitys
