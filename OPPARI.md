@@ -88,5 +88,5 @@ Käytin opinnäytetyön sisällön ideointiin ja rajaukseen hyödyksi ChatGPT:t�
 
 ## Lähteet
 
-http://www.zachhorton.com/wp-content/uploads/2020/08/Horton-a-%E2%80%9Ctotal-play-and-learning-experience%E2%80%9D_-the-magnavox-odyssey%E2%80%99s-1972-dream-of-media-convergence.pdf
-
+- http://www.zachhorton.com/wp-content/uploads/2020/08/Horton-a-%E2%80%9Ctotal-play-and-learning-experience%E2%80%9D_-the-magnavox-odyssey%E2%80%99s-1972-dream-of-media-convergence.pdf
+- https://books.google.fi/books?hl=fi&lr=&id=ErhNEAAAQBAJ&oi=fnd&pg=PA23&dq=history+of+video+game+consoles&ots=jx0n6Ubkn6&sig=-pLJB_9YwVlxI23I6f0_GntFcPU&redir_esc=y#v=onepage&q=history%20of%20video%20game%20consoles&f=false
