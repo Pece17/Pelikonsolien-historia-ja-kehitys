@@ -13,6 +13,17 @@ AMK-opinnäytetyö\
 
 ## Sisällys
 
+1 Johdanto\
+2 Pelikonsolien historia ja kehitys\
+  2.1 1970-luku\
+  2.2 1980-luku\
+  2.3 1990-luku\
+  2.4 2000-luku\
+  2.5 2010-luku\
+  2.6 2020-luku\
+  2.7 Tulevaisuus\
+Lähteet
+
 
 ## 1 Johdanto
 
