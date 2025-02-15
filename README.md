@@ -16,7 +16,7 @@
 
 ## 1 Johdanto
 
-Tämän opinnäytetyön tavoitteena on tarkastella kotikäyttöön myytyjen videopelikonsolien historiaa, kehitystä ja tulevaisuutta.
+Tämän opinnäytetyön tavoitteena on tarkastella kotikäyttöön tarkoitettujen videopelikonsolien historiaa, kehitystä ja tulevaisuutta. Teknologia pääpainona? Vai kulttuuri? varmaan teknologia
 
 
 ## 2 Pelikonsolien historia ja kehitys
