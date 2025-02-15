@@ -22,7 +22,7 @@ Valitsin tämän aiheen, koska olen harrastanut videopelaamista erityisesti kons
 
 Tutkimusmenetelmä opinnäytetyössä oli kirjallisuuskatsaus käyttäen laadukkaita lähteitä (esimerksi) Google Scholarin kautta.
 
-(Luettelo keskeisistä käsitteistä)
+Kotivideopelikonsoli =
 
 
 ## 2 Pelikonsolien historia ja kehitys
@@ -57,9 +57,18 @@ ps4, stadia
 ### (2.7 Tulevaisuus)
 
 
-## 3 Johtopäätökset
+## 3 Tutkimuksen toteutus
 
 Käytin opinnäytetyön sisällön ideointiin ja rajaukseen hyödyksi ChatGPT:tä. Käytin kehoitetta: "Teen opinnäytetyötä aiheesta "Pelikonsolien historia ja kehitys", ja ajattelin käydä läpi 1970-2020 -luvut yksitellen - tarkoituksenani on kertoa miten konsolit ja niiden teknologia kehittyivät jokaisella vuosikymmenellä. Tarvitsen apua aiheen ja sisällön ideointiin ja rajaukseen. Keskityn opinnäytetyössäni teknologiseen näkökulmaan."
+
+
+### 3.1 Kuvaileva kirjallisuuskatsaus (menetelmän esittely)​
+
+
+### 3.2 Menetelmän käyttö ja tutkimuksen aineisto (aineiston esittely)
+
+
+### 3.3 Pelikonsolien historia ja kehitys (tulokset)
 
 
 ## Lähteet
