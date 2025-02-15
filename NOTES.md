@@ -3,6 +3,8 @@
 - Miten kehittyi tehot ja teknologia, kulttuurisesti myös
 - yritä työstää opparia 6h joka pvä
 - https://www.theseus.fi/bitstream/handle/10024/96156/Vaananen_Jouko.pdf?sequence=1&isAllowed=y mallia samankaltaiseen oppariin
+- https://libguides.haaga-helia.fi/lahdeviittaamisen-tueksi/viittaa
+- https://www.haaga-helia.fi/fi/amk/opinnaytetyo-amk-opinnot
 - Se on tosi hyvä lähestymistapa, ja juuri teknologian kehitykselle on paljon mielenkiintoisia näkökulmia pelikonsolien historiassa! Koska opiskelet tietojenkäsittelyä, voit varmasti tuoda esiin konsolien teknisiä innovaatioita ja niiden vaikutuksia peliteollisuuteen. Tekniset muutokset, kuten prosessorit, grafiikkaratkaisut, tallennusvälineet ja verkkoteknologia, ovat olleet keskiössä konsolien kehityksessä.
 
 Tässä muutamia ideoita, kuinka voisit keskittyä teknologian kehitykseen ja rajata sisältöä:
