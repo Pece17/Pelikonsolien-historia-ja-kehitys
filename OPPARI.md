@@ -16,7 +16,7 @@ AMK-opinnäytetyö\
 
 ## 1 Johdanto
 
-Tämän opinnäytetyön tavoitteena on tarkastella kotikäyttöön tarkoitettujen videopelikonsolien historiaa, kehitystä ja tulevaisuutta. Teknologia pääpainona? Vai kulttuuri? varmaan teknologia, tarkastellaan lähinnä teknologisia kehityksiä 1970-luvulta nykypäivään.
+Tämän opinnäytetyön tavoitteena on tarkastella kotikäyttöön tarkoitettujen videopelikonsolien historiaa, kehitystä ja (tulevaisuutta). Tarkastelen pelikonsolien historiaa ja kehitystä teknologisesta näkökulmasta käyden läpi 1970-2020 -luvut tähän päivään saakka, sekä pohdin pelikonsolien tulevaisuutta. Kerron työssäni myös jokaisen vuosikymmennen teknologisesti ja kulttuurisesti merkittävimmistä pelikonsoleista.
 
 
 
@@ -44,7 +44,7 @@ Kotikäyttöön tarkoitettujen kotivideopelikonsolien historia alkaa 1970-luvult
 ### 2.6 2020-luku
 
 
-### 2.7 Tulevaisuus
+### (2.7 Tulevaisuus)
 
 
 ## 3 Johtopäätökset
