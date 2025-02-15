@@ -15,13 +15,14 @@ AMK-opinnäytetyö\
 
 1 Johdanto\
 2 Pelikonsolien historia ja kehitys\
-  2.1 1970-luku\
-  2.2 1980-luku\
-  2.3 1990-luku\
-  2.4 2000-luku\
-  2.5 2010-luku\
-  2.6 2020-luku\
-  2.7 Tulevaisuus\
+  2.1 Esihistoria\
+  2.2 1970-luku\
+  2.3 1980-luku\
+  2.4 1990-luku\
+  2.5 2000-luku\
+  2.6 2010-luku\
+  2.7 2020-luku\
+  2.8 Tulevaisuus\
 3 Tutkimuksen toteutus\
   3.1 Kuvaileva kirjallisuuskatsaus (menetelmän esittely)​\
   3.2 Menetelmän käyttö ja tutkimuksen aineisto (aineiston esittely)\
@@ -45,31 +46,34 @@ Kotivideopelikonsoli =
 (Ensimmäiset "pelikonsolit" olivat 1950-luvulla kehitetyt prototyypit...) Kotikäyttöön tarkoitettujen kotivideopelikonsolien historia alkaa 1970-luvulta. Ne tarkoittavat erilliseen näyttöön, kuten televisioon tai tietokoneen näyttöön, liitettäviä konsoleita, joissa on ulkoinen virtalähde. Ensimmäisenä pelin
 
 
-### 2.1 1970-luku
+## 2.1 Esihistoria
+
+
+
+
+### 2.2 1970-luku
 
 Ensimmäisenä kuluttajille tarpelikonsolina pidetään yleisesti vuonna 1972 julkaistua Magnavox Odyssey
 
 
-### 2.2 1980-luku
+### 2.3 1980-luku
 
 
-### 2.3 1990-luku
+### 2.4 1990-luku
 
 
-### 2.4 2000-luku
+### 2.5 2000-luku
 
 
-### 2.5 2010-luku
+### 2.6 2010-luku
 
 ps4, stadia
 
 
-### 2.6 2020-luku
+### 2.7 2020-luku
 
 
-
-
-### (2.7 Tulevaisuus)
+### (2.8 Tulevaisuus)
 
 
 ## 3 Tutkimuksen toteutus
