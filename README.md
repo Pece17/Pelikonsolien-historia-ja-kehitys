@@ -17,38 +17,60 @@ Kotikäyttöön tarkoitettujen pelikonsolien historia alkaa 1970-luvulta.
 
 ### 2.1 1970-luku
 
+Magnavox Odyssey, Atari Pong, 
 
-#### 2.1.1 Magnavox Odyssey
+
+#### 2.1.1 Teknologia
 
 
-#### 2.1.2 ?
+#### 2.1.2 Kulttuuri
 
 
 ### 2.2 1980-luku
 
 
+#### 2.2.1 Teknologia
+
+
+#### 2.2.2 Kulttuuri
+
+
 ### 2.3 1990-luku
 
+PlayStation, 
 
-#### 2.3.1 PlayStation
+
+#### 2.3.1 Teknologia
+
+
+#### 2.3.2 Kulttuuri
 
 
 ### 2.4 2000-luku
 
 
-#### 2.4.1 PlayStation 2
+#### 2.4.1 Teknologia
 
 
-#### 2.4.2 Xbox
+#### 2.4.2 Kulttuuri
 
 
 ### 2.5 2010-luku
 
 
+#### 2.5.1 Teknologia
+
+
+#### 2.5.2 Kulttuuri
+
+
 ### 2.6 2020-luku
 
 
-#### 2.6.1 PlayStation 5
+#### 2.6.1 Teknologia
+
+
+#### 2.6.2 Kulttuuri
 
 
 ### 2.7 Tulevaisuus
