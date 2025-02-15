@@ -48,7 +48,7 @@ Kotivideopelikonsoli =
 
 ## 2.1 Esihistoria
 
-Jeffrey Goldstein and Joost Raessens
+(Raessens & Goldstein 2005, 23)
 
 
 ### 2.2 1970-luku
