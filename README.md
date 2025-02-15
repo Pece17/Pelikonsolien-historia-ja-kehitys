@@ -18,7 +18,7 @@
 
 Tämän opinnäytetyön tavoitteena on tarkastella kotikäyttöön tarkoitettujen videopelikonsolien historiaa, kehitystä ja tulevaisuutta. Teknologia pääpainona? Vai kulttuuri? varmaan teknologia, tarkastellaan lähinnä teknologisia kehityksiä 1970-luvulta nykypäivään.
 
-Käytin opinnäytetyön sisällön ideointiin ja rajaukseen hyödyksi ChatGPT:tä 
+
 
 
 ## 2 Pelikonsolien historia ja kehitys
@@ -48,6 +48,8 @@ Kotikäyttöön tarkoitettujen kotivideopelikonsolien historia alkaa 1970-luvult
 
 
 ## 3 Johtopäätökset
+
+Käytin opinnäytetyön sisällön ideointiin ja rajaukseen hyödyksi ChatGPT:tä. Käytin kehoitetta: "Teen opinnäytetyötä aiheesta "Pelikonsolien historia ja kehitys", ja ajattelin käydä läpi 1970-2020 -luvut yksitellen - tarkoituksenani on kertoa miten konsolit ja niiden teknologia kehittyivät jokaisella vuosikymmenellä. Tarvitsen apua aiheen ja sisällön ideointiin ja rajaukseen. Keskityn opinnäytetyössäni teknologiseen näkökulmaan."
 
 
 ## Lähteet
