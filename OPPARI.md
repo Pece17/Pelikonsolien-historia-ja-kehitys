@@ -22,6 +22,10 @@ AMK-opinnäytetyö\
   2.5 2010-luku\
   2.6 2020-luku\
   2.7 Tulevaisuus\
+3 Tutkimuksen toteutus\
+  3.1 Kuvaileva kirjallisuuskatsaus (menetelmän esittely)​\
+  3.2 Menetelmän käyttö ja tutkimuksen aineisto (aineiston esittely)\
+  3.3 Pelikonsolien historia ja kehitys (tulokset)\
 Lähteet
 
 
