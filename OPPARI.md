@@ -25,7 +25,7 @@ Tutkimusmenetelmä opinnäytetyössä oli kirjallisuuskatsaus käyttäen laadukk
 
 ## 2 Pelikonsolien historia ja kehitys
 
-Kotikäyttöön tarkoitettujen kotivideopelikonsolien historia alkaa 1970-luvulta. Ne tarkoittavat erilliseen näyttöön, kuten televisioon tai tietokoneen näyttöön, liitettäviä konsoleita, joissa on ulkoinen virtalähde. Ensimmäisenä pelin
+(Ensimmäiset "pelikonsolit" olivat 1950-luvulla kehitetyt prototyypit...) Kotikäyttöön tarkoitettujen kotivideopelikonsolien historia alkaa 1970-luvulta. Ne tarkoittavat erilliseen näyttöön, kuten televisioon tai tietokoneen näyttöön, liitettäviä konsoleita, joissa on ulkoinen virtalähde. Ensimmäisenä pelin
 
 
 ### 2.1 1970-luku
