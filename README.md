@@ -34,7 +34,7 @@ Lähteet
 
 ## 1 Johdanto
 
-Tämän opinnäytetyön tavoitteena on tarkastella kotikäyttöön tarkoitettujen videopelikonsolien historiaa, kehitystä ja (tulevaisuutta). Tarkastelen pelikonsolien historiaa ja kehitystä lähinnä teknologisesta näkökulmasta käyden läpi 1970-2020 -luvut tähän päivään saakka, sekä pohdin pelikonsolien tulevaisuutta, kun lähestymme 2030-lukua. Kerron työssäni jokaisen vuosikymmennen muutamista teknologisesti ja kulttuurisesti merkittävimmistä pelikonsoleista. Olen rajannut opinnäytetyön aiheen kotivideopelikonsoleihin, eli en käsittele esimerksi käsikonsoleita, joita ei ei ole suunniteltu yhdistettävän ulkoisiin näyttöihin, julkisia kolikkovideopelejä tai pelitietokoneita.
+Tämän opinnäytetyön tavoitteena on tarkastella kotikäyttöön tarkoitettujen videopelikonsolien historiaa, kehitystä ja (tulevaisuutta). Tarkastelen pelikonsolien historiaa ja kehitystä lähinnä teknologisesta näkökulmasta käyden läpi 1970-2020 -luvut tähän päivään saakka, sekä pohdin pelikonsolien tulevaisuutta, kun lähestymme 2030-lukua. Kerron työssäni jokaisen vuosikymmennen muutamista teknologisesti ja kulttuurisesti merkittävimmistä pelikonsoleista. Olen rajannut opinnäytetyön aiheen kotivideopelikonsoleihin, eli en tarkemmin käsittele esimerksi käsikonsoleita, joita ei ei ole suunniteltu yhdistettävän ulkoisiin näyttöihin, julkisia kolikkovideopelejä tai pelitietokoneita.
 
 Valitsin tämän aiheen, koska olen harrastanut videopelaamista erityisesti konsoleilla lapsesta saakka, ja olin kiinnostunut oppimaan enemmän historiallisista pelikonsoleista ja niiden teknologisista kehitysaskeleista.
 
@@ -67,9 +67,9 @@ Kolme nimeä tulee esiin, kun mietitään videopelien varsinaista keksijää: St
 
 Ralph Baer taas oli jo 44-vuotias arvostettu insinööri elektroniikkayhtiössä, kun hän vuonna 1966 esitteli televisioon yhdistettävän laitteen, jolla pystyi pelaamaan pöytätennistä simuloivaa peliä. Jatkokehitys johti vuonna 1967 jääkiekkoa simuloivaan videopeliin. 1968 hän keksi menetelmän, jolla pelejä voitaisiin tarjota ihmisten olohuoneisiin ja televisiohin kaapelin kautta, samalla periaattella kuin kaapelitelevisio toimi. Idea kuitenkin hyllytettiin muutamaksi vuodeksi kaapeliyhtiöiden vastahakoisuuden takia. Ralph Bauerin suurin panos videopelien ja pelikonsolien kehityksessä oli hänen ideansa tuoda videopelit tarjolle kuluttajien kotien yksityisyyteen - häntä voidaan siis ajatella kotivideopelikonsolin isänä. (Raessens & Goldstein 2005, 24-25)
 
+Kuuluisin, mutta myös kiistanalaisin videopelien esi-isistä on Nolan Bushnell. Yliopistossa ollessaan hän kohtasi Steve Russelin Spacewar-pelin, ja käytti sitä perustana vuonna 1970 kehittämälleen Computer Space -pelille. Pelinä Computer Space ei ollut kovin merkillepantava, mutta se oli ensimmäinen kolikkovideopeli ja myös historian ensimmäinen kaupallistettu videopeli, jonka tarkoituksena oli tuottaa rahaa. 
 
-
-Tänä ajanjaksona 1958-1972 videopelit pyörivät erilaisten tieteellisten instrumenttien, tietokoneiden tai pelikonsolien prototyyppien kautta, mutta kuluttajille kotiin myytäviä pelikonsoleita oltu vielä tuotu markkinoille.
+Tänä ajanjaksona 1958-1972 videopelit pyörivät lähinnä erilaisten tieteellisten instrumenttien, tietokoneiden tai pelikonsolien prototyyppien kautta, mutta kuluttajille kotiin myytäviä pelikonsoleita oltu vielä tuotu markkinoille.
 
 
 ### 2.2 1970-luku
