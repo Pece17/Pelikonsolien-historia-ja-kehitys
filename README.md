@@ -58,9 +58,11 @@ Oskilloskooppi
 
 Vuosia 1958-1972 voidaan ajatella videopelien esihistoriana ja kokeilun ajanjaksona, jolloin monet eri ihmiset erilaisilla taustoilla antoivat oman panoksensa videopelien kehitykselle. Jo aikaisemmin syntyneet huviteollisuus, joka käsitti esimerkiksi flipperit ja lautapelit, sekä nopeasti kehittyvä tietokoneteknologia olivat raivanneet tietä tälle tulevalle populaarikulttuurin muodolle. (Raessens & Goldstein 2005, 23)
 
-Vuonna 1958 Willy Higinbotham, insinööri Brookhaven National Laboratory -tutkimuslaitoksesta, ehdotti jotain jännittävämpää esiteltävää vierailijoille avointen ovien päivänä, kuin perinteiset tilastot ja yritysesitelmät. Hän muunsi oskilloskoopin, laitteen joka muuttaa värähtelyjä aaltomaiseksi liikkeeksi näytöllä, eräänlaiseksi tennis-peliksi. Higinbothamin keksinnössä valopilkku toimi pallona, ja kahden napillisen laatikon aavulla pelaajat pystyivät säätämään "lyöntien" kulmaa. Pelin nimeksi hän keksi osuvasti "Tennis for Two". Higinbotham ei kuitenkaan patentoinut keksintöään tai ollut kiinnostunut sen käytännöllisistä sovelluksista, vaan piti sitä vain mielekkäänä tapana havainnollistaa oskilloskoopin toimintaa. (Raessens & Goldstein 2005, 23)
+Vuonna 1958 Willy Higinbotham, insinööri Brookhaven National Laboratory -tutkimuslaitoksesta, ehdotti jotain jännittävämpää esiteltävää vierailijoille avointen ovien päivänä, kuin perinteiset tilastot ja yritysesitelmät. Hän muunsi oskilloskoopin, laitteen joka muuttaa värähtelyjä aaltomaiseksi liikkeeksi näytöllä, eräänlaiseksi tennis-peliksi. Higinbothamin keksinnössä valopilkku toimi pallona, ja kahden napillisen laatikon, ensimmäisten peliohjainten, aavulla pelaajat pystyivät säätämään "lyöntien" kulmaa. Pelin nimeksi hän keksi osuvasti "Tennis for Two". Higinbotham ei kuitenkaan patentoinut keksintöään tai ollut kiinnostunut sen käytännöllisistä sovelluksista, vaan piti sitä pelkästään mielekkäänä tapana havainnollistaa oskilloskoopin toimintaa. (Raessens & Goldstein 2005, 23)
 
-Tänä ajanjaksona ei voitu kuitenkaan vielä puhua siis pelikonsoleista, vaan pelit pyörivät erilaisten analogisten prototyyppien päällä, eikä kuluttajille kotiin myytäviä pelikonsoleita oltu vielä kehitetty.
+
+
+Tänä ajanjaksona ei voitu vielä puhua siis pelikonsoleista, vaan pelit pyörivät erilaisten analogisten prototyyppien päällä, eikä kuluttajille kotiin myytäviä pelikonsoleita oltu vielä kehitetty.
 
 
 ### 2.2 1970-luku
