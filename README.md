@@ -52,7 +52,9 @@ Flipperi =
 
 Vuosia 1958-1972 voidaan ajatella videopelien esihistoriana ja kokeilun ajanjaksona, jolloin monet eri ihmiset erilaisilla taustoilla antoivat oman panoksensa videopelien kehitykselle. Jo aikaisemmin syntyneet huviteollisuus, joka käsitti esimerkiksi flipperit ja lautapelit, sekä nopeasti kehittyvä tietokoneteknologia olivat raivanneet tietä tälle tulevalle populaarikulttuurin muodolle. (Raessens & Goldstein 2005, 23-25)
 
-Tänä ajanjaksona "pelikonsolit" olivat kuitenkin lähinnä erilaisia (analogisia) prototyyppejä, eikä kuluttajille kotiin myytäviä pelikonsoleita oltu vielä kehitetty. (lähde?)
+Tänä ajanjaksona ei voitu kuitenkaan vielä puhua pelikonsoleista, vaan pelit pyörivät erilaisten analogisten prototyyppien päällä., eikä kuluttajille kotiin myytäviä pelikonsoleita oltu vielä kehitetty. (lähde?)
+
+Vuonna 1958 Willy Higinbotham, insinööri Brookhaven National Laboratory -tutkimuslaitoksesta, ehdotti jotain jännittävämpää näytettävää vierailijoille avointen ovien päivänä, kuin perinteiset tilastot ja yritysesitelmät. 
 
 
 ### 2.2 1970-luku
