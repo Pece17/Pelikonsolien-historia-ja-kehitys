@@ -69,7 +69,7 @@ Ralph Baer taas oli jo 44-vuotias arvostettu insinööri elektroniikkayhtiössä
 
 Kuuluisin videopelien esi-isistä on Nolan Bushnell. Yliopistossa ollessaan hän kohtasi Steve Russelin Spacewar-pelin, ja käytti sitä perustana vuonna 1970 kehittämälleen Computer Space -pelille. Videopelinä Computer Space ei ollut järin merkillepantava, mutta se oli ensimmäinen kolikkovideopeli ja myös historian ensimmäinen kaupallistettu videopeli, jonka tarkoituksena oli tuottaa rahaa. Computer Space ei ollut yleisömenestys sen monimutkaisten ohjeiden takia, mutta kaksi vuotta myöhemmin Bushnell hioi konseptinsa täydellisyyteen Pong-kolikkovideopelillään, joka oli pelinä niin yksinkertainen kuin mahdollista. Pong oli ensimmäinen todellinen yleisöhitti videopelien sektorilla ja toimi lähtölaukauksena nopeasti kasvavalle videopeliteollisuudelle. Videopelit olivat kolikkopelien myötä tuotu tieteellisen tutkimuksen piiristä suurelle yleisölle. (Raessens & Goldstein 2005, 25)
 
-Tänä ajanjaksona 1958-1972 videopelit pyörivät erilaisten tieteellisten instrumenttien, tietokoneiden, pelikonsolien prototyyppien tai kolikkopelien kautta, mutta kuluttajille kotiin myytäviä pelikonsoleita ei oltu vielä tuotu markkinoille.
+Tänä ajanjaksona 1958-1972 videopelit pyörivät erilaisten tieteellisten instrumenttien, tietokoneiden, pelikonsolien prototyyppien ja kolikkopelien kautta, mutta kuluttajille kotiin myytäviä pelikonsoleita ei oltu vielä tuotu markkinoille.
 
 
 ### 2.2 1970-luku
