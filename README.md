@@ -65,7 +65,9 @@ Vuonna 1958 Willy Higinbotham, insinööri Brookhaven National Laboratory -tutki
 
 Kolme nimeä tulee esiin, kun mietitään videopelien varsinaista keksijää: Steve Russell, Ralph Baer ja Nolan Bushnell. Steve Russell oli vasta opiskelija Massachusetts Institute of Technology -korkeakoulussa, kun hän vuonna 1962 kehitti Spacewar-pelin PDP-1-keskuskoneelle. Russell erosi Willy Higinbothamista siinä mielessä, että hän halusi luoda sovelluksen alusta alkaen viihdekäyttöön. Teknisesti peli toimi jatkuvasti näyttöpäätteelle ilmestyvien ja häviävien valonvälähdyksien periaatteella, samalla tavalla kuin osa nykyajan näytönsäästäjistä. Pelin varsinainen innovaatio oli muuttaa kaksi valopilkkua muistuttamaan avaruusaluksia, joita kilpailevat kaksi pelaajaa pystyivät ohjaamaan. Muut valopilkut näytöllä olivat puhtaasti koristeellisia, mutta keskellä näyttöä oli mustaa aukkoa kuvaava ruksi. Pelin päämääränä oli ampua avaruusaluksista torpedoita yrittäen tuhota vastapelaajan aluksen sekä välttää mustaa aukkoa. Spacewar-peliä pidetään ensimmäisenä tietokonepelinä. (Raessens & Goldstein 2005, 24)
 
-Tänä ajanjaksona ei voitu vielä puhua siis pelikonsoleista, vaan pelit pyörivät erilaisten instrumenttien tai tietokoneiden kautta, eikä kuluttajille kotiin myytäviä pelikonsoleita oltu vielä kehitetty.
+Ralph Baer taas oli jo 44-vuotias arvostettu insinööri elektroniikkayhtiössä, kun hän vuonna 1966 esitteli televisioon yhdistettävän laitteen, jolla pystyi pelata 
+
+Tänä ajanjaksona pelit pyörivät erilaisten tieteellisten instrumenttien, tietokoneiden tai pelikonsolien prototyyppien kautta, mutta kuluttajille kotiin myytäviä pelikonsoleita oltu vielä kehitetty ja tuotu markkinoille.
 
 
 ### 2.2 1970-luku
