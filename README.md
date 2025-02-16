@@ -67,7 +67,7 @@ Kolme nimeä tulee esiin, kun mietitään videopelien varsinaista keksijää: St
 
 Ralph Baer taas oli jo 44-vuotias arvostettu insinööri elektroniikkayhtiössä, kun hän vuonna 1966 esitteli televisioon yhdistettävän laitteen, jolla pystyi pelaamaan pöytätennistä simuloivaa peliä. Jatkokehitys johti vuonna 1967 jääkiekkoa simuloivaan videopeliin. 1968 hän keksi menetelmän, jolla pelejä voitaisiin tarjota ihmisten olohuoneisiin ja televisiohin kaapelin kautta, samalla periaattella kuin kaapelitelevisio toimi. Idea kuitenkin hyllytettiin muutamaksi vuodeksi kaapeliyhtiöiden vastahakoisuuden takia. Ralph Bauerin suurin panos videopelien ja pelikonsolien kehityksessä oli hänen ideansa tuoda videopelit tarjolle kuluttajien kotien yksityisyyteen - häntä voidaan ajatella kotivideopelikonsolin isänä. (Raessens & Goldstein 2005, 24-25)
 
-Tänä ajanjaksona pelit pyörivät erilaisten tieteellisten instrumenttien, tietokoneiden tai pelikonsolien prototyyppien kautta, mutta kuluttajille kotiin myytäviä pelikonsoleita oltu vielä kehitetty ja tuotu markkinoille.
+Tänä ajanjaksona pelit pyörivät erilaisten tieteellisten instrumenttien, tietokoneiden tai pelikonsolien prototyyppien kautta, mutta kuluttajille kotiin myytäviä pelikonsoleita oltu vielä tuotu markkinoille.
 
 
 ### 2.2 1970-luku
