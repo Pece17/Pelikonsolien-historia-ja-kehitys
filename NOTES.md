@@ -3,6 +3,7 @@
 - Miten kehittyi tehot ja teknologia, kulttuurisesti myös
 - yritä työstää opparia 6h joka pvä
 - https://www.theseus.fi/bitstream/handle/10024/96156/Vaananen_Jouko.pdf?sequence=1&isAllowed=y mallia samankaltaiseen oppariin
+- https://www.theseus.fi/bitstream/handle/10024/863736/Iivarinen_Lauri.pdf?sequence=2&isAllowed=y
 - https://libguides.haaga-helia.fi/lahdeviittaamisen-tueksi/viittaa
 - https://www.haaga-helia.fi/fi/amk/opinnaytetyo-amk-opinnot
 - https://libguides.haaga-helia.fi/lahdeviittaamisen-tueksi/tekstiviitteet-ja-lahdeluettelo
