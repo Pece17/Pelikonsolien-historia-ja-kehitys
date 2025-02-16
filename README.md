@@ -34,7 +34,7 @@ Lähteet
 
 ## 1 Johdanto
 
-Tämän opinnäytetyön tavoitteena on tarkastella kotikäyttöön tarkoitettujen videopelikonsolien historiaa, kehitystä ja (tulevaisuutta). Tarkastelen pelikonsolien historiaa ja kehitystä (lähinnä) teknologisesta näkökulmasta käyden läpi 1970-2020 -luvut tähän päivään saakka, sekä pohdin pelikonsolien tulevaisuutta, kun lähestymme 2030-lukua. Kerron työssäni jokaisen vuosikymmennen muutamista teknologisesti ja kulttuurisesti merkittävimmistä pelikonsoleista. Olen rajannut opinnäytetyön aiheen kotivideopelikonsoleihin, eli en käsittele esimerksi käsikonsoleita, joita ei ei ole suunniteltu yhdistettävän ulkoisiin näyttöihin, julkisia kolikkovideopelejä tai pelitietokoneita.
+Tämän opinnäytetyön tavoitteena on tarkastella kotikäyttöön tarkoitettujen videopelikonsolien historiaa, kehitystä ja (tulevaisuutta). Tarkastelen pelikonsolien historiaa ja kehitystä lähinnä teknologisesta näkökulmasta käyden läpi 1970-2020 -luvut tähän päivään saakka, sekä pohdin pelikonsolien tulevaisuutta, kun lähestymme 2030-lukua. Kerron työssäni jokaisen vuosikymmennen muutamista teknologisesti ja kulttuurisesti merkittävimmistä pelikonsoleista. Olen rajannut opinnäytetyön aiheen kotivideopelikonsoleihin, eli en käsittele esimerksi käsikonsoleita, joita ei ei ole suunniteltu yhdistettävän ulkoisiin näyttöihin, julkisia kolikkovideopelejä tai pelitietokoneita.
 
 Valitsin tämän aiheen, koska olen harrastanut videopelaamista erityisesti konsoleilla lapsesta saakka, ja olin kiinnostunut oppimaan enemmän historiallisista pelikonsoleista ja niiden teknologisista kehitysaskeleista.
 
@@ -42,6 +42,8 @@ Tutkimusmenetelmä opinnäytetyössä oli kirjallisuuskatsaus käyttäen laadukk
 
 
 ### 1.1 Käsitteet
+
+videopeli
 
 Kotivideopelikonsoli
 
@@ -61,7 +63,7 @@ Vuosia 1958-1972 voidaan ajatella videopelien esihistoriana ja kokeilun ajanjaks
 
 Vuonna 1958 Willy Higinbotham, insinööri Brookhaven National Laboratory -tutkimuslaitoksesta, ehdotti jotain jännittävämpää esiteltävää vierailijoille avointen ovien päivänä, kuin perinteiset tilastot ja yritysesitelmät. Hän muunsi oskilloskoopin, laitteen joka muuttaa värähtelyjä aaltomaiseksi liikkeeksi näytöllä, eräänlaiseksi tennis-peliksi. Higinbothamin keksinnössä valopilkku toimi pallona, ja kahden napillisen laatikon, ensimmäisten peliohjainten, aavulla pelaajat pystyivät säätämään "lyöntien" kulmaa. Pelin nimeksi hän keksi osuvasti "Tennis for Two". Higinbotham ei kuitenkaan patentoinut keksintöään tai ollut kiinnostunut sen käytännöllisistä sovelluksista, vaan piti sitä pelkästään mielekkäänä tapana havainnollistaa oskilloskoopin toimintaa. (Raessens & Goldstein 2005, 23)
 
-
+Kolme nimeä tulee esiin, kun mietitään videopelien varsinaista keksijää: Steve Russell, Ralph Baer ja Nolan Bushnell. Steve Russell oli vasta opiskelija 
 
 Tänä ajanjaksona ei voitu vielä puhua siis pelikonsoleista, vaan pelit pyörivät erilaisten analogisten prototyyppien päällä, eikä kuluttajille kotiin myytäviä pelikonsoleita oltu vielä kehitetty.
 
