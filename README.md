@@ -50,9 +50,9 @@ Flipperi =
 
 ## 2.1 Esihistoria
 
-Vuosia 1958-1972 voidaan ajatella videopelien esihistoriana ja kokeilun ajanjaksona, jolloin monet eri ihmiset erilaisilla taustoilla antoivat oman panoksensa videopelien kehitykselle. Jo aikaisemmin syntyneet huviteollisuus, joka käsitti esimerkiksi flipperit ja lautapelit, sekä nopeasti kehittyvä tietokoneteknologia olivat raivanneet tietä tälle tulevalle populaarikulttuurin muodolle. (Raessens & Goldstein 2005, 23-25)
+Vuosia 1958-1972 voidaan ajatella videopelien esihistoriana ja kokeilun ajanjaksona, jolloin monet eri ihmiset erilaisilla taustoilla antoivat oman panoksensa videopelien kehitykselle. Jo aikaisemmin syntyneet huviteollisuus, joka käsitti esimerkiksi flipperit ja lautapelit, sekä nopeasti kehittyvä tietokoneteknologia olivat raivanneet tietä tälle tulevalle populaarikulttuurin muodolle. (Raessens & Goldstein 2005, 23)
 
-Vuonna 1958 Willy Higinbotham, insinööri Brookhaven National Laboratory -tutkimuslaitoksesta, ehdotti jotain jännittävämpää näytettävää vierailijoille avointen ovien päivänä, kuin perinteiset tilastot ja yritysesitelmät. Hän muunsi oskilloskoopin, laitteen joka muuttaa värähtelyjä aaltomaiseksi liikkeeksi näytöllä, eräänlaiseksi tennis-peliksi. Higinbothamin keksinnössä valopilkku toimi pallona, ja kahden laatikon 
+Vuonna 1958 Willy Higinbotham, insinööri Brookhaven National Laboratory -tutkimuslaitoksesta, ehdotti jotain jännittävämpää näytettävää vierailijoille avointen ovien päivänä, kuin perinteiset tilastot ja yritysesitelmät. Hän muunsi oskilloskoopin, laitteen joka muuttaa värähtelyjä aaltomaiseksi liikkeeksi näytöllä, eräänlaiseksi tennis-peliksi. Higinbothamin keksinnössä valopilkku toimi pallona, ja kahden napillisen laatikon aavulla pelaajat pystyivät säätää "lyöntien" kulmaa. (Raessens & Goldstein 2005, 23)
 
 Tänä ajanjaksona ei voitu kuitenkaan vielä puhua siis pelikonsoleista, vaan pelit pyörivät erilaisten analogisten prototyyppien päällä, eikä kuluttajille kotiin myytäviä pelikonsoleita oltu vielä kehitetty.
 
