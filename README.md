@@ -15,6 +15,7 @@ Amk-opinnäytetyöohje\
 ## Sisällys
 
 1 Johdanto\
+  1.1 Käsitteet
 2 Pelikonsolien historia ja kehitys\
   2.1 Esihistoria\
   2.2 1970-luku\
