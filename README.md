@@ -125,7 +125,7 @@ minkälaisia hakusanoja, raportoi, missä?
 
 ### 3.1 Kuvaileva kirjallisuuskatsaus (menetelmän esittely)​
 
-    
+Kirjallisuuskatsaus tarkoittaa tutkimustapaa, joka tutkii muiden tutkijoiden alkuperäisiä tutkimuksia tarkoituksenaan tunnistaa, arvioida, tulkita ja yhdistää jo olemassa olevaa tietoa. Päämääränä on tiivistää olennainen tieto näistä tutkimuksista valitussa aihepiirissä sekä tehdä johtopäätökset ennalta valittuun tutkimuskysymykseen. (Vilkka 2023, 1.1.1)
 
 
 ### 3.2 Menetelmän käyttö ja tutkimuksen aineisto (aineiston esittely)
