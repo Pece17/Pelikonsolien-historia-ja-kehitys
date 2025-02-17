@@ -130,6 +130,9 @@ Päädyin työstämään opinnäyteytyötäni GitHubissa, jonne olin ennenkin te
 ### 3.3 Pelikonsolien historia ja kehitys (tulokset)
 
 
+## 4 Johtopäätökset
+
+
 ## Lähteet
 
 - http://www.zachhorton.com/wp-content/uploads/2020/08/Horton-a-%E2%80%9Ctotal-play-and-learning-experience%E2%80%9D_-the-magnavox-odyssey%E2%80%99s-1972-dream-of-media-convergence.pdf
