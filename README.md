@@ -127,7 +127,7 @@ minkälaisia hakusanoja, raportoi, missä?
 
 Kirjallisuuskatsaus tarkoittaa tutkimustapaa, joka tutkii muiden tutkijoiden alkuperäisiä tutkimuksia tarkoituksenaan tunnistaa, arvioida, tulkita ja yhdistää jo olemassa olevaa tietoa. Päämääränä on tiivistää olennainen tieto näistä tutkimuksista valitussa aihepiirissä sekä tehdä johtopäätökset ennalta valittuun tutkimuskysymykseen. Kirjallisuuskatsaus ei ole raportti tai essee. (Vilkka 2023, 1.1.1.)
 
-Kirjallisuuskatsaustyyppejä on neljä: narratiivinen katsaus, integratiivinen katsaus, systemaattinen kirjallisuuskatsaus sekä meta-analyysi (Vilkka 2023, 1.1.3). Keskitymme tässä osiossa vain kuvailevaan kirjallisuuskatsaukseen.
+Kirjallisuuskatsaustyyppejä on neljä: narratiivinen katsaus, integratiivinen katsaus, systemaattinen kirjallisuuskatsaus sekä meta-analyysi (Vilkka 2023, 1.1.3). Keskitymme tässä osiossa vain narratiiviseen tai kuvailevaan kirjallisuuskatsaukseen. Sen lähtökohtana on selvittää mitä valitusta ilmiöstä tiedetään aiempien tutkimusten perusteella, mitkä ovat keskeisiä käsitteitä ilmiössä ja käsitteiden keskinäiset suhteet. Kuvailevalla kirjallisuuskatsauksella voidaan kerätä tietoa monista eri tutkimuksista ja järjestää niistä laaja yleiskäsitys valitusta aiheesta ja sen tieteenalan tilasta - näin voidaan esimerkiksi selvittää onko aiheesta tarvetta suorittaa lisätutkimuksia. Vertailemalla monia eri tutkimuksia ja niiden mahdollisia vajavaisuuksia ja virheitä, voidaan muodostaa yhtenäisempi ja eheämpi kuva aiheesta. (Vilkka 2023, 1.2.1.)
 
 
 ### 3.2 Menetelmän käyttö ja tutkimuksen aineisto (aineiston esittely)
