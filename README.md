@@ -120,6 +120,8 @@ Päädyin työstämään opinnäyteytyötäni GitHubissa, jonne olin ennenkin te
 
 (Yritin aluksi kirjoittaa opinnäytetyötä tuntikausia putkeen, mutta totesin nopeasti tämän olevan kestämätön taktiikka minulle. Päädyin noudattamaan rutiinia, jossa tavoittelin kolme tuntia tehokasta työaikaa niinä päivinä, kun aikatauluni sen salli. Tein keskittynyttä työtä 45 minuutin sykleissä, jonka jälkeen pidin 10-15 minuutin tauon. Neljä 45 minuutin sykliä tarkoitti noin kolmea tuntia tehokasta, keskittynyttä työaikaa.) (EHKÄ EI SOVI TÄLLÄINEN OPPARIIN?)
 
+minkälaisia hakusanoja, raportoi, missä?
+
 
 ### 3.1 Kuvaileva kirjallisuuskatsaus (menetelmän esittely)​
 
