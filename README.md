@@ -51,6 +51,8 @@ Flipperi
 
 Oskilloskooppi
 
+kovakoodaus
+
 
 ## 2 Pelikonsolien historia ja kehitys
 
@@ -74,7 +76,7 @@ Tänä ajanjaksona 1958-1972 videopelit pyörivät erilaisten tieteellisten inst
 
 ### 2.2 1970-luku
 
-Vuonna 1972 julkaistiin historian ensimmäinen kotivideopelikonsoli, Magnavox Odyssey, joka perustui Ralph Baerin aikaisempiin prototyyppeihin (Horton 2019, 76). Se oli moderneihin pelikonsoleihin verrattuna yksinkertainen, täysin anologinen laite, joka teki kuvamuodostuksesta ja pelivalikoimasta (rajoittuneita). Ei vielä ollut erikseen pelejä ja pelikonsolia, vaan pelikonsoliin oli sisäänrakennettu kaikki 12 samankaltaista maila ja pallo -teemaista peliä. Ei ollut mahdollista ostaa uusia pelejä. Magnavox Odyssey ei myöskään hyödyntänyt suurimpaa osaa mahdollisuuksista mitä sen aikaiset televisiosetit tarjosivat: kuva oli mustavalkoinen ja ääntä ei ollut. Väriongelma lopulta ratkaistiin muovisilla ja värikkäillä ruudun päällisillä, jotka loivat illuusion väripeleistä. Magnavox Odyssey -konsolia pidetään nykyään marginaalisena pelikonsolien historiassa, mutta se saavutti silti  (Raessens & Goldstein 2005, 26.)
+Vuonna 1972 julkaistiin historian ensimmäinen kotivideopelikonsoli, Magnavox Odyssey, joka perustui Ralph Baerin aikaisempiin prototyyppeihin (Horton 2019, 76). Se oli moderneihin pelikonsoleihin verrattuna yksinkertainen, täysin anologinen laite, joka teki kuvamuodostuksesta ja pelivalikoimasta rajoittunutta. Ei vielä ollut erikseen pelejä ja pelikonsolia, vaan pelikonsoliin oli kovakoodattu kaikki noin kaksitoista samankaltaista maila ja pallo -teemaista peliä. Ei ollut mahdollista ostaa uusia pelejä. Magnavox Odyssey ei myöskään hyödyntänyt suurimpaa osaa mahdollisuuksista mitä sen aikaiset televisiosetit tarjosivat: kuva oli mustavalkoinen ja ääntä ei ollut. Väriongelma lopulta "ratkaistiin" muovisilla ja värikkäillä ruudun päällisillä, jotka loivat illuusion väripeleistä. Magnavox Odyssey -konsolia pidetään nykyään marginaalisena pelikonsolien historiassa, mutta se saavutti silti kohtalaista suosiota, eikä kilpailevia pelikonsoleita tullut markkinoille vähään aikaan - suurimman kilpailun se kävi kolikkovideopelien kanssa. (Raessens & Goldstein 2005, 26.)
 
 
 ### 2.3 1980-luku
