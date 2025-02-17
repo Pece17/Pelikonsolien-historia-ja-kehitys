@@ -28,7 +28,7 @@ Amk-opinnäytetyöohje\
 3 Tutkimuksen toteutus\
   3.1 Kuvaileva kirjallisuuskatsaus (menetelmän esittely)​\
   3.2 Menetelmän käyttö ja tutkimuksen aineisto (aineiston esittely)\
-  3.3 Pelikonsolien historia ja kehitys (tulokset)\
+  3.3 Tulokset\
 4 Johtopäätökset
 Lähteet
 
@@ -127,7 +127,7 @@ Päädyin työstämään opinnäyteytyötäni GitHubissa, jonne olin ennenkin te
 ### 3.2 Menetelmän käyttö ja tutkimuksen aineisto (aineiston esittely)
 
 
-### 3.3 Pelikonsolien historia ja kehitys (tulokset)
+### 3.3 Tulokset
 
 
 ## 4 Johtopäätökset
