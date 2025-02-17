@@ -103,6 +103,8 @@ ps4, stadia
 
 Käytin opinnäytetyön sisällön ideointiin ja rajaukseen hyödyksi ChatGPT:tä. Käytin kehoitetta: "Teen opinnäytetyötä aiheesta "Pelikonsolien historia ja kehitys", ja ajattelin käydä läpi 1970-2020 -luvut yksitellen - tarkoituksenani on kertoa miten konsolit ja niiden teknologia kehittyivät jokaisella vuosikymmenellä. Tarvitsen apua aiheen ja sisällön ideointiin ja rajaukseen. Keskityn opinnäytetyössäni teknologiseen näkökulmaan."
 
+Käytin Google Scholaria lähteiden etsimiseen, mikä osoitti omat haasteensa. Löysin monta laadukkaan tuntuista kirjaa videopelikonsolien historiaan ja kehitykseen liittyen, mutta lähes kaikki tarjosivat vain rajoitetun määrän sivuja esikatseltavaksi. Handbook of Computer Game Studies -kirjan, jota käytin yhtenä päälähteistäni onnistuin lainaamaan Internet Archive -kirjastosta tekemällä sinne tilin - olin päättäväinen 
+
 
 ### 3.1 Kuvaileva kirjallisuuskatsaus (menetelmän esittely)​
 
