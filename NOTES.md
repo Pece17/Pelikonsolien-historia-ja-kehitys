@@ -165,3 +165,55 @@ Tämä lähestymistapa yhdistää tietojenkäsittelyn ja pelikonsolien historian
 ---
 
 These consoles represent the defining moments of gaming in each decade, shaping everything from game design to the way we play and interact with video games. Let me know if you'd like to dive deeper into any of these!
+
+epävarma opparin scopesta, tuntuu vaikealta löytää tietoa Google Scholarin kautta, otinko liian ison scopen, osa 
+
+kirjoista scholarissa vain osan kirjasta antaa lukea, eikä monia pysty lainata? olenko kirjoittanut liikaa 
+
+ensimmäisiin kappaleisiin?
+
+olen epävarma opparin rakenteesta ja minkälaisia otsikoita pitäisi olla, aloitin kurssin 5 viikkoa jäljessä, joten 
+
+paljon opittavaa kerralla
+
+onko tarkoituksena tehdä hyvä essee sisällön osalta vai osoittaa, että osaa tehdä tutkimustyylisen raportin?
+
+Word ei toimi, Windows 7 liian vanha, pitää harkita uutta läppäriä, toistaiseksi vain githubissa löytyy
+
+hyödynnä muiden oppareiden lähteitä
+
+tietoperustan ja aineiston ero? Mikä on kirjallisuuskatsaus? Miksei voi käyttää samoja lähteitä aineistossa ja 
+
+kirjallisuuskatsauksen käsittelyssä? Miten lähteitä käsitellään kirjallisuuskatsauksessa?
+
+6-10 lähdettä kirjallisuuskatsauksen aineistoon
+
+mitkä on mun tutkimusongelmat? Teoria/Tutkimus selvitä millainen on ollut kehitys pelikonsolien historiassa
+
+Teoriaosuus chatgpt:
+
+    Miten pelikonsolien teknologinen kehitys on vaikuttanut pelaajien kokemuksiin?
+    Miten pelikonsolit ovat muovanneet peliteollisuutta ja pelaajakulttuuria?
+    Miten pelikonsolien markkinointi ja brändäys ovat vaikuttaneet niiden menestykseen?
+    Miten pelikonsolien teknologinen kehitys on vaikuttanut pelikehitykselle ja pelisuunnittelulle?
+    Millaisia kulttuurisia ja yhteiskunnallisia vaikutuksia pelikonsolien suosio on aiheuttanut?
+
+Tutkimusosuus:
+
+    Miten eri pelikonsolien myyntiluvut ja suosion nousu ja lasku ovat vertailtavissa?
+    Miten eri sukupolvien pelikonsolit eroavat toisistaan teknisesti ja kulttuurisesti?
+    Miten pelikonsolien kehitys on ollut yhteydessä tietokonepelien kehitykseen?
+    Mikä rooli on ollut konsoliyksinoikeuksilla pelien kehittämisessä ja markkinoinnissa?
+    Miten uudet konsolipolvet, kuten PlayStation 5 ja Xbox Series X, eroavat edeltäjistään ja mihin suuntaan 
+
+konsolien kehitys menee tulevaisuudessa?
+
+Yleisiä kysymyksiä:
+
+    Miten pelikonsolien ekosysteemit (pelit, laitteet, verkkopalvelut) ovat kehittyneet ja vaikuttaneet 
+
+kuluttajakäyttäytymiseen?
+    Miten konsolien monitoiminnallisuus (esim. viihde, suoratoistopalvelut) on muuttanut niiden roolia 
+
+kotitalouksissa?
+    Miten pelikonsolien kehityksessä on otettu huomioon ympäristöystävällisyys ja kestävä kehitys?
