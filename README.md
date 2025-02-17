@@ -53,6 +53,8 @@ Oskilloskooppi
 
 kovakoodaus
 
+ChatGPT
+
 
 ## 2 Pelikonsolien historia ja kehitys
 
@@ -79,6 +81,8 @@ Tänä ajanjaksona 1958-1972 videopelit pyörivät erilaisten tieteellisten inst
 Vuonna 1972 julkaistiin historian ensimmäinen kotivideopelikonsoli, Magnavox Odyssey, joka perustui Ralph Baerin aikaisempiin prototyyppeihin (Horton 2019, 76). Se oli moderneihin pelikonsoleihin verrattuna yksinkertainen, täysin anologinen laite, joka teki kuvamuodostuksesta ja pelivalikoimasta rajoittunutta. Ei vielä ollut erikseen pelejä ja pelikonsolia, vaan pelikonsoliin oli kovakoodattu kaikki noin kaksitoista samankaltaista maila ja pallo -teemaista peliä. Ei ollut mahdollista ostaa uusia pelejä. Magnavox Odyssey ei myöskään hyödyntänyt suurimpaa osaa mahdollisuuksista mitä sen aikaiset televisiosetit tarjosivat: kuva oli mustavalkoinen ja ääntä ei ollut. Väriongelma lopulta "ratkaistiin" muovisilla ja värikkäillä ruudun päällisillä, jotka loivat illuusion väripeleistä. Magnavox Odyssey -konsolia pidetään nykyään marginaalisena pelikonsolien historiassa, mutta se saavutti silti kohtalaista suosiota, eikä kilpailevia pelikonsoleita tullut markkinoille vähään aikaan - suurimman kilpailun se kävi kolikkovideopelien kanssa. (Raessens & Goldstein 2005, 26.)
 
 
+
+
 ### 2.3 1980-luku
 
 
@@ -101,9 +105,9 @@ ps4, stadia
 
 ## 3 Tutkimuksen toteutus
 
-Käytin opinnäytetyön sisällön ideointiin ja rajaukseen hyödyksi ChatGPT:tä. Käytin kehoitetta: "Teen opinnäytetyötä aiheesta "Pelikonsolien historia ja kehitys", ja ajattelin käydä läpi 1970-2020 -luvut yksitellen - tarkoituksenani on kertoa miten konsolit ja niiden teknologia kehittyivät jokaisella vuosikymmenellä. Tarvitsen apua aiheen ja sisällön ideointiin ja rajaukseen. Keskityn opinnäytetyössäni teknologiseen näkökulmaan."
+Käytin opinnäytetyön sisällön ideointiin ja rajaukseen hyödyksi ChatGPT:tä. Käytin kehoitetta: "Teen opinnäytetyötä aiheesta "Pelikonsolien historia ja kehitys", ja ajattelin käydä läpi 1970-2020 -luvut yksitellen - tarkoituksenani on kertoa miten konsolit ja niiden teknologia kehittyivät jokaisella vuosikymmenellä. Tarvitsen apua aiheen ja sisällön ideointiin ja rajaukseen. Keskityn opinnäytetyössäni teknologiseen näkökulmaan." Kysyin ChatGPT:ltä myös listan jokaisen edellämainitun vuosikymmenen kulttuurisesti merkittävimmistä kotivideopelikonsoleista, mikä enimmäkseen oli hyödyllistä, mutta nosti myös esiin ChatGPT:n ja muiden tekoälyjen vajavaisuudet. ChatGPT ehdotti muun muassa yhdeksi 1990-luvun konsoliksi vuonna 1988 julkaistua konsolia, ja jätti 2000-luvulta merkittävimpiä konsoleita, kuten Sony PlayStation 3 ja Microsoft Xbox 360, pois, ja sen sijaan ehdotti suurelle yleisölle vähemmän tunnettuja tai merkittäviä konsoleita, kuten PlayStation Portable. Yritin myös kysyä ChatGPT:ltä apua lähteiden oikeaoppiseen merkkaamiseen, mutta tässäkin suhteessa tunsin etten voi luottaa onko tekoäly oikeassa. ChatGPT:lle ominainen ja huvittavakin piirre on itsevarmasti sanoa jotakin asiaa faktaksi, mutta kun käyttäjä huomauttaa vihreestä, niin ChatGPT pahoittelee ja ehdottaa uutta ratkaisua.
 
-Käytin Google Scholaria lähteiden etsimiseen, mikä osoitti omat haasteensa. Löysin monta laadukkaan tuntuista kirjaa videopelikonsolien historiaan ja kehitykseen liittyen, mutta lähes kaikki tarjosivat vain rajoitetun määrän sivuja esikatseltavaksi. Handbook of Computer Game Studies -kirjan, jota käytin yhtenä päälähteistäni onnistuin lainaamaan Internet Archive -kirjastosta tekemällä sinne tilin - olin päättäväinen 
+Käytin Google Scholaria lähteiden etsimiseen, mikä osoitti omat haasteensa. Löysin monta laadukkaan tuntuista kirjaa videopelikonsolien historiaan ja kehitykseen liittyen, mutta lähes kaikki tarjosivat vain rajoitetun määrän sivuja esikatseltavaksi. Handbook of Computer Game Studies -kirjan, jota käytin yhtenä päälähteistäni onnistuin lainaamaan Internet Archive -kirjastosta tekemällä sinne tilin. Muiden kirjojen kohdalla en ollut yhtä onnekas.
 
 
 ### 3.1 Kuvaileva kirjallisuuskatsaus (menetelmän esittely)​
