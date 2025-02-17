@@ -125,6 +125,8 @@ minkälaisia hakusanoja, raportoi, missä?
 
 ### 3.1 Kuvaileva kirjallisuuskatsaus (menetelmän esittely)​
 
+    
+
 
 ### 3.2 Menetelmän käyttö ja tutkimuksen aineisto (aineiston esittely)
 
@@ -140,6 +142,12 @@ minkälaisia hakusanoja, raportoi, missä?
 - http://www.zachhorton.com/wp-content/uploads/2020/08/Horton-a-%E2%80%9Ctotal-play-and-learning-experience%E2%80%9D_-the-magnavox-odyssey%E2%80%99s-1972-dream-of-media-convergence.pdf
 - https://books.google.fi/books?hl=fi&lr=&id=ErhNEAAAQBAJ&oi=fnd&pg=PA23&dq=history+of+video+game+consoles&ots=jx0n6Ubkn6&sig=-pLJB_9YwVlxI23I6f0_GntFcPU&redir_esc=y#v=onepage&q=history%20of%20video%20game%20consoles&f=false
 - https://books.google.fi/books?hl=fi&lr=&id=PTrcTeAqeaEC&oi=fnd&pg=PR7&dq=history+of+video+games&ots=apEv742Y7e&sig=olTOseIZWXJ6jO-E0egYREwkE60&redir_esc=y#v=onepage&q=history%20of%20video%20games&f=false
+
+- Hirsjärvi, S. 2009. Tutki ja kirjoita.​
+
+    Vilkka, H. 2021. Tutki ja kehitä. (myös e-kirja)​
+
+    Vilkka, H. 2023. Kirjallisuuskatsaus metodina, opinnäytetyön osana ja tekstilajina. (myös e-kirja)​
 
 Horton, Z. 2019. A “Total Play and Learning Experience”: The Magnavox Odyssey’s 1972 Dream of Media Convergence. Continent, 8, 1-2, s. 76-86.
 
