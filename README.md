@@ -55,6 +55,10 @@ kovakoodaus
 
 ChatGPT
 
+GitHub
+
+Git-versiohallinta
+
 
 ## 2 Pelikonsolien historia ja kehitys
 
@@ -105,9 +109,11 @@ ps4, stadia
 
 ## 3 Tutkimuksen toteutus
 
-Käytin opinnäytetyön sisällön ideointiin ja rajaukseen hyödyksi ChatGPT:tä. Käytin kehoitetta: "Teen opinnäytetyötä aiheesta "Pelikonsolien historia ja kehitys", ja ajattelin käydä läpi 1970-2020 -luvut yksitellen - tarkoituksenani on kertoa miten konsolit ja niiden teknologia kehittyivät jokaisella vuosikymmenellä. Tarvitsen apua aiheen ja sisällön ideointiin ja rajaukseen. Keskityn opinnäytetyössäni teknologiseen näkökulmaan." Kysyin ChatGPT:ltä myös listan jokaisen edellämainitun vuosikymmenen kulttuurisesti merkittävimmistä kotivideopelikonsoleista, mikä enimmäkseen oli hyödyllistä, mutta nosti myös esiin ChatGPT:n ja muiden tekoälyjen vajavaisuudet. ChatGPT ehdotti muun muassa yhdeksi 1990-luvun konsoliksi vuonna 1988 julkaistua konsolia, ja jätti 2000-luvulta merkittävimpiä konsoleita, kuten Sony PlayStation 3 ja Microsoft Xbox 360, pois, ja sen sijaan ehdotti suurelle yleisölle vähemmän tunnettuja tai merkittäviä konsoleita, kuten PlayStation Portable. Yritin myös kysyä ChatGPT:ltä apua lähteiden oikeaoppiseen merkkaamiseen, mutta tässäkin suhteessa tunsin etten voi luottaa onko tekoäly oikeassa. ChatGPT:lle ominainen ja huvittavakin piirre on itsevarmasti sanoa jotakin asiaa faktaksi, mutta kun käyttäjä huomauttaa vihreestä, niin ChatGPT pahoittelee ja ehdottaa uutta ratkaisua.
+Käytin opinnäytetyön sisällön ideointiin ja rajaukseen hyödyksi ChatGPT:tä. Käytin kehoitetta: "Teen opinnäytetyötä aiheesta "Pelikonsolien historia ja kehitys", ja ajattelin käydä läpi 1970-2020 -luvut yksitellen - tarkoituksenani on kertoa miten konsolit ja niiden teknologia kehittyivät jokaisella vuosikymmenellä. Tarvitsen apua aiheen ja sisällön ideointiin ja rajaukseen. Keskityn opinnäytetyössäni teknologiseen näkökulmaan." Kysyin ChatGPT:ltä myös listan jokaisen edellämainitun vuosikymmenen kulttuurisesti merkittävimmistä kotivideopelikonsoleista, mikä enimmäkseen oli hyödyllistä, mutta nosti myös esiin ChatGPT:n ja muiden tekoälyjen vajavaisuudet. ChatGPT ehdotti muun muassa yhdeksi 1990-luvun konsoliksi erään vuonna 1988 julkaistun konsolin sekä jätti 2000-luvulta merkittävimpiä konsoleita, kuten Sony PlayStation 3:en ja Microsoft Xbox 360:en, pois, ja sen sijaan ehdotti suurelle yleisölle vähemmän tunnettuja tai merkittäviä konsoleita, kuten PlayStation Portablea. Yritin myös kysyä ChatGPT:ltä apua lähteiden oikeaoppiseen kirjaamiseen, mutta tässäkin suhteessa tunsin etten voi luottaa onko tekoäly oikeassa. ChatGPT:lle ominainen ja huvittavakin piirre on itsevarmasti väittää jotain asiaa faktaksi, mutta kun käyttäjä huomauttaa virheestä, niin ChatGPT pahoittelee ja ehdottaa uutta ratkaisua. ChatGPT ja muut tekoälyt sopivat parhaiten ideointiin, mutta faktojen tarkistukseen tarvitaan vielä ihmisen panosta.
 
 Käytin Google Scholaria lähteiden etsimiseen, mikä osoitti omat haasteensa. Löysin monta laadukkaan tuntuista kirjaa videopelikonsolien historiaan ja kehitykseen liittyen, mutta lähes kaikki tarjosivat vain rajoitetun määrän sivuja esikatseltavaksi. Handbook of Computer Game Studies -kirjan, jota käytin yhtenä päälähteistäni onnistuin lainaamaan Internet Archive -kirjastosta tekemällä sinne tilin. Muiden kirjojen kohdalla en ollut yhtä onnekas.
+
+Päädyin työstämään opinnäyteytyötäni GitHubissa, jonne olin ennenkin tehnyt monia AMK- ja harrasteprojekteja. GitHubin suurimpia etuja ovat mielestäni Git-versiohallinta, jonka avulla jokainen teksteihin tai tiedostoihin tehty muutos pysyy historiassa ja aiempiin versioihin pystyy palata ketterästi. Toinen iso etu verrattuna WYSIWYG-ohjelmiin (What You See Is What You Get), kuten Microsoft Wordiin, on se, että sisällön ulkoasua ei muokata kirjoittaessa, vaan GitHub noudattaa Markdown-merkintäkieltä, jossa on oma yksinkertainen logiikkansa. Markdown-teksti on siis yksinkertaista koodausta, jonka avulla sen voi suoraan kopioida muihin Markdown-merkintäkieltä ymmärtäviin sovelluksiin, ja valmiin tekstin muotoilu näkyy automaattisesti. 
 
 
 ### 3.1 Kuvaileva kirjallisuuskatsaus (menetelmän esittely)​
