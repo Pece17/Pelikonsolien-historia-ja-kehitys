@@ -29,7 +29,7 @@ Amk-opinnäytetyöohje\
   3.1 Kuvaileva kirjallisuuskatsaus (menetelmän esittely)​\
   3.2 Menetelmän käyttö ja tutkimuksen aineisto (aineiston esittely)\
   3.3 Tulokset\
-4 Johtopäätökset
+4 Johtopäätökset\
 Lähteet
 
 
