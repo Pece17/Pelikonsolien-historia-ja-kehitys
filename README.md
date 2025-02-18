@@ -22,8 +22,8 @@ Amk-opinnäytetyöohje\
   2.3 1980-luku\
   2.4 1990-luku\
   2.5 2000-luku\
-  2.6 2010-luku\
-  2.7 2020-luku\
+  (2.6 2010-luku)\
+  (2.7 2020-luku)\
   (2.8 Tulevaisuus)\
 3 Tutkimuksen toteutus\
   3.1 Kuvaileva kirjallisuuskatsaus​\
@@ -93,12 +93,10 @@ Vuonna 1972 julkaistiin historian ensimmäinen kotivideopelikonsoli, Magnavox Od
 ### 2.5 2000-luku
 
 
-### 2.6 2010-luku
-
-ps4, stadia
+### (2.6 2010-luku)
 
 
-### 2.7 2020-luku
+### (2.7 2020-luku)
 
 
 ### (2.8 Tulevaisuus)
