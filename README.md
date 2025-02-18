@@ -154,4 +154,4 @@ Kirjallisuuskatsaustyyppejä on neljä: narratiivinen katsaus, integratiivinen k
 
 Horton, Z. 2019. A “Total Play and Learning Experience”: The Magnavox Odyssey’s 1972 Dream of Media Convergence. Continent, 8, 1-2, s. 76-86.
 
-Raessens J. & Goldstein J. 2005. Handbook of Computer Game Studies. 1. pehmeäkantinen painos. MIT Press. Cambridge, MA.\
+Raessens J. & Goldstein J. 2005. Handbook of Computer Game Studies. MIT Press. Cambridge, MA.\
