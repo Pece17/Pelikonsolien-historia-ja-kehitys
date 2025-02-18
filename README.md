@@ -1,4 +1,4 @@
-# Pelikonsolien historia ja kehitys
+# Pelikonsolien historia ja kehitys (1900-luvulla?)
 
 Pekka Hämäläinen
 
@@ -41,7 +41,7 @@ Valitsin tämän aiheen, koska olen harrastanut videopelaamista erityisesti kons
 
 Tutkimusmenetelmä opinnäytetyössä oli kuvaileva kirjallisuuskatsaus käyttäen mahdollisimman laadukkaita lähteitä (esimerksi) Google Scholarin kautta.
 
-Tutkimuskysymykseni olivat: miten videopelikonsolit ovat kehittyneet niiden alkuajoista tähän päivään saakka (scope?) sekä minkälaista tutkimustietoa aiheesta löytyy?
+Tutkimuskysymykseni olivat: miten kotivideopelikonsolit ovat kehittyneet niiden alkuajoista tähän päivään saakka (scope?) sekä minkälaista laadukasta tutkimustietoa aiheesta löytyy?
 
 
 ### 1.1 Käsitteet (ONKO TARPEEN?)
@@ -60,6 +60,8 @@ ChatGPT
 ## 2 Pelikonsolien historia ja kehitys
 
 (Ensimmäiset "pelikonsolit" olivat 1950-luvulla kehitetyt prototyypit...) Kotikäyttöön tarkoitettujen kotivideopelikonsolien historia alkaa 1970-luvulta. Ne tarkoittavat erilliseen näyttöön, kuten televisioon tai tietokoneen näyttöön, liitettäviä konsoleita, joissa on ulkoinen virtalähde. Ensimmäisenä pelin
+
+(Mitä tähän osioon voisi kirjoittaa?)
 
 
 ## 2.1 Esihistoria
@@ -81,7 +83,7 @@ Tänä ajanjaksona 1958-1972 videopelit pyörivät erilaisten tieteellisten inst
 
 Vuonna 1972 julkaistiin historian ensimmäinen kotivideopelikonsoli, Magnavox Odyssey, joka perustui Ralph Baerin aikaisempiin prototyyppeihin (Horton 2019, 76). Se oli moderneihin pelikonsoleihin verrattuna yksinkertainen, täysin anologinen laite, joka teki kuvamuodostuksesta ja pelivalikoimasta rajoittunutta. Ei vielä ollut erikseen pelejä ja pelikonsolia, vaan pelikonsoliin oli kovakoodattu kaikki noin kaksitoista samankaltaista maila ja pallo -teemaista peliä. Lähteen mukaan ei ollut mahdollista ostaa uusia pelejä. (Raessens & Goldstein 2005, 26.) Tämä on kuitenkin ristiriidassa toisen lähteen kanssa, jonka mukaan konsoliin oli mahdollista ostaa erikseen kivääriä muistuttava peliohjain sekä uusia pelejä konsoliin liitettävien kasettien muodossa (Richard 2015, 29). Magnavox Odyssey ei myöskään hyödyntänyt suurimpaa osaa mahdollisuuksista mitä sen aikaiset televisiosetit tarjosivat: kuva oli mustavalkoinen ja ääntä ei ollut (Raessens & Goldstein 2005, 26). Äänen puuttuminen johtui ahneudesta ja kustannusten leikkaamisesta - Magnavox-yhtiö yksinkertaisesti poisti Odyssey-konsolin äänisirun (Richard 2015, 29). Väriongelma lopulta "ratkaistiin" muovisilla ja värikkäillä ruudun päällisillä, jotka loivat illuusion väripeleistä. Magnavox Odyssey -konsolia pidetään nykyään marginaalisena pelikonsolien historiassa, mutta se saavutti silti kohtalaista suosiota, eikä kilpailevia pelikonsoleita tullut markkinoille vähään aikaan - suurimman kilpailun se kävi kolikkovideopelien kanssa. (Raessens & Goldstein 2005, 26.) Noin 300 000 konsolia myytiin kaiken kaikkiaan (Richard 2015, 30).
 
-
+Lähteen mukaan vuonna 1974 Atari toi Home Pong -videopelikonsolin markkinoille, mikä ei eronnut paljoa Magnavox Odyssey -konsolista. Myös muut yhtiöt tulivat pian apajille ja julkaisivat omat pallo ja maila -pelivariaationsa, joista jokainen tarjosi jotain uutta: esimerkiksi digitaalisen konsolin, nelinpelin mahdollisuuden, värikuvan tai peliäänet. (Raessens & Goldstein 2005, 26.) Home Pongin virallinen nimi oli toisen lähteen mukaan Sears Tele-Games Pong (viitaten Sears-tavarataloketjuun, jolla oli yksinmyyntisopimus Atarin kanssa). Vaikka Home Pong oli Magnavox Odysseytä riisutumpi pelien puolesta, sillä se sisälsi vain Pong-pelin, ja vain marginaalisesti kehittyneempi teknologisesti, se oli brändinä paljon tunnetumpi Pong-kolikkovideopelien ansioista, ja saavutti suuremman suosion. Matkijoita myös riitti - kahden vuoden päästä markkinoilla oli yli 60 erilaista variaatiota Home Pong -konsolista.  (Richard 2015, 47.)
 
 
 ### 2.3 1980-luku
