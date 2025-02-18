@@ -131,6 +131,8 @@ Kirjallisuuskatsaustyyppejä on neljä: narratiivinen katsaus, integratiivinen k
 
 Kuvailevan kirjallisuuskatsauksen tarkoituksena on ymmärtää ilmiö kyseenalaistamisen, tunnistamisen, vahvistamisen tai tutkimuksen herättämien mahdollisten kysymyksien tai ongelmien esiin tuomisen näkökulmasta. Vakuuttava ja johdonmukainen argumentointi on oleellista ymmärretyn ilmiön kuvailemisessa. Tutkijan tietämys ilmiöstä usein kasvaa kehämäisesti kuvailevaa kirjallisuuskatsausta työstäessä, kun hän lukee, järjestelee ja analysoi tutkimusaineistoa. Kuvaileva kirjallisuuskatsaus sallii vapaamuotoisemman tiedonhaun ja aineistojen valintakriteerien määrittelyn, kuin muut katsaustyypit, sekä myös intuitiivisemman tavan ymmärtää ja analysoida aineistoa.  (Vilkka 2023, 1.2.1.)
 
+Kuvailevan kirjallisuuskatsauksen subjektiivisen prosessin: syventävän lukemisen, luetun ymmärtämisen ja tulkinnan, myötä ajatellaan, että tutkimuskysymykset voivat myös hioutua. Tiedonhaun subjektiivisuutta on kritisoitu, mutta myös kiitelty, koska se sallii erityiskysymyksiin suuntautumisen ja niiden aineistölähtöisen tarkastelun osittain päällekkäin etenevien vaiheiden kautta. (Vilkka 2023, 1.2.1.)
+
 
 ### 3.2 Kuvailevan kirjallisuuskatsauksen käyttö ja tutkimuksen aineisto
 
