@@ -46,7 +46,7 @@ Tutkimuskysymykseni olivat: miten videopelikonsolit ovat kehittyneet niiden alku
 
 ### 1.1 Käsitteet (ONKO TARPEEN?)
 
-Videopeli
+Videopeli  Videopeli on kattotermi, joka tarkoittaa kaikkia viihdesovelluksia, joita käytetään erilaisten pelikonsolien tai laitteiden kautta (Cheng, Cheung & Wang 2018).
 
 Kotivideopelikonsoli
 
@@ -146,6 +146,7 @@ Aiheeseeni osoittautui hankalaksi löytää tutkimuksia...kirjoja löytyi paremm
 - http://www.zachhorton.com/wp-content/uploads/2020/08/Horton-a-%E2%80%9Ctotal-play-and-learning-experience%E2%80%9D_-the-magnavox-odyssey%E2%80%99s-1972-dream-of-media-convergence.pdf
 - https://books.google.fi/books?hl=fi&lr=&id=ErhNEAAAQBAJ&oi=fnd&pg=PA23&dq=history+of+video+game+consoles&ots=jx0n6Ubkn6&sig=-pLJB_9YwVlxI23I6f0_GntFcPU&redir_esc=y#v=onepage&q=history%20of%20video%20game%20consoles&f=false
 - https://books.google.fi/books?hl=fi&lr=&id=PTrcTeAqeaEC&oi=fnd&pg=PR7&dq=history+of+video+games&ots=apEv742Y7e&sig=olTOseIZWXJ6jO-E0egYREwkE60&redir_esc=y#v=onepage&q=history%20of%20video%20games&f=false
+- https://www.sciencedirect.com/science/article/pii/S0747563218303108
 
 - Hirsjärvi, S. 2009. Tutki ja kirjoita.​
 
@@ -154,8 +155,10 @@ Aiheeseeni osoittautui hankalaksi löytää tutkimuksia...kirjoja löytyi paremm
     Vilkka, H. 2023. Kirjallisuuskatsaus metodina, opinnäytetyön osana ja tekstilajina. (myös e-kirja)​
 
 
+Cheng, C., Cheung M. W.-L. & Wang, H. 2018. Multinational comparison of internet gaming disorder and psychosocial problems versus well-being: Meta-analysis of 20 countries. Computers in Human Behavior. 88, s. 153-167.
+
 Horton, Z. 2019. A “Total Play and Learning Experience”: The Magnavox Odyssey’s 1972 Dream of Media Convergence. Continent, 8, 1-2, s. 76-86.
 
-Raessens J. & Goldstein J. 2005. Handbook of Computer Game Studies. MIT Press. Cambridge, MA.\
+Raessens, J. & Goldstein, J. 2005. Handbook of Computer Game Studies. MIT Press. Cambridge, MA.\
 
 Richard S. 2015. A Brief History of Video Games. Robinson. Lontoo 
