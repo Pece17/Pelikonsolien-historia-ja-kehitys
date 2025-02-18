@@ -157,3 +157,5 @@ Aiheeseeni osoittautui hankalaksi löytää tutkimuksia...kirjoja löytyi paremm
 Horton, Z. 2019. A “Total Play and Learning Experience”: The Magnavox Odyssey’s 1972 Dream of Media Convergence. Continent, 8, 1-2, s. 76-86.
 
 Raessens J. & Goldstein J. 2005. Handbook of Computer Game Studies. MIT Press. Cambridge, MA.\
+
+Richard S. 2015. A Brief History of Video Games. Robinson. Lontoo 
