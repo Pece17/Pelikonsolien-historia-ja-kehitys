@@ -26,8 +26,8 @@ Amk-opinnäytetyöohje\
   2.7 2020-luku\
   (2.8 Tulevaisuus)\
 3 Tutkimuksen toteutus\
-  3.1 Kuvaileva kirjallisuuskatsaus (menetelmän esittely)​\
-  3.2 Menetelmän käyttö ja tutkimuksen aineisto (aineiston esittely)\
+  3.1 Kuvaileva kirjallisuuskatsaus​\
+  3.2 Menetelmän käyttö ja tutkimuksen aineisto\
   3.3 Tulokset\
 4 Johtopäätökset\
 Lähteet
@@ -123,14 +123,14 @@ Kun löysin mielestäni laadukkaita lähteitä, yritin parhaani mukaan referoida
 minkälaisia hakusanoja, raportoi, missä?
 
 
-### 3.1 Kuvaileva kirjallisuuskatsaus (menetelmän esittely)​
+### 3.1 Kuvaileva kirjallisuuskatsaus
 
 Kirjallisuuskatsaus tarkoittaa tutkimustapaa, joka tutkii muiden tutkijoiden alkuperäisiä tutkimuksia tarkoituksenaan tunnistaa, arvioida, tulkita ja yhdistää jo olemassa olevaa tietoa. Päämääränä on tiivistää olennainen tieto näistä tutkimuksista valitussa aihepiirissä sekä tehdä johtopäätökset ennalta valittuun tutkimuskysymykseen. Kirjallisuuskatsaus ei ole raportti tai essee. (Vilkka 2023, 1.1.1.)
 
 Kirjallisuuskatsaustyyppejä on neljä: narratiivinen katsaus, integratiivinen katsaus, systemaattinen kirjallisuuskatsaus sekä meta-analyysi (Vilkka 2023, 1.1.3). Keskitymme tässä osiossa vain narratiiviseen tai kuvailevaan kirjallisuuskatsaukseen. Sen lähtökohtana on selvittää mitä valitusta ilmiöstä tiedetään aiempien tutkimusten perusteella, mitkä ovat keskeisiä käsitteitä ilmiössä ja mitkä ovat käsitteiden keskinäiset suhteet. Kuvailevalla kirjallisuuskatsauksella voidaan kerätä tietoa monista eri tutkimuksista ja järjestää niistä laaja yleiskäsitys valitusta aiheesta ja sen tieteenalan tilasta - näin voidaan esimerkiksi selvittää onko aiheesta tarvetta suorittaa lisätutkimuksia. Vertailemalla monia eri tutkimuksia ja niiden mahdollisia vajavaisuuksia ja virheitä, voidaan muodostaa yhtenäisempi ja eheämpi kuva aiheesta. (Vilkka 2023, 1.2.1.) 
 
 
-### 3.2 Menetelmän käyttö ja tutkimuksen aineisto (aineiston esittely)
+### 3.2 Menetelmän käyttö ja tutkimuksen aineisto
 
 
 ### 3.3 Tulokset
@@ -150,6 +150,7 @@ Kirjallisuuskatsaustyyppejä on neljä: narratiivinen katsaus, integratiivinen k
     Vilkka, H. 2021. Tutki ja kehitä. (myös e-kirja)​
 
     Vilkka, H. 2023. Kirjallisuuskatsaus metodina, opinnäytetyön osana ja tekstilajina. (myös e-kirja)​
+
 
 Horton, Z. 2019. A “Total Play and Learning Experience”: The Magnavox Odyssey’s 1972 Dream of Media Convergence. Continent, 8, 1-2, s. 76-86.
 
