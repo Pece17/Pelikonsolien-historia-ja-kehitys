@@ -92,6 +92,8 @@ Alkumenestyksestä huolimatta Fairchild VES -konsoli lopulta epäonnistui kahdes
 
 ### 2.3 1980-luku
 
+VCS suosio jatkuu 80-luvun alkuun? Mitä merkittäviä konsoleita tänä vuosikymmenenä?
+
 
 ### 2.4 1990-luku
 
