@@ -41,7 +41,7 @@ Valitsin tämän aiheen, koska olen harrastanut videopelaamista erityisesti kons
 
 Tutkimusmenetelmä opinnäytetyössä oli kuvaileva kirjallisuuskatsaus käyttäen mahdollisimman laadukkaita lähteitä (esimerksi) Google Scholarin kautta.
 
-Tutkimuskysymykseni olivat: (miten videopelikonsolit ovat kehittyneet ja minkälaista tietoa aiheesta on tarjolla?)
+Tutkimuskysymykseni olivat: miten videopelikonsolit ovat kehittyneet niiden alkuajoista tähän päivään saakka (scope?) sekä minkälaista tutkimustietoa aiheesta löytyy?
 
 
 ### 1.1 Käsitteet (ONKO TARPEEN?)
