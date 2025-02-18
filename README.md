@@ -39,12 +39,14 @@ Tämän opinnäytetyön tavoitteena on tarkastella kotikäyttöön tarkoitettuje
 
 Valitsin tämän aiheen, koska olen harrastanut videopelaamista erityisesti konsoleilla lapsesta saakka, ja olin kiinnostunut oppimaan enemmän historiallisista pelikonsoleista ja niiden teknologisista kehitysaskeleista.
 
-Tutkimusmenetelmä opinnäytetyössä oli kirjallisuuskatsaus käyttäen laadukkaita lähteitä (esimerksi) Google Scholarin kautta.
+Tutkimusmenetelmä opinnäytetyössä oli kuvaileva kirjallisuuskatsaus käyttäen mahdollisimman laadukkaita lähteitä (esimerksi) Google Scholarin kautta.
+
+Tutkimuskysymykseni olivat: (miten videopelikonsolit ovat kehittyneet ja minkälaista tietoa aiheesta on tarjolla?)
 
 
 ### 1.1 Käsitteet (ONKO TARPEEN?)
 
-videopeli
+Videopeli
 
 Kotivideopelikonsoli
 
@@ -52,13 +54,7 @@ Flipperi
 
 Oskilloskooppi
 
-kovakoodaus
-
 ChatGPT
-
-GitHub
-
-Git-versiohallinta
 
 
 ## 2 Pelikonsolien historia ja kehitys
@@ -135,6 +131,8 @@ Kuvailevan kirjallisuuskatsauksen subjektiivisen prosessin: syventävän lukemis
 
 
 ### 3.2 Kuvailevan kirjallisuuskatsauksen käyttö ja tutkimuksen aineisto
+
+Aiheeseeni osoittautui hankalaksi löytää tutkimuksia...kirjoja löytyi paremmin 
 
 
 ### 3.3 Tulokset
