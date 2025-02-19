@@ -89,12 +89,12 @@ Todellinen läpimurto kotivideopelikonsoleinen historiassa tapahtui vasta vuoden
 
 Alkumenestyksestä huolimatta Fairchild VES -konsoli lopulta epäonnistui kahdesta syystä: sen pelit eivät olleet ainutlaatuisia ja Atari pelästyi Fairchildin keksintöä. Atari heräsi horroksestaan ja toi jo 1977 markkinoille Atari Video Computer System -konsolin eli VCS:n, toiselta nimeltään Atari 2600. Samankaltainen nimi ei ollut sattumaa, vaan Atari tarkoituksella halusi luoda kilpailuasetelman VCS:n ja VES:n välille. VCS myytiin pelin ja kahden ohjaimen kanssa. VCS myi nopeasti 250 000 kappaletta - enemmän kuin koskaan kotivideopelikonsolien historiassa. VES ei yksinkertaisesti pystynyt kilpailemaan VCS:n kanssa ja Fairchild veti sen pian pois markkinoilta jättäen Atarille monopolin. (Richard 2015, 50-51.) Myös Studio II:n RCA-konsoli jäi VCS:n varjoihin. Lajitelma nerokkaita pelejä ja Atarin vahva hallinto teki VCS:tä ensimmäisen modernin kotivideopelikonsolin. Vaikka Atarin VCS-konsolin nimessä mainitaan tietokone, se oli puhtaasti pelaamiseen tarkoitettu, käyttäjäystävällinen laite. (Raessens & Goldstein 2005, 27.) Tätä filosofiaa pelikonsolit ovat noudattaneen Willy Higinbothamin prototyypistä alkaen: pintapuolisesti yksinkertainen, mutta pinnan alla teknisesti monimutkainen.
 
-Suurin osa 1970-luvun peleistä olivat pallo ja maila -teemaisia variaatioita Pong-pelistä johtuen laitteiston rajoitteista. Tällaisten pelien ylituotanto johti pelialan kriisiin 1970-luvun lopussa. (Raessens & Goldstein 2005, 27.)
+Suurin osa 1970-luvun peleistä olivat pallo ja maila -teemaisia variaatioita Pong-pelistä johtuen laitteiston rajoitteista. Tällaisten pelien ylituotanto johti lopulta pelialan kriisiin 1970-luvun lopussa. Parempien tietokonesirujen kehitys kuitenkin avasi tien innovatiivisempien pelien suunnittelulle. (Raessens & Goldstein 2005, 27.)
 
 
 ### 2.3 1980-luku
 
-VCS suosio jatkuu 80-luvun alkuun? Mitä merkittäviä konsoleita tänä vuosikymmenenä?
+Vuoteen 1982 mennessä Atari VCS oli myynyt 10 miljoonaa kappaletta sen jatkuvasti kasvavan pelikirjaston, päivitettyjen versioiden sekä hinnanalennusten ansioista (Richard 2015, 51).
 
 
 ### 2.4 1990-luku
