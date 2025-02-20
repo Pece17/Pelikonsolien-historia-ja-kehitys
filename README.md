@@ -1,4 +1,4 @@
-# Pelikonsolien historia ja kehitys (1900-luvulta 2000-luvun alkuun)
+# Pelikonsolien historia ja kehitys (1900-luvun puolivälistä 2000-luvun alkuun)
 
 Pekka Hämäläinen
 
