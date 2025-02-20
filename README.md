@@ -121,6 +121,8 @@ Teknologinen innovaatio 1970-luvun kasettisysteemistä 1980-luvun pelien kasvavi
 
 NEC-yhtiön (Nippon Electric Company) 1987 julkaisema TurboGrafx-16, toiselta nimeltään PC Engine, aloitti 16-bittisen aikakauden kotivideopelikonsoleiden osalta. Sen suoritin oli tosin vielä 8-bittinen, mutta sen mullistava 16-bittinen näytönohjain pystyi näyttämään 512 väriä - yli kymmenen kertaa enemmän kuin Nintendon NES tai Segan Master System. Sega oli valmis taistelemaan. (Richard 2015, 159.) Yhdysvalloissa 1989 julkaistu Genesis -konsoli, toiselta nimeltään Mega Drive, oli Segan vastaus Nintendon NES:lle ja PC Enginelle, ja sitä pidetään alkuunpanijana "bittien sodalle". Se oli rakennettu 16-bittisen suorittimen ympärille ja oli teknisesti ylivoimainen Nintendon konsoliin verrattuna. Sega hyödynsi konsolinsa teknisiä ominaisuuksia tuottamalla monia nopeita ja rytmisiä pelejä, joista vuoden 1991 Sonic the Hedgehog on parhaiten tunnettu - Sega halusi suunnata "cooleja" pelejä erityisesti teineille kontrastina Nintendon puhtoiselle imagolle. 1991, viiden Nintendon ylivallan vuoden jälkeen, Mega Drive ohitti NES:n vihdoin myydyimpänä konsolina. (Raessens & Goldstein 2005, 38.) Äärimmäisen tärkeä päätös Genesis-konsolin kannalta oli siirtymä 16-bittiseen arkkitehtuuriin, minkä mikroprosessorien laskevat hinnat mahdollistivat. Yksi ensimmäisistä 16-bittisistä kolikkovideopelien piirilevyistä 1985 oli Segan käsialaa, ja nyt se pystyttiin mukauttamaan myös kotikonsoleihin. (Richard 2015, 159.)
 
+Sony PlayStation (1994), Super Nintendo Entertainment System (SNES) (1990), Nintendo 64 (1996)
+
 
 ### 2.5 2000-luku
 
