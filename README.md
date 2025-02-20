@@ -119,7 +119,7 @@ Atarista, Mattelista ja Colecosta, jotka olivat olleet isoimmat tekijät vuosiky
 
 Teknologinen innovaatio 1970-luvun kasettisysteemistä 1980-luvun pelien kasvaviin resoluutioihin on aina vienyt videopelejä uusiin ulottuvuuksiin. Nämä olivat kuitenkin pieniä askelia verrattuna 1990-luvun kehityksiin, jotka lähtisivät pian hallinnasta. 1990-luvulla sekä pelikonsolien että tietokoneiden bittikapasiteetit kasvoivat räjähdysmäisesti, ja uusia kuvan prosessoinnin menetelmiä kehitettiin, jotka mahdollistivat ennennäkemättömiä grafiikoita ja yksityiskohtia. Pelit tulivat vuosi vuodelta myös monimutkaisemmiksi sekä pidemmiksi. Videopeliala ylitti elokuva-alan liikevaihdon tällä vuosikymmenellä. (Raessens & Goldstein 2005, 38.)
 
-
+Yhdysvalloissa 1989 julkaistu Genesis -konsoli, toiselta nimeltään Mega Drive, oli Segan vastaus Nintendon NES:lle, ja sitä pidetään alkuunpanijana "bittien sodalle". Se oli rakennettu 16-bittisen suorittimen ympärille ja oli teknisesti ylivoimainen Nintendon konsoliin verrattuna. Sega hyödynsi konsolinsa teknisiä ominaisuuksia tuottamalla monia nopeita ja rytmisiä pelejä, joista vuoden 1991 Sonic the Hedgehog on parhaiten tunnettu - Sega halusi tehdä pelejä erityisesti teini
 
 
 ### 2.5 2000-luku
