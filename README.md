@@ -123,7 +123,7 @@ NEC-yhtiön (Nippon Electric Company) 1987 julkaisema TurboGrafx-16, toiselta ni
 
 Nintendon vastaus tuli (Yhdysvaltojen markkinoilla) vuonna 1991 Super NES -konsolin eli SNES:n muodossa, joka oli 16-bittinen ja Genesiksen vertainen tehojen puolesta. Nintendo ansioitui kehittäjänä erityisesti pelien maisemissa ja taustakuvissa - myös erittäin yksityiskohtaiset grafiikat ja laajat virtuaaliset pelimaailmat olivat Nintendon vahvuuksia. Nintendo ja Sega kilpailivat rinta rinnan, millä oli suuria vaikutuksia pelimarkkinoiden rakenteelle. (Raessens & Goldstein 2005, 39.)
 
-Sony PlayStation (1994), Super Nintendo Entertainment System (SNES) (1990), Nintendo 64 (1996)
+Sony PlayStation (1994), Nintendo 64 (1996)
 
 
 ### 2.5 2000-luku
