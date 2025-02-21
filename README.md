@@ -133,7 +133,7 @@ Nintendo 64 vei pelikonsolien kykyjä korkeammalle kuin koskaan, mutta myyntiluv
 
 ### 2.5 2000-luku
 
-1990-luvun viimeinen konsoli oli Sega Dreamcast, Sega Saturnin seuraaja. Muun muassa 128-bittinen suoritin, internetyhteyden mahdollistaminen ja ennennäkemätön tallennuskapasiteetti tekivät Dreamcast-konsolista kilpailijoihinsa verrattuna valtavasti kehittyneemmän teknisesti. Sega myös julkaisi monia erinomaisia pelejä konsolin mukana, mutta Dreamcastistä ei tullut menestystä erilaisista taloudellisista syistä johtuen. Vuonna 2001 Dreamcastien valmistus lopetettiin ja Sega vetäytyi pysyvästi pois kotikonsolimarkkinoilta. (Raessens & Goldstein 2005, 39-40.)
+1990-luvun viimeinen konsoli oli Sega Dreamcast, Sega Saturnin seuraaja. Muun muassa 128-bittinen suoritin, internetyhteyden mahdollistaminen ja ennennäkemätön tallennuskapasiteetti tekivät Dreamcast-konsolista kilpailijoihinsa verrattuna valtavasti kehittyneemmän teknisesti. Sega myös julkaisi monia erinomaisia pelejä konsolin mukana, mutta Dreamcastistä ei tullut menestystä erilaisista taloudellisista syistä johtuen. Vuonna 2001 Dreamcastin valmistus lopetettiin ja Sega vetäytyi pysyvästi pois kotikonsolimarkkinoilta. (Raessens & Goldstein 2005, 39-40.)
 
 PS2, GameCube, Xbox
 
