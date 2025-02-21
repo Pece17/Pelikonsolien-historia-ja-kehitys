@@ -22,9 +22,6 @@ Amk-opinnäytetyöohje\
   2.3 1980-luku\
   2.4 1990-luku\
   2.5 2000-luku\
-  (2.6 2010-luku)\
-  (2.7 2020-luku)\
-  (2.8 Tulevaisuus)\
 3 Tutkimuksen toteutus\
   3.1 Kuvaileva kirjallisuuskatsaus​\
   3.2 Menetelmän käyttö ja tutkimuksen aineisto\
@@ -134,14 +131,7 @@ Samalla kun Sonyn ja Segan taistelu kävi kuumana, Nintendon SNES-konsoli oli tu
 
 ### 2.5 2000-luku
 
-
-### (2.6 2010-luku)
-
-
-### (2.7 2020-luku)
-
-
-### (2.8 Tulevaisuus)
+PS2, Dreamcast, GameCube, Xbox
 
 
 ## 3 Tutkimuksen toteutus
