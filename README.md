@@ -135,7 +135,7 @@ Nintendo 64 vei pelikonsolien kykyjä korkeammalle kuin koskaan, mutta myyntiluv
 
 1990-luvun viimeinen konsoli oli Sega Dreamcast, Sega Saturnin seuraaja. Muun muassa 128-bittinen suoritin, internetyhteyden mahdollisuus ja ennennäkemätön tallennuskapasiteetti tekivät Dreamcast-konsolista kilpailijoihinsa verrattuna valtavasti kehittyneemmän teknisesti. Sega myös julkaisi monia erinomaisia pelejä konsolin mukana, mutta Dreamcastistä ei tullut menestystä erilaisista taloudellisista syistä johtuen. Vuonna 2001 Dreamcastin valmistus lopetettiin ja Sega vetäytyi pysyvästi pois kotikonsolimarkkinoilta. (Raessens & Goldstein 2005, 39-40.) Vaikka Dreamcastin julkaisu, laitteisto ja ohjelmistot olivat kaikki onnistuneita, suurin syy sen epäonnistumiseen oli PlayStation 2. Sony varasti huomion julkistamalla uuden konsolinsa hyvissä ajoin ennen sen varsinaista julkaisua, mikä sai monet kuluttajat odottamaan ja sivuuttamaan Sega Dreamcastin. Sega teki paperilla kaikki oikein, mutta sen markkinointibudjetti ei vain riittänyt kilpailemaan Sonyn tai Microsoftin kaltaisten jättien kanssa. (Richard 2015, 214-215.)
 
-
+Vuonna 2005 julkaistun Handbook of Computer Game Studies -kirjan mukaan vuonna 2000 julkaistu PlayStation 2 dominoi markkinoita kirjan kirjoittamisen aikaan, ja se oli suuri menestys alusta asti, aivan kuin ensimmäinen PlayStation. 
 
 PS2, GameCube, Xbox
 
