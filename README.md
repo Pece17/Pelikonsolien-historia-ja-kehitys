@@ -137,6 +137,8 @@ Nintendo 64 vei pelikonsolien kykyjä korkeammalle kuin koskaan, mutta myyntiluv
 
 Vuonna 2005 julkaistun Handbook of Computer Game Studies -kirjan mukaan vuonna 2000 julkaistu PlayStation 2 dominoi markkinoita kirjan kirjoittamisen aikaan, ja se oli suuri menestys alusta asti, aivan kuin ensimmäinen PlayStation. Suosio oli niin suurta, että Sonylla oli vaikeuksia valmistaa tarpeeksi konsoleita. Ongelma ratkesi vasta 2001, johon mennessä yli 50 miljoonaa kotitaloutta ympäri maailman omisti PlayStation 2:en. PlayStation 2 oli ensimmäinen konsoli, joka ylitti tietokoneet suorituskyvyssä. (Raessens & Goldstein 2005, 42.) Sonyn suureksi eduksi PlayStation-brändistä oli tullut synonyymi pelaamiselle samalla tavalla kuin Nintendo-brändi oli ollut sitä 1980-luvulla. PlayStation 2 oli erittäin odotettu konsoli ja myi hämmästyttävät 980 000 yksikköä Japanissa ensimmäisenä päivänä. PlayStation 2 sisälsi DVD-soittimen, ja oli julkaistessaan sen ajan halvin DVD-soitin, mikä auttoi sen myynnissä ehkä enemmän kuin mikään muu yksittäinen tekijä. Alkuperäisen PlayStationin pelien yhteensopivuus ja USB-portin kautta yhdistettävät monet oheislaitteet, kuten esimerkiksi mikrofonit sekä hiiri, ovat huomioitavia ja merkittäviä ominaisuuksia PlayStation 2 -konsolissa. (Richard 2015, 217-218.)
 
+On tietyiltä osin yllättävää, että Microsoftin Xboxia julkaistiin ollenkaan...
+
 Sonyn kaksi pahinta kilpailijaa olivat Nintendon GameCube sekä Microsoftin Xbox
 
 PS2, GameCube, Xbox
