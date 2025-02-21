@@ -1,7 +1,7 @@
 - Työn tavoitteena on tutkia pelikonsolien historiaa ja kehitystä niiden alkuajoista nykypäivään saakka. Isoja otsikoita voisivat olla esim. eri vuosikymmenet ja niiden merkittävimmät pelikonsolit. Kuvaisi yleisesti esim. 1990-luvun pelikonsolien kehitystä (suosio, teknologia), ja alaotsikoina olisivat kulttuurillisesti merkittävimmät pelikonsolit kultakin vuosikymmeneltä, mm. PlayStation ja Nintendo 64 90-luvulla. Alustavasti tarkoituksena olisi käydä 1950-2020 -luvut läpi, tosin 1950- ja 1960-luvuilla ei varsinaisesti ollut kuluttajille myytäviä pelikonsoleita, vaan vain prototyyppejä. 1970-luvulla tehtiin ensimmäiset kuluttajille myytävät pelikonsolit, ja rajaisinkin opparin aiheen lähinnä kuluttajille myytäviin kotipelikonsoleihin.
 - Konsoleista tuli kuluttajaystävällisiä 90-luvulla, aikasemmin kalliita luksustuotteita
 - Miten kehittyi tehot ja teknologia, kulttuurisesti myös
-- yritä työstää opparia 6h joka pvä
+- yritä työstää opparia 3h joka pvä
 - https://www.theseus.fi/bitstream/handle/10024/96156/Vaananen_Jouko.pdf?sequence=1&isAllowed=y mallia samankaltaiseen oppariin
 - https://www.theseus.fi/bitstream/handle/10024/863736/Iivarinen_Lauri.pdf?sequence=2&isAllowed=y
 - https://libguides.haaga-helia.fi/lahdeviittaamisen-tueksi/viittaa
