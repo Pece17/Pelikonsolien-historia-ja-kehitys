@@ -3,3 +3,4 @@
 3. lisää kuvia konsoleista
 4. lähteet ja lähdeviittaukset oikein
 5. Word-pohja käyttöön
+6. kirjoita käsitteet ja etsi niihin lähteet
