@@ -141,9 +141,9 @@ Vuonna 2005 julkaistun Handbook of Computer Game Studies -kirjan mukaan vuonna 2
 
 Sonyn kilpailijat olivat Nintendon GameCube sekä Microsoftin, konsolimarkkinoiden uuden tulokkaan, Xbox. Kummatkin onnistuivat ylittämään PlayStation 2 -konsolin graafisesti ja tuomaan meidät lähemmäksi peliohjelmoijien unelmaa: 100 miljoonan polygonin käsittelyä sekunnissa. Myyntiluvut kuitenkin osoittivat, että pelkät tekniset ominaisuudet eivät takaa markkinoiden hallintaa. Kirjalähteen kirjoituksen aikaan Xbox- ja GameCube-konsoleille oli kummallekin jo tehty yli 100 peliä, mutta PlayStation 2 nautti silti suurinta osuutta konsolimyynneistä. PlayStation 2 -konsoleita myytiin noin kaksi kertaa enemmän kuin Microsoftin ja Nintendon konsoleita. Monien pelinkehittäjien, valmistajien ja julkaisijoiden toiveena oli tässä vaiheessa historiaa kehittää puitteet online-pelaamiselle, sillä laajakaistaverkkoyhteyksistä oli tulossa arkipäivää kotitalouksissa ympäri maailman. (Raessens & Goldstein 2005, 43.)
 
-On tietyiltä osin yllättävää, että Microsoftin Xbox julkaistiin ollenkaan...
+On tietyiltä osin yllättävää, että Microsoftin Xbox-konsoli julkaistiin ollenkaan. Projektin alku voidaan ajoittaa 1999 maaliskuuhun, kun Microsoftin työntekijä Ted Hase lähetti PowerPoint-esitelmän pienelle ryhmälle työntekijöitä, missä vahvasti kannustettiin sen ajan suurinta teknologiayritystä hyppäämään mukaan pelialalle. Microsoftilla oli jo osasto PC-peleille, mutta nyt tavoitteena oli luoda kotivideopelikonsoli. Monet yhtiön avainhenkilöistä pitivät ajatusta hulluna, mutta neljän hengen ydinryhmä puski projektia vahvasti eteenpäin tavaten 
 
-PS2, GameCube, Xbox
+GameCube
 
 
 ## 3 Tutkimuksen toteutus
