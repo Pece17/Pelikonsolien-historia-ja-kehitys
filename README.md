@@ -184,7 +184,8 @@ Aiheeseeni osoittautui hankalaksi löytää tutkimuksia...kirjoja löytyi paremm
 
 
 ## Lähteet
--https://www.theseus.fi/bitstream/handle/10024/125744/Kettunen_final_thesis.pdf?sequence=1
+- https://www.usitc.gov/publications/332/working_papers/final_from_silicon_to_donkey_kong_a_case_study_in_the_use_of_semiconductors_in_video_game_consoles_compiled_508-compliant.pdf
+- - https://www.theseus.fi/bitstream/handle/10024/125744/Kettunen_final_thesis.pdf?sequence=1
 - http://www.zachhorton.com/wp-content/uploads/2020/08/Horton-a-%E2%80%9Ctotal-play-and-learning-experience%E2%80%9D_-the-magnavox-odyssey%E2%80%99s-1972-dream-of-media-convergence.pdf
 - https://books.google.fi/books?hl=fi&lr=&id=ErhNEAAAQBAJ&oi=fnd&pg=PA23&dq=history+of+video+game+consoles&ots=jx0n6Ubkn6&sig=-pLJB_9YwVlxI23I6f0_GntFcPU&redir_esc=y#v=onepage&q=history%20of%20video%20game%20consoles&f=false
 - https://books.google.fi/books?hl=fi&lr=&id=PTrcTeAqeaEC&oi=fnd&pg=PR7&dq=history+of+video+games&ots=apEv742Y7e&sig=olTOseIZWXJ6jO-E0egYREwkE60&redir_esc=y#v=onepage&q=history%20of%20video%20games&f=false
