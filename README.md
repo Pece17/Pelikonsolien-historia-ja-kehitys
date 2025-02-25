@@ -44,7 +44,7 @@ Tutkimusmenetelmä opinnäytetyössä oli kuvaileva kirjallisuuskatsaus käyttä
 Tutkimuskysymykseni olivat: miten kotivideopelikonsolit ovat kehittyneet niiden alkuajoista 2000-luvun alkuun saakka, sekä minkälaista laadukasta tutkimustietoa aiheesta löytyy?
 
 
-### 1.1 Käsitteet (ONKO TARPEEN, kronologiseen järjestykseen?)
+### 1.1 Käsitteet (uusi tietoperusta?)
 
 Videopeli  Videopeli on kattotermi, joka tarkoittaa kaikkia viihdesovelluksia, joita käytetään erilaisten pelikonsolien tai laitteiden kautta (Cheng, Cheung & Wang 2018).
 
@@ -72,7 +72,7 @@ resoluutio
 polygon
 
 
-## 2 Pelikonsolien historia ja kehitys
+## 2 Pelikonsolien historia ja kehitys (tutkimus?)
 
 Tässä osiossa käyn läpi pelikonsolien historiaa ja kehitystä niiden alkuajoista 1900-luvun puolivälistä 2000-luvulle saakka.
 
