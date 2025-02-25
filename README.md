@@ -50,7 +50,7 @@ Videopeli  Videopeli on kattotermi, joka tarkoittaa kaikkia viihdesovelluksia, j
 
 Kotivideopelikonsoli  Ne tarkoittavat erilliseen näyttöön, kuten televisioon tai tietokoneen näyttöön, liitettäviä konsoleita, joissa on ulkoinen virtalähde.
 
-Flipperi
+Flipperi  Flipperi tarkoittaa (http://danny.cdyn.com/Milestones_2011.pdf#page=22).
 
 Oskilloskooppi  Oskilloskoopit ovat yksi tärkeimmistä työkaluista sähköisten signaalien analysoinnissa. Ensisijainen tieto, jota signaalien aaltomuodosta voidaan saada sen avulla on amplitudin eli värähdyslaajuuden vaihtelun visualisointi ajan kuluessa. (https://ieeexplore.ieee.org/abstract/document/4017100/authors#authors.)
 
