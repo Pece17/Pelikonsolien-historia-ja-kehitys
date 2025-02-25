@@ -48,7 +48,7 @@ Tutkimuskysymykseni olivat: miten kotivideopelikonsolit ovat kehittyneet niiden 
 
 Videopeli  Videopeli on kattotermi, joka tarkoittaa kaikkia viihdesovelluksia, joita käytetään erilaisten pelikonsolien tai laitteiden kautta (Cheng, Cheung & Wang 2018).
 
-Kotivideopelikonsoli
+Kotivideopelikonsoli  Ne tarkoittavat erilliseen näyttöön, kuten televisioon tai tietokoneen näyttöön, liitettäviä konsoleita, joissa on ulkoinen virtalähde.
 
 Flipperi
 
@@ -71,9 +71,7 @@ polygon
 
 ## 2 Pelikonsolien historia ja kehitys
 
-(Ensimmäiset "pelikonsolit" olivat 1950-luvulla kehitetyt prototyypit...) Kotikäyttöön tarkoitettujen kotivideopelikonsolien historia alkaa 1970-luvulta. Ne tarkoittavat erilliseen näyttöön, kuten televisioon tai tietokoneen näyttöön, liitettäviä konsoleita, joissa on ulkoinen virtalähde. Ensimmäisenä pelin
-
-(Mitä tähän osioon voisi kirjoittaa?)
+Tässä osiossa käyn läpi pelikonsolien historiaa ja kehitystä niiden alkuajoista 1900-luvun puolivälistä 2000-luvulle saakka.
 
 
 ### 2.1 Esihistoria
