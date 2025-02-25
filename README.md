@@ -56,9 +56,12 @@ Oskilloskooppi  Oskilloskoopit ovat yksi tärkeimmistä työkaluista sähköiste
 
 ChatGPT  ChatGPT on esikoulutettu luonnollisen kielen käsittelymalli (Natural language processing tai NLP), joka tarkoittaa tekoälyn osaa, jonka tarkoituksena on mahdollistaa tietokoneiden ymmärrys ja vuorovaikutus ihmisten kielten kanssa. (https://link.springer.com/chapter/10.1007/978-1-4842-9529-8_1.)
 
-Prosessori  Prosessori tai suoritin tarkoittaa tietokoneen "sydämessä" sijaitsevaa komponenttia, joka käy läpi sovellusten ohjeistuksia säännöllisessä järjestyksessä lukien niitä muistista, suorittaen niitä ja kontrolloiden tietokoneen muistin sekä syöttö- ja lähtölaitteiden toimintaa (https://archive.org/details/principlesofcomp0000clem/page/226/mode/2up).
+Prosessori  Prosessoreita tai suorittimia pidetään tietokoneiden aivoina, jotka pyörittävät tietokoneiden käyttöjärjestelmiä ja suorittavat ohjelmistojen ohjeistuksia. Nykyaikaisissa suorittimissa on tyypillisesti useita prosessoreita, joita kutsutaan ytimiksi, ja joista kukin pystyy keskittymään omaan uniikkiin tehtäväänsä. Videopelikonsoleissa suorittimet hallitsevat käyttöjärjestelmää, suorittavat ohjelmistoja ja hallitsevat videopelien sisäisiä toimintoja, kuten taistelua, törmäysmallinnusta ja ei-ohjattavia pelaajien (NPC) vuorovaikutuksia. (https://www.usitc.gov/publications/332/working_papers/final_from_silicon_to_donkey_kong_a_case_study_in_the_use_of_semiconductors_in_video_game_consoles_compiled_508-compliant.pdf.)
 
-tietokonesiru
+Näytönohjain  t. (https://www.usitc.gov/publications/332/working_papers/final_from_silicon_to_donkey_kong_a_case_study_in_the_use_of_semiconductors_in_video_game_consoles_compiled_508-compliant.pdf.)
+
+Tietokonesiru  Tietokonesirut, toisilta nimiltään mikropiirit tai puolijohteet, tarkoittavat elektroniikassa tyypillisesti piistä valmistettuja laitteita, jotka sisältävät elektronisia piirikomponentteja, kuten transistoreita ja johdotuksia. Kyseiset transistorit toimivat kytkiminä, jotka pystyvät kytkemään sähkövirran päälle tai pois. Puolijohdelaitteet voivat vaihdella yksinkertaisista lämpötila-antureista, joita käytetään digitaalisissa lämpömittareissa, huippuluokan tietokoneprosessoreihin (CPU). (https://www.usitc.gov/publications/332/working_papers/final_from_silicon_to_donkey_kong_a_case_study_in_the_use_of_semiconductors_in_video_game_consoles_compiled_508-compliant.pdf.)
+
 
 8-16 bittinen systeemi
 
