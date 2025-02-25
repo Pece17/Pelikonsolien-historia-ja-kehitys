@@ -35,13 +35,13 @@ Lähteet
 
 ## 1 Johdanto
 
-Tämän opinnäytetyön tavoitteena on tarkastella kotikäyttöön tarkoitettujen videopelikonsolien historiaa ja kehitystä. Tarkastelen pelikonsolien historiaa ja kehitystä teknologian, liiketoiminnan ja kulttuurin näkökulmista käyden läpi 1970-2000 -luvut saakka. Kerron työssäni näiden vuosikymmenten muutamista teknologisesti ja kulttuurisesti merkittävimmistä pelikonsoleista. Olen rajannut opinnäytetyön aiheen (lähinnä) kotivideopelikonsoleihin, eli käsittelen esimerksi käsikonsoleita, joita ei ei ole suunniteltu yhdistettävän ulkoisiin näyttöihin, julkisia kolikkovideopelejä tai pelitietokoneita vain pintapuolisesti.
+Tämän opinnäytetyön tavoitteena on tarkastella kotikäyttöön tarkoitettujen videopelikonsolien historiaa ja kehitystä. Tarkastelen pelikonsolien historiaa ja kehitystä teknologian, liiketoiminnan ja kulttuurin näkökulmista käyden läpi 1950-2000-luvut. Kerron työssäni näiden vuosikymmenten teknologisesti ja kulttuurisesti olennaisimmista ja merkittävimmistä pelikonsoleista. Olen rajannut opinnäytetyöni aiheen kotivideopelikonsoleihin, eli käsittelen esimerkiksi käsikonsoleita, julkisia arcade-videopelejä tai pelitietokoneita vain pintapuolisesti.
 
-Valitsin tämän aiheen, koska olen harrastanut videopelaamista erityisesti konsoleilla lapsesta saakka, ja olin kiinnostunut oppimaan enemmän historiallisista pelikonsoleista ja niiden teknologisista kehitysaskeleista.
+Valitsin tämän aiheen, koska olen harrastanut videopelaamista erityisesti konsoleilla lapsesta saakka, ja olin kiinnostunut oppimaan enemmän historiallisista pelikonsoleista ja niiden teknologisista kehitysaskeleista. Ennen tätä opinnäytetyötä, en juurikaan tiennyt pelikonsolien historiasta 2000-luvusta taaksepäin.
 
 Tutkimusmenetelmä opinnäytetyössä oli kuvaileva kirjallisuuskatsaus käyttäen mahdollisimman laadukkaita lähteitä (esimerksi) Google Scholarin kautta.
 
-Tutkimuskysymykseni olivat: miten kotivideopelikonsolit ovat kehittyneet niiden alkuajoista tähän päivään saakka (scope?) sekä minkälaista laadukasta tutkimustietoa aiheesta löytyy?
+Tutkimuskysymykseni olivat: miten kotivideopelikonsolit ovat kehittyneet niiden alkuajoista 2000-luvun alkuun saakka, sekä minkälaista laadukasta tutkimustietoa aiheesta löytyy?
 
 
 ### 1.1 Käsitteet (ONKO TARPEEN, kronologiseen järjestykseen?)
@@ -52,11 +52,11 @@ Kotivideopelikonsoli  Ne tarkoittavat erilliseen näyttöön, kuten televisioon 
 
 Flipperi
 
-Oskilloskooppi
+Oskilloskooppi  Oskilloskoopit ovat yksi tärkeimmistä työkaluista sähköisten signaalien analysoinnissa. Ensisijainen tieto, jota signaalien aaltomuodosta voidaan saada sen avulla on amplitudin eli värähdyslaajuuden vaihtelun visualisointi ajan kuluessa. (https://ieeexplore.ieee.org/abstract/document/4017100/authors#authors.)
 
-ChatGPT
+ChatGPT  ChatGPT on esikoulutettu luonnollisen kielen käsittelymalli (Natural language processing tai NLP), joka tarkoittaa tekoälyn osaa, jonka tarkoituksena on mahdollistaa tietokoneiden ymmärrys ja vuorovaikutus ihmisten kielten kanssa. (https://link.springer.com/chapter/10.1007/978-1-4842-9529-8_1.)
 
-prosessori
+Prosessori  Prosessori tai suoritin tarkoittaa tietokoneen "sydämessä" sijaitsevaa komponenttia, joka käy läpi sovellusten ohjeistuksia säännöllisessä järjestyksessä lukien niitä muistista, suorittaen niitä ja kontrolloiden tietokoneen muistin sekä syöttö- ja lähtölaitteiden toimintaa (https://archive.org/details/principlesofcomp0000clem/page/226/mode/2up).
 
 tietokonesiru
 
