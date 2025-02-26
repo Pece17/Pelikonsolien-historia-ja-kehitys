@@ -96,12 +96,12 @@ Tietokonesirut, toisilta nimiltään mikropiirit tai puolijohteet, tarkoittavat 
 
 ### 2.10 Resoluutio
 
-t. (https://www.pcmag.com/encyclopedia/term/resolution)
+Resoluutio tai kuvatarkkuus tarkoittaa näytetyn tai tulostetun kuvan terävyyden asteen. Resoluutio määritellään matriisina "pikseliä" tuumaa kohti. Esimerkiksi, 1920x1200 näytön resoluutio tarkoittaa 1920 pikseliä vaakatasossa kullakin 1200:lla pystysuorassa olevalla rivillä. (https://www.pcmag.com/encyclopedia/term/resolution)
 
 
 ### 2.11 2D- ja 3D-grafiikat videopeleissä
 
-t. (https://www.pcmag.com/encyclopedia/term/2d-graphics.) t. (https://www.pcmag.com/encyclopedia/term/3d-graphics.)
+2D-grafiikat tarkoittavat objektien luontia, näyttämistä ja manipulointia tietokoneella kahdessa ulottuvuudessa X- ja Y-akseleilla, samalla periaatteella kuin paperille piirtäminen on kaksiulotteista. 2D-objekteja voidaan suurentaa tai pienentää, mutta niitä ei pystytä tarkastelemaan eri kulmista tai valaista automaattisesti. (https://www.pcmag.com/encyclopedia/term/2d-graphics.) 3D-grafiikat tarkoittavat objektien luontia, näyttämistä ja manipulointia tietokoneella kolmessa ulottuvuudessa X-, Y- ja Z-akseleilla. 3D-objekteja voidaan myöskin suurentaa ja pienentää, mutta myös käännellä ja tarkastella eri kulmista, ja automaattista valaistusta voidaan halutessa soveltaa. (https://www.pcmag.com/encyclopedia/term/3d-graphics.)
 
 
 ### 2.12 Polygoni
