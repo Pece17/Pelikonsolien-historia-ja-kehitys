@@ -46,9 +46,13 @@ Tutkimuskysymykseni olivat: miten kotivideopelikonsolit ovat kehittyneet niiden 
 
 ### 1.1 Käsitteet (uusi tietoperusta?)
 
-Videopeli  Videopeli on kattotermi, joka tarkoittaa kaikkia viihdesovelluksia, joita käytetään erilaisten pelikonsolien tai laitteiden kautta (Cheng, Cheung & Wang 2018).
+#### 1.1.1 Videopeli
 
-Videopelikonsoli  Videopelikonsoli tarkoittaa videopelien pelaamiseen erikoistunutta pöytätietokonetta. Varhaisimmat videopelikonsolit toimivat pelkästään pelikasettien avulla, joissa oli vain lukumuisti-siruja (read only memory tai ROM), mutta nykyaikaiset videopelikonsolit pyörittävät pelejä levyjen kautta tai suoraan videopelikonsolille lataamalla. Videopelikonsolit vaativat ulkoisen näytön, kuten television tai tietokoneen näytön, toimiakseen. (https://www.pcmag.com/encyclopedia/term/video-game-console.)
+Videopeli on kattotermi, joka tarkoittaa kaikkia viihdesovelluksia, joita käytetään erilaisten pelikonsolien tai laitteiden kautta (Cheng, Cheung & Wang 2018).
+
+#### 1.1.2 Videopelikonsoli
+
+Videopelikonsoli tarkoittaa videopelien pelaamiseen erikoistunutta pöytätietokonetta. Varhaisimmat videopelikonsolit toimivat pelkästään pelikasettien avulla, joissa oli vain lukumuisti-siruja (read only memory tai ROM), mutta nykyaikaiset videopelikonsolit pyörittävät pelejä levyjen kautta tai suoraan videopelikonsolille lataamalla. Videopelikonsolit vaativat ulkoisen näytön, kuten television tai tietokoneen näytön, toimiakseen. (https://www.pcmag.com/encyclopedia/term/video-game-console.)
 
 Flipperi  Flipperi tarkoittaa (http://danny.cdyn.com/Milestones_2011.pdf#page=22).
 
@@ -62,14 +66,13 @@ Näytönohjain  Näytönohjaimet (graphics processing unit tai GPU) ovat prosess
 
 Tietokonesiru  Tietokonesirut, toisilta nimiltään mikropiirit tai puolijohteet, tarkoittavat elektroniikassa tyypillisesti piistä valmistettuja laitteita, jotka sisältävät elektronisia piirikomponentteja, kuten transistoreita ja johdotuksia. Kyseiset transistorit toimivat kytkiminä, jotka pystyvät kytkemään sähkövirran päälle tai pois. Puolijohdelaitteet voivat vaihdella yksinkertaisista lämpötila-antureista, joita käytetään digitaalisissa lämpömittareissa, huippuluokan tietokoneprosessoreihin (CPU). (https://www.usitc.gov/publications/332/working_papers/final_from_silicon_to_donkey_kong_a_case_study_in_the_use_of_semiconductors_in_video_game_consoles_compiled_508-compliant.pdf.)
 
-
 8-64-bittinen systeemi (https://www.pcmag.com/encyclopedia/term/8-bit-computing) (https://www.pcmag.com/encyclopedia/term/16-bit-computing) (https://www.pcmag.com/encyclopedia/term/32-bit-computing) (https://www.pcmag.com/encyclopedia/term/64-bit-computing)
 
 Resoluutio  t. (https://www.pcmag.com/encyclopedia/term/resolution)
 
 2D- ja 3D-grafiikat videopeleissä  t. (https://www.pcmag.com/encyclopedia/term/2d-graphics.) t. (https://www.pcmag.com/encyclopedia/term/3d-graphics.)
 
-Polygon  t. (https://www.pcmag.com/encyclopedia/term/polygon).
+Polygoni  Polygoni tarkoittaa tietokonegrafiikoiden kontekstissa kirjaimellisesti monipuolista objektia tai esinettä, joka voidaan täyttää väreillä tai jota voidaan liikuttaa yksittäisenä entiteettinä tai kokonaisuutena (https://www.pcmag.com/encyclopedia/term/polygon). (Polygoneja käytetään 3d-esineiden luomiseen peleissä?)
 
 
 ## 2 Pelikonsolien historia ja kehitys (tutkimus?)
