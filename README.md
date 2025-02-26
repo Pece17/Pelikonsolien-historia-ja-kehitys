@@ -46,7 +46,7 @@ Tutkimuskysymykseni olivat: miten kotivideopelikonsolit ovat kehittyneet niiden 
 
 ## 2 Käsitteet (uusi tietoperusta?)
 
-Lorem ipsum
+Tässä osiossa avaan olennaisimpia käsitteitä, joita opinnäytetyöni sisältää.
 
 
 ### 2.1 Videopeli
@@ -89,9 +89,9 @@ Näytönohjaimet (graphics processing unit tai GPU) ovat prosessoreita, jotka er
 Tietokonesirut, toisilta nimiltään mikropiirit tai puolijohteet, tarkoittavat elektroniikassa tyypillisesti piistä valmistettuja laitteita, jotka sisältävät elektronisia piirikomponentteja, kuten transistoreita ja johdotuksia. Kyseiset transistorit toimivat kytkiminä, jotka pystyvät kytkemään sähkövirran päälle tai pois. Puolijohdelaitteet voivat vaihdella yksinkertaisista lämpötila-antureista, joita käytetään digitaalisissa lämpömittareissa, huippuluokan tietokoneprosessoreihin (CPU). (https://www.usitc.gov/publications/332/working_papers/final_from_silicon_to_donkey_kong_a_case_study_in_the_use_of_semiconductors_in_video_game_consoles_compiled_508-compliant.pdf.)
 
 
-### 2.9 8-64-bittinen systeemi
+### 2.9 8-, 16-, 32- ja 64-bittiset järjestelmät
 
-(https://www.pcmag.com/encyclopedia/term/8-bit-computing) (https://www.pcmag.com/encyclopedia/term/16-bit-computing) (https://www.pcmag.com/encyclopedia/term/32-bit-computing) (https://www.pcmag.com/encyclopedia/term/64-bit-computing)
+8-bittisessä järjestelmässä, kuten esimerkiksi videopelikonsolissa, suoritin kykenee käsittelemään 8 bittiä yhtenä yksikkönä. Vastaavasti, 16-bittisessä järjestelmässä suoritin kykenee käsittelemään 16 bittiä yhtenä yksikkönä, 32-bittisessä järjestelmässä suoritin kykenee käsittelemään 32 bittiä yhtenä yksikkönä ja 64-bittisessä järjestelmässä suoritin kykenee käsittelemään 64 bittiä yhtenä yksikkönä. Tosin, esimerkiksi 64-bittinen tietokone ei välttämättä ole tuplasti nopeampi verrattuna 32-bittiseen tietokoneeseen, vaan tietokoneen monet muut komponentit vaikuttavat myös sen suorituskykyyn. (https://www.pcmag.com/encyclopedia/term/64-bit-computing.)
 
 
 ### 2.10 Resoluutio
