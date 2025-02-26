@@ -178,7 +178,7 @@ Kuvailevan kirjallisuuskatsauksen subjektiivisen prosessin: syventävän lukemis
 
 ### 3.2 Kuvailevan kirjallisuuskatsauksen käyttö ja tutkimuksen aineisto
 
-Aiheeseeni osoittautui hankalaksi löytää tutkimuksia...kirjoja löytyi paremmin 
+Pääasialliset lähteeni olivat pelikonsolien historiaa ja kehitystä käsittelelviä kirjoja...
 
 
 ### 3.3 Tulokset
