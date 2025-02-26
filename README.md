@@ -63,13 +63,13 @@ Näytönohjain  Näytönohjaimet (graphics processing unit tai GPU) ovat prosess
 Tietokonesiru  Tietokonesirut, toisilta nimiltään mikropiirit tai puolijohteet, tarkoittavat elektroniikassa tyypillisesti piistä valmistettuja laitteita, jotka sisältävät elektronisia piirikomponentteja, kuten transistoreita ja johdotuksia. Kyseiset transistorit toimivat kytkiminä, jotka pystyvät kytkemään sähkövirran päälle tai pois. Puolijohdelaitteet voivat vaihdella yksinkertaisista lämpötila-antureista, joita käytetään digitaalisissa lämpömittareissa, huippuluokan tietokoneprosessoreihin (CPU). (https://www.usitc.gov/publications/332/working_papers/final_from_silicon_to_donkey_kong_a_case_study_in_the_use_of_semiconductors_in_video_game_consoles_compiled_508-compliant.pdf.)
 
 
-8-16 bittinen systeemi
+8-64-bittinen systeemi (https://www.pcmag.com/encyclopedia/term/8-bit-computing) (https://www.pcmag.com/encyclopedia/term/16-bit-computing) (https://www.pcmag.com/encyclopedia/term/32-bit-computing) (https://www.pcmag.com/encyclopedia/term/64-bit-computing)
 
-resoluutio
+Resoluutio  t. (https://www.pcmag.com/encyclopedia/term/resolution)
 
-2d vs 3d pelit
+2D- ja 3D-grafiikat videopeleissä  t. (https://www.pcmag.com/encyclopedia/term/2d-graphics.) t. (https://www.pcmag.com/encyclopedia/term/3d-graphics.)
 
-polygon
+Polygon  t. (https://www.pcmag.com/encyclopedia/term/polygon).
 
 
 ## 2 Pelikonsolien historia ja kehitys (tutkimus?)
@@ -194,6 +194,7 @@ Pääasialliset lähteeni olivat pelikonsolien historiaa ja kehitystä käsittel
 - https://books.google.fi/books?hl=fi&lr=&id=ErhNEAAAQBAJ&oi=fnd&pg=PA23&dq=history+of+video+game+consoles&ots=jx0n6Ubkn6&sig=-pLJB_9YwVlxI23I6f0_GntFcPU&redir_esc=y#v=onepage&q=history%20of%20video%20game%20consoles&f=false
 - https://books.google.fi/books?hl=fi&lr=&id=PTrcTeAqeaEC&oi=fnd&pg=PR7&dq=history+of+video+games&ots=apEv742Y7e&sig=olTOseIZWXJ6jO-E0egYREwkE60&redir_esc=y#v=onepage&q=history%20of%20video%20games&f=false
 - https://www.sciencedirect.com/science/article/pii/S0747563218303108
+- https://www.theseus.fi/bitstream/handle/10024/815497/Ollila_Juho.pdf?sequence=2
 
 - Hirsjärvi, S. 2009. Tutki ja kirjoita.​
 
