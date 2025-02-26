@@ -66,12 +66,12 @@ Flipperi tarkoittaa (http://danny.cdyn.com/Milestones_2011.pdf#page=22).
 
 ### 2.4 Oskilloskooppi
 
-Oskilloskoopit ovat yksi tärkeimmistä työkaluista sähköisten signaalien analysoinnissa. Ensisijainen tieto, jota signaalien aaltomuodosta voidaan saada sen avulla on amplitudin eli värähdyslaajuuden vaihtelun visualisointi ajan kuluessa. (https://ieeexplore.ieee.org/abstract/document/4017100/authors#authors.)
+Oskilloskoopit ovat yksi tärkeimmistä työkaluista sähköisten signaalien analysoinnissa. Ensisijainen tieto, jota signaalien aaltomuodosta voidaan saada niiden avulla on amplitudin eli värähdyslaajuuden vaihtelun visualisointi ajan kuluessa. (https://ieeexplore.ieee.org/abstract/document/4017100/authors#authors.)
 
 
 ### 2.5 ChatGPT
 
-ChatGPT on esikoulutettu luonnollisen kielen käsittelymalli (Natural language processing tai NLP), joka tarkoittaa tekoälyn osaa, jonka tarkoituksena on mahdollistaa tietokoneiden ymmärrys ja vuorovaikutus ihmisten kielten kanssa. (https://link.springer.com/chapter/10.1007/978-1-4842-9529-8_1.)
+ChatGPT on esikoulutettu luonnollisen kielen käsittelymalli (Natural language processing tai NLP), joka tarkoittaa tekoälyn osaa, jonka tarkoituksena on mahdollistaa tietokoneiden ymmärrys ja vuorovaikutus ihmisten kielten kanssa. (https://link.springer.com/chapter/10.1007/978-1-4842-9529-8_1).
 
 
 ### 2.6 Prosessori
@@ -81,7 +81,7 @@ Prosessoreita tai suorittimia (central processing unit tai CPU) pidetään tieto
 
 ### 2.7 Näytönohjain 
 
-Näytönohjaimet (graphics processing unit tai GPU) ovat prosessoreita, jotka erikoistuvat grafiikoiden ja videoiden renderöintiin tai toistamiseen. Suorittamalla näitä toimintoja, näytönohjaimet vapauttavat suorittimet (CPU) keskittymään muihin tehtäviin. Näytönohjaimilla on elintärkeä rooli videopelikonsoleissa, sillä ne renderöivät korkearesoluutioisia grafiikoita ja tekstuureja. Mitä tehokkampi näytönohjain on, sitä enemmän videopelikonsoli pystyy renderöimään kuvia sekunnissa (frames per second tai FPS). Korkeat kuvataajuudet ovat erityisen tärkeitä kilpaileville pelaajille ensimmäisen persoonan ammuntapeleissä (myöskin FPS sanoista first-person shooter). (https://www.usitc.gov/publications/332/working_papers/final_from_silicon_to_donkey_kong_a_case_study_in_the_use_of_semiconductors_in_video_game_consoles_compiled_508-compliant.pdf.)
+Näytönohjaimet (graphics processing unit tai GPU) ovat prosessoreita, jotka erikoistuvat grafiikoiden ja videoiden renderöintiin tai toistamiseen. Suorittamalla näitä toimintoja, näytönohjaimet vapauttavat suorittimet (CPU) keskittymään muihin tehtäviin. Näytönohjaimilla on elintärkeä rooli videopelikonsoleissa, sillä ne renderöivät korkearesoluutioisia grafiikoita ja tekstuureja. Mitä tehokkampi näytönohjain on, sitä enemmän videopelikonsoli pystyy renderöimään kuvia sekunnissa (frames per second tai FPS). Korkeat kuvataajuudet ovat erityisen tärkeitä kilpaileville pelaajille ensimmäisen persoonan ammuntapeleissä (myöskin FPS, sanoista first-person shooter). (https://www.usitc.gov/publications/332/working_papers/final_from_silicon_to_donkey_kong_a_case_study_in_the_use_of_semiconductors_in_video_game_consoles_compiled_508-compliant.pdf.)
 
 
 ### 2.8 Tietokonesiru
