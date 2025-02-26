@@ -46,7 +46,7 @@ Tutkimuskysymykseni olivat: miten kotivideopelikonsolit ovat kehittyneet niiden 
 
 ## 2 Käsitteet (uusi tietoperusta?)
 
-Tässä osiossa avaan olennaisimpia käsitteitä, joita opinnäytetyöni sisältää.
+Tässä osiossa avaan olennaisimpia käsitteitä, joita opinnäytetyöni sisältää, ja jotka on hyvä tuntea ennen sen lukemista.
 
 
 ### 2.1 Videopeli
