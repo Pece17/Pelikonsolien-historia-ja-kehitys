@@ -88,7 +88,8 @@ Näytönohjaimet (graphics processing unit tai GPU) ovat prosessoreita, jotka er
 
 Tietokonesirut, toisilta nimiltään mikropiirit tai puolijohteet, tarkoittavat elektroniikassa tyypillisesti piistä valmistettuja laitteita, jotka sisältävät elektronisia piirikomponentteja, kuten transistoreita ja johdotuksia. Kyseiset transistorit toimivat kytkiminä, jotka pystyvät kytkemään sähkövirran päälle tai pois. Puolijohdelaitteet voivat vaihdella yksinkertaisista lämpötila-antureista, joita käytetään digitaalisissa lämpömittareissa, huippuluokan tietokoneprosessoreihin (CPU). (https://www.usitc.gov/publications/332/working_papers/final_from_silicon_to_donkey_kong_a_case_study_in_the_use_of_semiconductors_in_video_game_consoles_compiled_508-compliant.pdf.)
 
-### 2.9 8-, 16-, 32- ja 64-bittinen systeemi
+
+### 2.9 8-64-bittinen systeemi
 
 (https://www.pcmag.com/encyclopedia/term/8-bit-computing) (https://www.pcmag.com/encyclopedia/term/16-bit-computing) (https://www.pcmag.com/encyclopedia/term/32-bit-computing) (https://www.pcmag.com/encyclopedia/term/64-bit-computing)
 
@@ -105,7 +106,7 @@ t. (https://www.pcmag.com/encyclopedia/term/2d-graphics.) t. (https://www.pcmag.
 
 ### 2.12 Polygoni
 
-Polygoni tarkoittaa tietokonegrafiikoiden kontekstissa kirjaimellisesti monipuolista objektia tai esinettä, joka voidaan täyttää väreillä tai jota voidaan liikuttaa yksittäisenä entiteettinä tai kokonaisuutena (https://www.pcmag.com/encyclopedia/term/polygon). (Polygoneja käytetään 3d-esineiden luomiseen peleissä?)
+Polygoni tarkoittaa tietokonegrafiikoiden kontekstissa monireunaista objektia, kuten esimerkiksi kolmiota tai neliötä, joka voidaan täyttää väreillä tai jota voidaan liikuttaa yksittäisenä kokonaisuutena (https://www.pcmag.com/encyclopedia/term/polygon). Polygonit ovat kaksiulotteisia (2D) muotoja, joita käytetään kolmiulotteisten (3D) verkkojen, tai toisin sanoen, mallien luomiseen. Pyramidit ja kuutiot ovat esimerkkejä kolmiulotteisista malleista. Jokainen polygoni muodostuu vähintään kolmesta kärjestä ja reunasta, jotka yhdistyvät muodostaen suljetun muodon. (https://www.adobe.com/uk/products/substance3d/discover/3d-polygon-modeling.html.)
 
 
 ## 2 Pelikonsolien historia ja kehitys (tutkimus?)
