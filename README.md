@@ -44,13 +44,17 @@ Tutkimusmenetelmä opinnäytetyössä oli kuvaileva kirjallisuuskatsaus käyttä
 Tutkimuskysymykseni olivat: miten kotivideopelikonsolit ovat kehittyneet niiden alkuajoista 2000-luvun alkuun saakka, sekä minkälaista laadukasta tutkimustietoa aiheesta löytyy?
 
 
-### 1.1 Käsitteet (uusi tietoperusta?)
+## 2 Käsitteet (uusi tietoperusta?)
 
-#### 1.1.1 Videopeli
+Lorem ipsum
+
+
+### 2.1 Videopeli
 
 Videopeli on kattotermi, joka tarkoittaa kaikkia viihdesovelluksia, joita käytetään erilaisten pelikonsolien tai laitteiden kautta (Cheng, Cheung & Wang 2018).
 
-#### 1.1.2 Videopelikonsoli
+
+### 2.2 Videopelikonsoli
 
 Videopelikonsoli tarkoittaa videopelien pelaamiseen erikoistunutta pöytätietokonetta. Varhaisimmat videopelikonsolit toimivat pelkästään pelikasettien avulla, joissa oli vain lukumuisti-siruja (read only memory tai ROM), mutta nykyaikaiset videopelikonsolit pyörittävät pelejä levyjen kautta tai suoraan videopelikonsolille lataamalla. Videopelikonsolit vaativat ulkoisen näytön, kuten television tai tietokoneen näytön, toimiakseen. (https://www.pcmag.com/encyclopedia/term/video-game-console.)
 
@@ -186,8 +190,12 @@ Pääasialliset lähteeni olivat pelikonsolien historiaa ja kehitystä käsittel
 
 ### 3.3 Tulokset
 
+Lorem ipsum
+
 
 ## 4 Johtopäätökset
+
+Lorem ipsum
 
 
 ## Lähteet
