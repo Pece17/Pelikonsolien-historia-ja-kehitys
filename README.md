@@ -58,25 +58,54 @@ Videopeli on kattotermi, joka tarkoittaa kaikkia viihdesovelluksia, joita käyte
 
 Videopelikonsoli tarkoittaa videopelien pelaamiseen erikoistunutta pöytätietokonetta. Varhaisimmat videopelikonsolit toimivat pelkästään pelikasettien avulla, joissa oli vain lukumuisti-siruja (read only memory tai ROM), mutta nykyaikaiset videopelikonsolit pyörittävät pelejä levyjen kautta tai suoraan videopelikonsolille lataamalla. Videopelikonsolit vaativat ulkoisen näytön, kuten television tai tietokoneen näytön, toimiakseen. (https://www.pcmag.com/encyclopedia/term/video-game-console.)
 
-Flipperi  Flipperi tarkoittaa (http://danny.cdyn.com/Milestones_2011.pdf#page=22).
 
-Oskilloskooppi  Oskilloskoopit ovat yksi tärkeimmistä työkaluista sähköisten signaalien analysoinnissa. Ensisijainen tieto, jota signaalien aaltomuodosta voidaan saada sen avulla on amplitudin eli värähdyslaajuuden vaihtelun visualisointi ajan kuluessa. (https://ieeexplore.ieee.org/abstract/document/4017100/authors#authors.)
+### 2.3 Flipperi
 
-ChatGPT  ChatGPT on esikoulutettu luonnollisen kielen käsittelymalli (Natural language processing tai NLP), joka tarkoittaa tekoälyn osaa, jonka tarkoituksena on mahdollistaa tietokoneiden ymmärrys ja vuorovaikutus ihmisten kielten kanssa. (https://link.springer.com/chapter/10.1007/978-1-4842-9529-8_1.)
+Flipperi tarkoittaa (http://danny.cdyn.com/Milestones_2011.pdf#page=22).
 
-Prosessori  Prosessoreita tai suorittimia (central processing unit tai CPU) pidetään tietokoneiden aivoina, jotka pyörittävät tietokoneiden käyttöjärjestelmiä ja suorittavat ohjelmistojen ohjeistuksia. Nykyaikaisissa suorittimissa on tyypillisesti useita prosessoreita, joita kutsutaan ytimiksi, ja joista kukin pystyy keskittymään omaan uniikkiin tehtäväänsä. Mitä enemmän ytimiä suorittimella on, sitä tehokkaammin se pystyy prosessoimaan tietoa. Videopelikonsoleissa suorittimet hallitsevat käyttöjärjestelmää, suorittavat ohjelmistoja ja hallitsevat videopelien sisäisiä toimintoja, kuten taistelua, törmäysmallinnusta ja ei-ohjattavia pelaajien (NPC) vuorovaikutuksia. (https://www.usitc.gov/publications/332/working_papers/final_from_silicon_to_donkey_kong_a_case_study_in_the_use_of_semiconductors_in_video_game_consoles_compiled_508-compliant.pdf.)
 
-Näytönohjain  Näytönohjaimet (graphics processing unit tai GPU) ovat prosessoreita, jotka erikoistuvat grafiikoiden ja videoiden renderöintiin tai toistamiseen. Suorittamalla näitä toimintoja, näytönohjaimet vapauttavat suorittimet (CPU) keskittymään muihin tehtäviin. Näytönohjaimilla on elintärkeä rooli videopelikonsoleissa, sillä ne renderöivät korkearesoluutioisia grafiikoita ja tekstuureja. Mitä tehokkampi näytönohjain on, sitä enemmän videopelikonsoli pystyy renderöimään kuvia sekunnissa (frames per second tai FPS). Korkeat kuvataajuudet ovat erityisen tärkeitä kilpaileville pelaajille ensimmäisen persoonan ammuntapeleissä (myöskin FPS sanoista first-person shooter). (https://www.usitc.gov/publications/332/working_papers/final_from_silicon_to_donkey_kong_a_case_study_in_the_use_of_semiconductors_in_video_game_consoles_compiled_508-compliant.pdf.)
+### 2.4 Oskilloskooppi
 
-Tietokonesiru  Tietokonesirut, toisilta nimiltään mikropiirit tai puolijohteet, tarkoittavat elektroniikassa tyypillisesti piistä valmistettuja laitteita, jotka sisältävät elektronisia piirikomponentteja, kuten transistoreita ja johdotuksia. Kyseiset transistorit toimivat kytkiminä, jotka pystyvät kytkemään sähkövirran päälle tai pois. Puolijohdelaitteet voivat vaihdella yksinkertaisista lämpötila-antureista, joita käytetään digitaalisissa lämpömittareissa, huippuluokan tietokoneprosessoreihin (CPU). (https://www.usitc.gov/publications/332/working_papers/final_from_silicon_to_donkey_kong_a_case_study_in_the_use_of_semiconductors_in_video_game_consoles_compiled_508-compliant.pdf.)
+Oskilloskoopit ovat yksi tärkeimmistä työkaluista sähköisten signaalien analysoinnissa. Ensisijainen tieto, jota signaalien aaltomuodosta voidaan saada sen avulla on amplitudin eli värähdyslaajuuden vaihtelun visualisointi ajan kuluessa. (https://ieeexplore.ieee.org/abstract/document/4017100/authors#authors.)
 
-8-64-bittinen systeemi (https://www.pcmag.com/encyclopedia/term/8-bit-computing) (https://www.pcmag.com/encyclopedia/term/16-bit-computing) (https://www.pcmag.com/encyclopedia/term/32-bit-computing) (https://www.pcmag.com/encyclopedia/term/64-bit-computing)
 
-Resoluutio  t. (https://www.pcmag.com/encyclopedia/term/resolution)
+### 2.5 ChatGPT
 
-2D- ja 3D-grafiikat videopeleissä  t. (https://www.pcmag.com/encyclopedia/term/2d-graphics.) t. (https://www.pcmag.com/encyclopedia/term/3d-graphics.)
+ChatGPT on esikoulutettu luonnollisen kielen käsittelymalli (Natural language processing tai NLP), joka tarkoittaa tekoälyn osaa, jonka tarkoituksena on mahdollistaa tietokoneiden ymmärrys ja vuorovaikutus ihmisten kielten kanssa. (https://link.springer.com/chapter/10.1007/978-1-4842-9529-8_1.)
 
-Polygoni  Polygoni tarkoittaa tietokonegrafiikoiden kontekstissa kirjaimellisesti monipuolista objektia tai esinettä, joka voidaan täyttää väreillä tai jota voidaan liikuttaa yksittäisenä entiteettinä tai kokonaisuutena (https://www.pcmag.com/encyclopedia/term/polygon). (Polygoneja käytetään 3d-esineiden luomiseen peleissä?)
+
+### 2.6 Prosessori
+
+Prosessoreita tai suorittimia (central processing unit tai CPU) pidetään tietokoneiden aivoina, jotka pyörittävät tietokoneiden käyttöjärjestelmiä ja suorittavat ohjelmistojen ohjeistuksia. Nykyaikaisissa suorittimissa on tyypillisesti useita prosessoreita, joita kutsutaan ytimiksi, ja joista kukin pystyy keskittymään omaan uniikkiin tehtäväänsä. Mitä enemmän ytimiä suorittimella on, sitä tehokkaammin se pystyy prosessoimaan tietoa. Videopelikonsoleissa suorittimet hallitsevat käyttöjärjestelmää, suorittavat ohjelmistoja ja hallitsevat videopelien sisäisiä toimintoja, kuten taistelua, törmäysmallinnusta ja ei-ohjattavia pelaajien (NPC) vuorovaikutuksia. (https://www.usitc.gov/publications/332/working_papers/final_from_silicon_to_donkey_kong_a_case_study_in_the_use_of_semiconductors_in_video_game_consoles_compiled_508-compliant.pdf.)
+
+
+### 2.7 Näytönohjain 
+
+Näytönohjaimet (graphics processing unit tai GPU) ovat prosessoreita, jotka erikoistuvat grafiikoiden ja videoiden renderöintiin tai toistamiseen. Suorittamalla näitä toimintoja, näytönohjaimet vapauttavat suorittimet (CPU) keskittymään muihin tehtäviin. Näytönohjaimilla on elintärkeä rooli videopelikonsoleissa, sillä ne renderöivät korkearesoluutioisia grafiikoita ja tekstuureja. Mitä tehokkampi näytönohjain on, sitä enemmän videopelikonsoli pystyy renderöimään kuvia sekunnissa (frames per second tai FPS). Korkeat kuvataajuudet ovat erityisen tärkeitä kilpaileville pelaajille ensimmäisen persoonan ammuntapeleissä (myöskin FPS sanoista first-person shooter). (https://www.usitc.gov/publications/332/working_papers/final_from_silicon_to_donkey_kong_a_case_study_in_the_use_of_semiconductors_in_video_game_consoles_compiled_508-compliant.pdf.)
+
+
+### 2.8 Tietokonesiru
+
+Tietokonesirut, toisilta nimiltään mikropiirit tai puolijohteet, tarkoittavat elektroniikassa tyypillisesti piistä valmistettuja laitteita, jotka sisältävät elektronisia piirikomponentteja, kuten transistoreita ja johdotuksia. Kyseiset transistorit toimivat kytkiminä, jotka pystyvät kytkemään sähkövirran päälle tai pois. Puolijohdelaitteet voivat vaihdella yksinkertaisista lämpötila-antureista, joita käytetään digitaalisissa lämpömittareissa, huippuluokan tietokoneprosessoreihin (CPU). (https://www.usitc.gov/publications/332/working_papers/final_from_silicon_to_donkey_kong_a_case_study_in_the_use_of_semiconductors_in_video_game_consoles_compiled_508-compliant.pdf.)
+
+### 2.9 8-, 16-, 32- ja 64-bittinen systeemi
+
+(https://www.pcmag.com/encyclopedia/term/8-bit-computing) (https://www.pcmag.com/encyclopedia/term/16-bit-computing) (https://www.pcmag.com/encyclopedia/term/32-bit-computing) (https://www.pcmag.com/encyclopedia/term/64-bit-computing)
+
+
+### 2.10 Resoluutio
+
+t. (https://www.pcmag.com/encyclopedia/term/resolution)
+
+
+### 2.11 2D- ja 3D-grafiikat videopeleissä
+
+t. (https://www.pcmag.com/encyclopedia/term/2d-graphics.) t. (https://www.pcmag.com/encyclopedia/term/3d-graphics.)
+
+
+### 2.12 Polygoni
+
+Polygoni tarkoittaa tietokonegrafiikoiden kontekstissa kirjaimellisesti monipuolista objektia tai esinettä, joka voidaan täyttää väreillä tai jota voidaan liikuttaa yksittäisenä entiteettinä tai kokonaisuutena (https://www.pcmag.com/encyclopedia/term/polygon). (Polygoneja käytetään 3d-esineiden luomiseen peleissä?)
 
 
 ## 2 Pelikonsolien historia ja kehitys (tutkimus?)
