@@ -200,7 +200,10 @@ Pääasialliset lähteeni olivat pelikonsolien historiaa ja kehitystä käsittel
 
     Vilkka, H. 2021. Tutki ja kehitä. (myös e-kirja)​
 
-    Vilkka, H. 2023. Kirjallisuuskatsaus metodina, opinnäytetyön osana ja tekstilajina. (myös e-kirja)​
+
+(varsinaiset lähteet tästä alaspäin)
+
+Vilkka, H. 2023. Kirjallisuuskatsaus metodina, opinnäytetyön osana ja tekstilajina. (myös e-kirja)​
 
 
 Cheng, C., Cheung M. W.-L. & Wang, H. 2018. Multinational comparison of internet gaming disorder and psychosocial problems versus well-being: Meta-analysis of 20 countries. Computers in Human Behavior. 88, s. 153-167.
