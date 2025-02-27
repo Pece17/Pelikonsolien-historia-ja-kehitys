@@ -66,7 +66,7 @@ Arcade-peli tai kolikkopeli tarkoittaa tyypillisesti kolikoilla toimivaa peliä,
 
 ### 2.4 Flipperi
 
-Flipperi (englanniksi pinball machine) tarkoittaa varhaisinta sähkömekaanista kolikolla toimivaa arcade-peliä, joita tyypillisesti löytyy esimerkiksi biljardihalleista ja pelihalleista. Flipperin pelaaja syöttää laitteeseen kolikon, mikä avaa jousimännän, jonka avulla pelaaja voi lingota teräspallon kujaa pitkin lasikannelliselle vinolle pelialueelle. Pelialueen yläpäästä pallo laskeutuu erilaisten porttien läpi, pylväiden välistä ja törmäten puskureihin - näiden elementtien sähköiset kosketuspisteet tuottavat kumulatiivisen tuloksen, joka on tallennettu koneen yläosassa olevaan valaistuun paneeliin. Lopuksi pallo putoaa yhteen useista rei'istä antaen erilaisia ​​pisteitä. (https://www.britannica.com/topic/pinball-machine.) Flipperi-laitteiden nimi tulee flippereistä tai mailoista, joiden avulla pelaaja pystyy lyömään pallon takaisin pelialueelle ja pitämään pelin käynnissä (http://danny.cdyn.com/Milestones_2011.pdf#page=22).
+Flipperi (englanniksi pinball machine) tarkoittaa varhaisinta sähkömekaanista kolikolla toimivaa arcade-peliä, joita tyypillisesti löytyy esimerkiksi biljardihalleista ja pelihalleista. Flipperin pelaaja syöttää laitteeseen kolikon, mikä avaa jousimännän, jonka avulla pelaaja voi lingota teräspallon kujaa pitkin lasikannelliselle vinolle pelialueelle. Pelialueen yläpäästä pallo laskeutuu erilaisten porttien läpi, pylväiden välistä ja törmäten puskureihin - näiden elementtien sähköiset kosketuspisteet tuottavat kumulatiivisen tuloksen, joka on tallennettu koneen yläosassa olevaan valaistuun paneeliin. Lopuksi pallo putoaa yhteen useista rei'istä antaen erilaisia ​​pisteitä. (Encyclopædia Britannica, Inc. 2025.) Flipperi-laitteiden nimi tulee flippereistä tai mailoista, joiden avulla pelaaja pystyy lyömään pallon takaisin pelialueelle ja pitämään pelin käynnissä (http://danny.cdyn.com/Milestones_2011.pdf#page=22).
 
 
 ### 2.5 Oskilloskooppi
@@ -258,7 +258,7 @@ Vilkka, H. 2023. Kirjallisuuskatsaus metodina, opinnäytetyön osana ja tekstila
 
 
 
-https://www.britannica.com/topic/pinball-machine
+
 
 http://danny.cdyn.com/Milestones_2011.pdf#page=22
 
@@ -284,6 +284,8 @@ https://www.adobe.com/uk/products/substance3d/discover/3d-polygon-modeling.html
 Merriam-Webster 2025. arcade game. Luettavissa: https://www.merriam-webster.com/dictionary/arcade%20game. Luettu: 27.2.2025.
 
 Cheng, C., Cheung M. W.-L. & Wang, H. 2018. Multinational comparison of internet gaming disorder and psychosocial problems versus well-being: Meta-analysis of 20 countries. Computers in Human Behavior. 88, s. 153-167.
+
+Encyclopædia Britannica, Inc. 2025. pinball machine. Luettavissa: https://www.britannica.com/topic/pinball-machine. Luettu: 27.2.2025.
 
 Horton, Z. 2019. A “Total Play and Learning Experience”: The Magnavox Odyssey’s 1972 Dream of Media Convergence. Continent, 8, 1-2, s. 76-86.
 
