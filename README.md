@@ -61,7 +61,7 @@ Videopelikonsoli tarkoittaa videopelien pelaamiseen erikoistunutta pöytätietok
 
 ### 2.3 Arcade-peli
 
-Arcade-peli tai kolikkopeli tarkoittaa tyypillisesti kolikoilla toimivaa peliä, joka on suunniteltu pelattavaksi pelihalleissa (https://www.merriam-webster.com/dictionary/arcade%20game).
+Arcade-peli tai kolikkopeli tarkoittaa tyypillisesti kolikoilla toimivaa peliä, joka on suunniteltu pelattavaksi pelihalleissa (Merriam-Webster 2025).
 
 
 ### 2.4 Flipperi
@@ -258,8 +258,6 @@ Vilkka, H. 2023. Kirjallisuuskatsaus metodina, opinnäytetyön osana ja tekstila
 
 
 
-https://www.merriam-webster.com/dictionary/arcade%20game
-
 https://www.britannica.com/topic/pinball-machine
 
 http://danny.cdyn.com/Milestones_2011.pdf#page=22
@@ -283,12 +281,13 @@ https://www.pcmag.com/encyclopedia/term/3d-graphics
 https://www.adobe.com/uk/products/substance3d/discover/3d-polygon-modeling.html
 
 
+Merriam-Webster 2025. arcade game. Luettavissa: https://www.merriam-webster.com/dictionary/arcade%20game. Luettu: 27.2.2025.
 
 Cheng, C., Cheung M. W.-L. & Wang, H. 2018. Multinational comparison of internet gaming disorder and psychosocial problems versus well-being: Meta-analysis of 20 countries. Computers in Human Behavior. 88, s. 153-167.
 
 Horton, Z. 2019. A “Total Play and Learning Experience”: The Magnavox Odyssey’s 1972 Dream of Media Convergence. Continent, 8, 1-2, s. 76-86.
 
-PCMag (ei pvm.). video game console. Luettavissa: https://www.pcmag.com/encyclopedia/term/video-game-console. Luettu: 27.2.2025
+PCMag (ei pvm.). video game console. Luettavissa: https://www.pcmag.com/encyclopedia/term/video-game-console. Luettu: 27.2.2025.
 
 Raessens, J. & Goldstein, J. 2005. Handbook of Computer Game Studies. MIT Press. Cambridge, MA.\
 
