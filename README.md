@@ -128,7 +128,7 @@ Tässä osiossa käyn läpi pelikonsolien historiaa ja kehitystä niiden alkuajo
 
 Vuosia 1958-1972 voidaan ajatella videopelien esihistoriana ja kokeilun ajanjaksona, jolloin monet eri ihmiset erilaisilla taustoilla antoivat oman panoksensa videopelien kehitykselle. Jo aikaisemmin syntyneet huviteollisuus, joka käsitti esimerkiksi flipperit ja lautapelit, sekä nopeasti kehittyvä tietokoneteknologia olivat raivanneet tietä tälle tulevalle populaarikulttuurin muodolle. (Raessens & Goldstein 2005, 23.) 
 
-Vuonna 1958 Willy Higinbotham, insinööri Brookhaven National Laboratory -tutkimuslaitoksesta, ehdotti jotain jännittävämpää esiteltävää vierailijoille avointen ovien päivänä, kuin perinteiset tilastot ja yritysesitelmät. Hän muunsi oskilloskoopin, laitteen joka muuttaa värähtelyjä aaltomaiseksi liikkeeksi näytöllä, eräänlaiseksi tennispeliksi. Higinbothamin keksinnössä valopilkku toimi pallona, ja kahden napillisen laatikon, ensimmäisten peliohjainten, avulla pelaajat pystyivät säätämään "lyöntien" kulmaa. Pelin nimeksi hän keksi osuvasti "Tennis for Two", Tennistä kahdelle. Higinbotham ei kuitenkaan patentoinut keksintöään tai ollut kiinnostunut sen käytännöllisistä sovelluksista, vaan piti sitä pelkästään mielekkäänä tapana havainnollistaa oskilloskoopin toimintaa. Higinbotham onnistui tekemään tieteellisestä intstrumentista viehättävän ei-tieteelliselle yleisölle piilottamalla laitteen monimutkaisuuden ja tekemällä siitä käyttäjäystävällisen. (Raessens & Goldstein 2005, 23.) Samalla periaattella modernitkin pelikonsolit toimivat. Higinbotham itse kuitenkin piti keksintöään vain "pienenä saavutuksena" (Horton 2019, 76).
+Vuonna 1958 Willy Higinbotham, insinööri Brookhaven National Laboratory -tutkimuslaitoksesta, ehdotti jotain jännittävämpää esiteltävää vierailijoille avointen ovien päivänä, kuin perinteiset tilastot ja yritysesitelmät. Hän muunsi oskilloskoopin, laitteen joka muuttaa värähtelyjä aaltomaiseksi liikkeeksi näytöllä, eräänlaiseksi tennispeliksi. Higinbothamin keksinnössä valopilkku toimi pallona, ja kahden napillisen laatikon, ensimmäisten peliohjainten, avulla pelaajat pystyivät säätämään "lyöntien" kulmaa. Pelin nimeksi hän keksi osuvasti "Tennis for Two", Tennistä kahdelle. Higinbotham ei kuitenkaan patentoinut keksintöään tai ollut kiinnostunut sen käytännöllisistä sovelluksista, vaan piti sitä pelkästään mielekkäänä tapana havainnollistaa oskilloskoopin toimintaa. Higinbotham onnistui tekemään tieteellisestä intstrumentista viehättävän ei-tieteelliselle yleisölle piilottamalla laitteen monimutkaisuuden ja tekemällä siitä käyttäjäystävällisen. (Raessens & Goldstein 2005, 23.) Samalla periaattella modernitkin pelikonsolit toimivat. Zachary Hortonin artikkelin mukaan Higinbotham itse kuitenkin piti keksintöään vain "pienenä saavutuksena" (Horton 2019, 76). Tennis for Two -peli hyödynsi oskilloskoopin lisäksi myös elektroniputkia ja transistoreita, ja se perustui sotilastietokoneisiin, jotka oli suunniteltu laskemaan ohjusten ballistisia lentoratoja. Se käytti mikropiirejä laskeakseen pallon lentoradan, kun sitä lyötiin edestakaisin kahden pelaajan toimesta. (De La Cruz & Ryan 2016, 1.)
 
 Kolme nimeä tulee esiin, kun mietitään videopelien varsinaista keksijää: Steve Russell, Ralph Baer ja Nolan Bushnell. Steve Russell oli vasta opiskelija Massachusetts Institute of Technology -korkeakoulussa, kun hän vuonna 1962 kehitti Spacewar-pelin PDP-1-keskuskoneelle (Programmed Data Processor-1). (Raessens & Goldstein 2005, 24.) Toisen lähteen mukaan Steve Russelilla oli myös yhteistyökumppaneita Spacewar-pelin kehityksessä (Horton 2019, 76). Russell erosi Willy Higinbothamista siinä mielessä, että hän halusi luoda sovelluksen alusta alkaen viihdekäyttöön. Teknisesti peli toimi jatkuvasti näyttöpäätteelle ilmestyvien ja häviävien valonvälähdyksien periaatteella, samalla tavalla kuin osa nykyajan näytönsäästäjistä. Pelin varsinainen innovaatio oli muuttaa kaksi valopilkkua muistuttamaan avaruusaluksia, joita kilpailevat kaksi pelaajaa pystyivät ohjaamaan. Muut valopilkut näytöllä olivat puhtaasti koristeellisia, mutta keskellä näyttöä oli mustaa aukkoa kuvaava ruksi. Pelin päämääränä oli ampua avaruusaluksista torpedoita yrittäen tuhota vastapelaajan aluksen sekä välttää mustaa aukkoa. Spacewar-peliä pidetään ensimmäisenä tietokoneelle ohjelmoituna pelinä, toisin sanoen ensimmäisenä tietokonepelinä. (Raessens & Goldstein 2005, 24.)
 
@@ -255,11 +255,14 @@ Lorem ipsum
 (varsinaiset lähteet tästä alaspäin, kirjoita lähteiden merkkaus puhtaaksi)
 
 
+
 Adobe (ei pvm.). What is a polygon in 3D modelling?. Luettavissa: https://www.adobe.com/uk/products/substance3d/discover/3d-polygon-modeling.html. Luettu: 27.2.2025.
 
 Black, J. 2011. Pinball: The Misunderstood Game of Amusement. A Journal of Academic Writing, 7, s. 23­­­–24.
 
 Cheng, C., Cheung M. W.-L. & Wang, H. 2018. Multinational comparison of internet gaming disorder and psychosocial problems versus well-being: Meta-analysis of 20 countries. Computers in Human Behavior. 88, s. 153-167.
+
+De La Cruz, A. & Ryan, J. 2016. Tennis for Two. 6.101 Final Projects Spring 2016. Massachusetts Institute of Technology. Cambridge, MA. Luettavissa: http://web.mit.edu/6.101/www/s2016/projects/jackryan_Project_Final_Report.pdf. Luettu: 27.2.2025.
 
 Encyclopædia Britannica, Inc. 2025. pinball machine. Luettavissa: https://www.britannica.com/topic/pinball-machine. Luettu: 27.2.2025.
 
@@ -285,7 +288,7 @@ PCMag (ei pvm.). resolution. Luettavissa: https://www.pcmag.com/encyclopedia/ter
 
 PCMag (ei pvm.). video game console. Luettavissa: https://www.pcmag.com/encyclopedia/term/video-game-console. Luettu: 27.2.2025.
 
-Raessens, J. & Goldstein, J. 2005. Handbook of Computer Game Studies. MIT Press. Cambridge, MA.\
+Raessens, J. & Goldstein, J. 2005. Handbook of Computer Game Studies. MIT Press. Cambridge, MA.
 
 Richard, S. 2015. A Brief History of Video Games. Robinson. Lontoo 
 
