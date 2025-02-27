@@ -254,9 +254,8 @@ Lorem ipsum
 
 (varsinaiset lähteet tästä alaspäin, kirjoita lähteiden merkkaus puhtaaksi)
 
-Vilkka, H. 2023. Kirjallisuuskatsaus metodina, opinnäytetyön osana ja tekstilajina. (myös e-kirja)​
 
-
+Vilkka, H. 2023. Kirjallisuuskatsaus metodina, opinnäytetyön osana ja tekstilajina. Art House. Helsinki. E-kirja. Luettu: päivämäärä.
 
 
 
