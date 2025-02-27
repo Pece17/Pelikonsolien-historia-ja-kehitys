@@ -66,12 +66,12 @@ Arcade-peli tai kolikkopeli tarkoittaa tyypillisesti kolikoilla toimivaa peliä,
 
 ### 2.4 Flipperi
 
-Flipperi (englanniksi pinball machine) tarkoittaa varhaisinta sähkömekaanista kolikolla toimivaa arcade-peliä, joita tyypillisesti löytyy esimerkiksi biljardihalleista ja pelihalleista. Flipperin pelaaja syöttää laitteeseen kolikon, mikä avaa jousimännän, jonka avulla pelaaja voi lingota teräspallon kujaa pitkin lasikannelliselle vinolle pelialueelle. Pelialueen yläpäästä pallo laskeutuu erilaisten porttien läpi, pylväiden välistä ja törmäten puskureihin - näiden elementtien sähköiset kosketuspisteet tuottavat kumulatiivisen tuloksen, joka on tallennettu koneen yläosassa olevaan valaistuun paneeliin. Lopuksi pallo putoaa yhteen useista rei'istä antaen erilaisia ​​pisteitä. (Encyclopædia Britannica, Inc. 2025.) Flipperi-laitteiden nimi tulee flippereistä tai mailoista, joiden avulla pelaaja pystyy lyömään pallon takaisin pelialueelle ja pitämään pelin käynnissä (http://danny.cdyn.com/Milestones_2011.pdf#page=22).
+Flipperi (englanniksi pinball machine) tarkoittaa varhaisinta sähkömekaanista kolikolla toimivaa arcade-peliä, joita tyypillisesti löytyy esimerkiksi biljardihalleista ja pelihalleista. Flipperin pelaaja syöttää laitteeseen kolikon, mikä avaa jousimännän, jonka avulla pelaaja voi lingota teräspallon kujaa pitkin lasikannelliselle vinolle pelialueelle. Pelialueen yläpäästä pallo laskeutuu erilaisten porttien läpi, pylväiden välistä ja törmäten puskureihin - näiden elementtien sähköiset kosketuspisteet tuottavat kumulatiivisen tuloksen, joka on tallennettu koneen yläosassa olevaan valaistuun paneeliin. Lopuksi pallo putoaa yhteen useista rei'istä antaen erilaisia ​​pisteitä. (Encyclopædia Britannica, Inc. 2025.) Flipperi-laitteiden nimi tulee flippereistä tai mailoista, joiden avulla pelaaja pystyy lyömään pallon takaisin pelialueelle ja pitämään pelin käynnissä (Black 2011, 23-24).
 
 
 ### 2.5 Oskilloskooppi
 
-Oskilloskoopit ovat yksi tärkeimmistä työkaluista sähköisten signaalien analysoinnissa. Ensisijainen tieto, jota signaalien aaltomuodosta voidaan saada niiden avulla on amplitudin eli värähdyslaajuuden vaihtelun visualisointi ajan kuluessa. (https://ieeexplore.ieee.org/abstract/document/4017100/authors#authors.)
+Oskilloskoopit ovat yksi tärkeimmistä työkaluista sähköisten signaalien analysoinnissa. Ensisijainen tieto, jota signaalien aaltomuodosta voidaan saada niiden avulla on amplitudin eli värähdyslaajuuden vaihtelun visualisointi ajan kuluessa. (Miguel Dias Pereira 2006.)
 
 
 ### 2.6 ChatGPT
@@ -260,9 +260,9 @@ Vilkka, H. 2023. Kirjallisuuskatsaus metodina, opinnäytetyön osana ja tekstila
 
 
 
-http://danny.cdyn.com/Milestones_2011.pdf#page=22
 
-https://ieeexplore.ieee.org/abstract/document/4017100/authors#authors
+
+
 
 https://link.springer.com/chapter/10.1007/978-1-4842-9529-8_1
 
@@ -281,13 +281,19 @@ https://www.pcmag.com/encyclopedia/term/3d-graphics
 https://www.adobe.com/uk/products/substance3d/discover/3d-polygon-modeling.html
 
 
-Merriam-Webster 2025. arcade game. Luettavissa: https://www.merriam-webster.com/dictionary/arcade%20game. Luettu: 27.2.2025.
+
+
+Black, J. 2011. Pinball: The Misunderstood Game of Amusement. A Journal of Academic Writing, 7, s. 23­­­–24.
 
 Cheng, C., Cheung M. W.-L. & Wang, H. 2018. Multinational comparison of internet gaming disorder and psychosocial problems versus well-being: Meta-analysis of 20 countries. Computers in Human Behavior. 88, s. 153-167.
 
 Encyclopædia Britannica, Inc. 2025. pinball machine. Luettavissa: https://www.britannica.com/topic/pinball-machine. Luettu: 27.2.2025.
 
 Horton, Z. 2019. A “Total Play and Learning Experience”: The Magnavox Odyssey’s 1972 Dream of Media Convergence. Continent, 8, 1-2, s. 76-86.
+
+Merriam-Webster 2025. arcade game. Luettavissa: https://www.merriam-webster.com/dictionary/arcade%20game. Luettu: 27.2.2025.
+
+Miguel Dias Pereira, J. 2006. The history and technology of oscilloscopes. Luettavissa: https://ieeexplore.ieee.org/abstract/document/4017100/authors#authors. Luettu: 27.2.2025.
 
 PCMag (ei pvm.). video game console. Luettavissa: https://www.pcmag.com/encyclopedia/term/video-game-console. Luettu: 27.2.2025.
 
