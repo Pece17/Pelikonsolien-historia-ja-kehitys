@@ -59,57 +59,62 @@ Videopeli on kattotermi, joka tarkoittaa kaikkia viihdesovelluksia, joita käyte
 Videopelikonsoli tarkoittaa videopelien pelaamiseen erikoistunutta pöytätietokonetta. Varhaisimmat videopelikonsolit toimivat pelkästään pelikasettien avulla, joissa oli vain lukumuisti-siruja (read only memory tai ROM), mutta nykyaikaiset videopelikonsolit pyörittävät pelejä levyjen kautta tai suoraan videopelikonsolille lataamalla. Videopelikonsolit vaativat ulkoisen näytön, kuten television tai tietokoneen näytön, toimiakseen. (https://www.pcmag.com/encyclopedia/term/video-game-console.)
 
 
-### 2.3 Flipperi
+### 2.3 Arcade-peli
 
-Flipperi (englanniksi pinball machine) tarkoittaa varhaisinta sähkömekaanista kolikolla toimivaa arcade-peliä, joita tyypillisesti löytyy esimerkiksi biljardihalleista ja pelihalleista. Flipperin pelaaja syöttää laitteeseen kolikon, mikä avaa jousimännän, jonka avulla pelaaja voi lingota teräspallon kujaa pitkin lasikannelliselle vinolle pelialueelle. Pelialueen yläpäästä pallo laskeutuu erilaisten porttien läpi, pylväiden välistä ja törmäten puskureihin, joiden sähköiset kosketuspisteet tuottavat kumulatiivisen tuloksen, joka on tallennettu koneen yläosassa olevaan valaistuun paneeliin. Lopuksi pallo putoaa yhteen useista rei'istä antaen erilaisia ​​pisteitä. (http://danny.cdyn.com/Milestones_2011.pdf#page=22)(https://www.britannica.com/topic/pinball-machine).
+Arcade-peli tai kolikkopeli tarkoittaa tyypillisesti kolikoilla toimivaa peliä, joka on suunniteltu pelattavaksi pelihalleissa (https://www.merriam-webster.com/dictionary/arcade%20game).
 
 
-### 2.4 Oskilloskooppi
+### 2.4 Flipperi
+
+Flipperi (englanniksi pinball machine) tarkoittaa varhaisinta sähkömekaanista kolikolla toimivaa arcade-peliä, joita tyypillisesti löytyy esimerkiksi biljardihalleista ja pelihalleista. Flipperin pelaaja syöttää laitteeseen kolikon, mikä avaa jousimännän, jonka avulla pelaaja voi lingota teräspallon kujaa pitkin lasikannelliselle vinolle pelialueelle. Pelialueen yläpäästä pallo laskeutuu erilaisten porttien läpi, pylväiden välistä ja törmäten puskureihin - näiden elementtien sähköiset kosketuspisteet tuottavat kumulatiivisen tuloksen, joka on tallennettu koneen yläosassa olevaan valaistuun paneeliin. Lopuksi pallo putoaa yhteen useista rei'istä antaen erilaisia ​​pisteitä. (http://danny.cdyn.com/Milestones_2011.pdf#page=22.) Flipperi-laitteiden nimi tulee flippereistä tai mailoista, joiden avulla pelaaja pystyy lyömään pallon takaisin pelialueelle ja pitämään pelin käynnissä (https://www.britannica.com/topic/pinball-machine).
+
+
+### 2.5 Oskilloskooppi
 
 Oskilloskoopit ovat yksi tärkeimmistä työkaluista sähköisten signaalien analysoinnissa. Ensisijainen tieto, jota signaalien aaltomuodosta voidaan saada niiden avulla on amplitudin eli värähdyslaajuuden vaihtelun visualisointi ajan kuluessa. (https://ieeexplore.ieee.org/abstract/document/4017100/authors#authors.)
 
 
-### 2.5 ChatGPT
+### 2.6 ChatGPT
 
 ChatGPT on esikoulutettu luonnollisen kielen käsittelymalli (Natural language processing tai NLP), joka tarkoittaa tekoälyn osaa, jonka tarkoituksena on mahdollistaa tietokoneiden ymmärrys ja vuorovaikutus ihmisten kielten kanssa. (https://link.springer.com/chapter/10.1007/978-1-4842-9529-8_1).
 
 
-### 2.6 Prosessori
+### 2.7 Prosessori
 
 Prosessoreita tai suorittimia (central processing unit tai CPU) pidetään tietokoneiden aivoina, jotka pyörittävät tietokoneiden käyttöjärjestelmiä ja suorittavat ohjelmistojen ohjeistuksia. Nykyaikaisissa suorittimissa on tyypillisesti useita prosessoreita, joita kutsutaan ytimiksi, ja joista kukin pystyy keskittymään omaan uniikkiin tehtäväänsä. Mitä enemmän ytimiä suorittimella on, sitä tehokkaammin se pystyy prosessoimaan tietoa. Videopelikonsoleissa suorittimet hallitsevat käyttöjärjestelmää, suorittavat ohjelmistoja ja hallitsevat videopelien sisäisiä toimintoja, kuten taistelua, törmäysmallinnusta ja ei-ohjattavia pelaajien (NPC) vuorovaikutuksia. (https://www.usitc.gov/publications/332/working_papers/final_from_silicon_to_donkey_kong_a_case_study_in_the_use_of_semiconductors_in_video_game_consoles_compiled_508-compliant.pdf.)
 
 
-### 2.7 Näytönohjain 
+### 2.8 Näytönohjain 
 
 Näytönohjaimet (graphics processing unit tai GPU) ovat prosessoreita, jotka erikoistuvat grafiikoiden ja videoiden renderöintiin tai toistamiseen. Suorittamalla näitä toimintoja, näytönohjaimet vapauttavat suorittimet (CPU) keskittymään muihin tehtäviin. Näytönohjaimilla on elintärkeä rooli videopelikonsoleissa, sillä ne renderöivät korkearesoluutioisia grafiikoita ja tekstuureja. Mitä tehokkampi näytönohjain on, sitä enemmän videopelikonsoli pystyy renderöimään kuvia sekunnissa (frames per second tai FPS). Korkeat kuvataajuudet ovat erityisen tärkeitä kilpaileville pelaajille ensimmäisen persoonan ammuntapeleissä (myöskin FPS, sanoista first-person shooter). (https://www.usitc.gov/publications/332/working_papers/final_from_silicon_to_donkey_kong_a_case_study_in_the_use_of_semiconductors_in_video_game_consoles_compiled_508-compliant.pdf.)
 
 
-### 2.8 Tietokonesiru
+### 2.9 Tietokonesiru
 
 Tietokonesirut, toisilta nimiltään mikropiirit tai puolijohteet, tarkoittavat elektroniikassa tyypillisesti piistä valmistettuja laitteita, jotka sisältävät elektronisia piirikomponentteja, kuten transistoreita ja johdotuksia. Kyseiset transistorit toimivat kytkiminä, jotka pystyvät kytkemään sähkövirran päälle tai pois. Puolijohdelaitteet voivat vaihdella yksinkertaisista lämpötila-antureista, joita käytetään digitaalisissa lämpömittareissa, huippuluokan tietokoneprosessoreihin (CPU). (https://www.usitc.gov/publications/332/working_papers/final_from_silicon_to_donkey_kong_a_case_study_in_the_use_of_semiconductors_in_video_game_consoles_compiled_508-compliant.pdf.)
 
 
-### 2.9 Bitti
+### 2.10 Bitti
 
 Bitti tarkoittaa tietokoneen tallennustilan pienintä elementtiä. Bitti on yksinumeroinen binääriluku sisältäen vain 0- ja 1-numeroita. Fyysisesti bitti on transitori ja kondensaattori RAM-solussa (random-access memory), magneettinen alue levyllä tai nauhalla, solu SSD-asemalla (solid-state drive), piste optisella tietovälineellä tai virtapiirin läpi pulssiva jännite. (https://www.pcmag.com/encyclopedia/term/bit.)
 
 
-### 2.10 8-, 16-, 32- ja 64-bittiset järjestelmät
+### 2.11 8-, 16-, 32- ja 64-bittiset järjestelmät
 
 8-bittisessä järjestelmässä, kuten esimerkiksi videopelikonsolissa, suoritin kykenee käsittelemään 8 bittiä yhtenä yksikkönä. Vastaavasti, 16-bittisessä järjestelmässä suoritin kykenee käsittelemään 16 bittiä yhtenä yksikkönä, 32-bittisessä järjestelmässä suoritin kykenee käsittelemään 32 bittiä yhtenä yksikkönä ja 64-bittisessä järjestelmässä suoritin kykenee käsittelemään 64 bittiä yhtenä yksikkönä. Tosin, esimerkiksi 64-bittinen tietokone ei välttämättä ole tuplasti nopeampi verrattuna 32-bittiseen tietokoneeseen, vaan tietokoneen monet muut komponentit vaikuttavat myös sen suorituskykyyn. (https://www.pcmag.com/encyclopedia/term/64-bit-computing.)
 
 
-### 2.11 Resoluutio
+### 2.12 Resoluutio
 
 Resoluutio tai kuvatarkkuus tarkoittaa näytetyn tai tulostetun kuvan terävyyden asteen. Resoluutio määritellään pikselimäärän matriisina tuumaa kohti. Esimerkiksi, 1920x1200 näytön resoluutio tarkoittaa 1920:tä pikseliä vaakatasossa kullakin 1200:lla pystysuoralla rivillä. (https://www.pcmag.com/encyclopedia/term/resolution.)
 
 
-### 2.12 2D- ja 3D-grafiikat videopeleissä
+### 2.13 2D- ja 3D-grafiikat videopeleissä
 
 2D-grafiikat tarkoittavat objektien luontia, näyttämistä ja manipulointia tietokoneella kahdessa ulottuvuudessa X- ja Y-akseleilla, samalla periaatteella kuin paperille piirtäminen on kaksiulotteista. 2D-objekteja voidaan suurentaa tai pienentää, mutta niitä ei pystytä tarkastelemaan eri kulmista tai valaista automaattisesti. (https://www.pcmag.com/encyclopedia/term/2d-graphics.) 3D-grafiikat tarkoittavat objektien luontia, näyttämistä ja manipulointia tietokoneella kolmessa ulottuvuudessa X-, Y- ja Z-akseleilla. 3D-objekteja voidaan myöskin suurentaa ja pienentää, mutta myös käännellä ja tarkastella eri kulmista, ja automaattista valaistusta voidaan halutessa soveltaa. (https://www.pcmag.com/encyclopedia/term/3d-graphics.)
 
 
-### 2.13 Polygoni
+### 2.14 Polygoni
 
 Polygoni tarkoittaa tietokonegrafiikoiden kontekstissa monireunaista objektia, kuten esimerkiksi kolmiota tai neliötä, joka voidaan täyttää väreillä tai jota voidaan liikuttaa yksittäisenä kokonaisuutena (https://www.pcmag.com/encyclopedia/term/polygon). Polygonit ovat kaksiulotteisia (2D) muotoja, joita käytetään kolmiulotteisten (3D) verkkojen, tai toisin sanoen, mallien luomiseen. Pyramidit ja kuutiot ovat esimerkkejä kolmiulotteisista malleista. Jokainen polygoni muodostuu vähintään kolmesta kärjestä ja reunasta, jotka yhdistyvät muodostaen suljetun muodon. (https://www.adobe.com/uk/products/substance3d/discover/3d-polygon-modeling.html.)
 
@@ -250,6 +255,10 @@ Lorem ipsum
 (varsinaiset lähteet tästä alaspäin)
 
 Vilkka, H. 2023. Kirjallisuuskatsaus metodina, opinnäytetyön osana ja tekstilajina. (myös e-kirja)​
+
+https://www.pcmag.com/encyclopedia/term/video-game-console
+
+https://www.merriam-webster.com/dictionary/arcade%20game
 
 
 Cheng, C., Cheung M. W.-L. & Wang, H. 2018. Multinational comparison of internet gaming disorder and psychosocial problems versus well-being: Meta-analysis of 20 countries. Computers in Human Behavior. 88, s. 153-167.
