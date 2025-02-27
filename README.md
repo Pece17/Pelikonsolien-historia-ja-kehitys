@@ -66,7 +66,7 @@ Arcade-peli tai kolikkopeli tarkoittaa tyypillisesti kolikoilla toimivaa peliä,
 
 ### 2.4 Flipperi
 
-Flipperi (englanniksi pinball machine) tarkoittaa varhaisinta sähkömekaanista kolikolla toimivaa arcade-peliä, joita tyypillisesti löytyy esimerkiksi biljardihalleista ja pelihalleista. Flipperin pelaaja syöttää laitteeseen kolikon, mikä avaa jousimännän, jonka avulla pelaaja voi lingota teräspallon kujaa pitkin lasikannelliselle vinolle pelialueelle. Pelialueen yläpäästä pallo laskeutuu erilaisten porttien läpi, pylväiden välistä ja törmäten puskureihin - näiden elementtien sähköiset kosketuspisteet tuottavat kumulatiivisen tuloksen, joka on tallennettu koneen yläosassa olevaan valaistuun paneeliin. Lopuksi pallo putoaa yhteen useista rei'istä antaen erilaisia ​​pisteitä. (http://danny.cdyn.com/Milestones_2011.pdf#page=22.) Flipperi-laitteiden nimi tulee flippereistä tai mailoista, joiden avulla pelaaja pystyy lyömään pallon takaisin pelialueelle ja pitämään pelin käynnissä (https://www.britannica.com/topic/pinball-machine).
+Flipperi (englanniksi pinball machine) tarkoittaa varhaisinta sähkömekaanista kolikolla toimivaa arcade-peliä, joita tyypillisesti löytyy esimerkiksi biljardihalleista ja pelihalleista. Flipperin pelaaja syöttää laitteeseen kolikon, mikä avaa jousimännän, jonka avulla pelaaja voi lingota teräspallon kujaa pitkin lasikannelliselle vinolle pelialueelle. Pelialueen yläpäästä pallo laskeutuu erilaisten porttien läpi, pylväiden välistä ja törmäten puskureihin - näiden elementtien sähköiset kosketuspisteet tuottavat kumulatiivisen tuloksen, joka on tallennettu koneen yläosassa olevaan valaistuun paneeliin. Lopuksi pallo putoaa yhteen useista rei'istä antaen erilaisia ​​pisteitä. (https://www.britannica.com/topic/pinball-machine.) Flipperi-laitteiden nimi tulee flippereistä tai mailoista, joiden avulla pelaaja pystyy lyömään pallon takaisin pelialueelle ja pitämään pelin käynnissä (http://danny.cdyn.com/Milestones_2011.pdf#page=22).
 
 
 ### 2.5 Oskilloskooppi
@@ -252,13 +252,36 @@ Lorem ipsum
     Vilkka, H. 2021. Tutki ja kehitä. (myös e-kirja)​
 
 
-(varsinaiset lähteet tästä alaspäin)
+(varsinaiset lähteet tästä alaspäin, kirjoita lähteiden merkkaus puhtaaksi)
 
 Vilkka, H. 2023. Kirjallisuuskatsaus metodina, opinnäytetyön osana ja tekstilajina. (myös e-kirja)​
 
 https://www.pcmag.com/encyclopedia/term/video-game-console
 
 https://www.merriam-webster.com/dictionary/arcade%20game
+
+https://www.britannica.com/topic/pinball-machine
+
+http://danny.cdyn.com/Milestones_2011.pdf#page=22
+
+https://ieeexplore.ieee.org/abstract/document/4017100/authors#authors
+
+https://link.springer.com/chapter/10.1007/978-1-4842-9529-8_1
+
+https://www.usitc.gov/publications/332/working_papers/final_from_silicon_to_donkey_kong_a_case_study_in_the_use_of_semiconductors_in_video_game_consoles_compiled_508-compliant.pdf
+
+https://www.pcmag.com/encyclopedia/term/bit
+
+https://www.pcmag.com/encyclopedia/term/64-bit-computing
+
+https://www.pcmag.com/encyclopedia/term/resolution
+
+https://www.pcmag.com/encyclopedia/term/2d-graphics
+
+https://www.pcmag.com/encyclopedia/term/3d-graphics
+
+https://www.adobe.com/uk/products/substance3d/discover/3d-polygon-modeling.html
+
 
 
 Cheng, C., Cheung M. W.-L. & Wang, H. 2018. Multinational comparison of internet gaming disorder and psychosocial problems versus well-being: Meta-analysis of 20 countries. Computers in Human Behavior. 88, s. 153-167.
