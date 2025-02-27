@@ -255,16 +255,6 @@ Lorem ipsum
 (varsinaiset lähteet tästä alaspäin, kirjoita lähteiden merkkaus puhtaaksi)
 
 
-Vilkka, H. 2023. Kirjallisuuskatsaus metodina, opinnäytetyön osana ja tekstilajina. Art House. Helsinki. E-kirja. Luettu: päivämäärä.
-
-
-
-
-
-
-
-
-
 Adobe (ei pvm.). What is a polygon in 3D modelling?. Luettavissa: https://www.adobe.com/uk/products/substance3d/discover/3d-polygon-modeling.html. Luettu: 27.2.2025.
 
 Black, J. 2011. Pinball: The Misunderstood Game of Amusement. A Journal of Academic Writing, 7, s. 23­­­–24.
@@ -300,3 +290,5 @@ Raessens, J. & Goldstein, J. 2005. Handbook of Computer Game Studies. MIT Press.
 Richard, S. 2015. A Brief History of Video Games. Robinson. Lontoo 
 
 Sarrion, E. 2023. What Is ChatGPT ?. Luettavissa: https://link.springer.com/chapter/10.1007/978-1-4842-9529-8_1. Luettu: 27.2.2025.
+
+Vilkka, H. 2023. Kirjallisuuskatsaus metodina, opinnäytetyön osana ja tekstilajina. Art House. Helsinki. E-kirja. Luettu: 17.2.2025.
