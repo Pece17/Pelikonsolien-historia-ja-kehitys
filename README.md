@@ -61,7 +61,7 @@ Videopelikonsoli tarkoittaa videopelien pelaamiseen erikoistunutta pöytätietok
 
 ### 2.3 Flipperi
 
-Flipperi tarkoittaa (http://danny.cdyn.com/Milestones_2011.pdf#page=22).
+Flipperi (englanniksi pinball machine) tarkoittaa varhaisinta sähkömekaanista kolikolla toimivaa arcade-peliä, joita tyypillisesti löytyy esimerkiksi biljardihalleista ja pelihalleista. Flipperin pelaaja syöttää laitteeseen kolikon, mikä avaa jousimännän, jonka avulla pelaaja voi lingota teräspallon kujaa pitkin lasikannelliselle vinolle pelialueelle. Pelialueen yläpäästä pallo laskeutuu erilaisten porttien läpi, pylväiden välistä ja törmäten puskureihin, joiden sähköiset kosketuspisteet tuottavat kumulatiivisen tuloksen, joka on tallennettu koneen yläosassa olevaan valaistuun paneeliin. Lopuksi pallo putoaa yhteen useista rei'istä antaen erilaisia ​​pisteitä. (http://danny.cdyn.com/Milestones_2011.pdf#page=22)(https://www.britannica.com/topic/pinball-machine).
 
 
 ### 2.4 Oskilloskooppi
@@ -116,7 +116,7 @@ Polygoni tarkoittaa tietokonegrafiikoiden kontekstissa monireunaista objektia, k
 
 ## 2 Pelikonsolien historia ja kehitys (tutkimus?)
 
-Tässä osiossa käyn läpi pelikonsolien historiaa ja kehitystä niiden alkuajoista 1900-luvun puolivälistä 2000-luvulle saakka.
+Tässä osiossa käyn läpi pelikonsolien historiaa ja kehitystä niiden alkuajoista 1900-luvun puolivälistä 2000-luvun alkuun saakka.
 
 
 ### 2.1 Esihistoria
