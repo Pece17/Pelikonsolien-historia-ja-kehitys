@@ -225,7 +225,7 @@ Kuvailevan kirjallisuuskatsauksen subjektiivisen prosessin: syventävän lukemis
 
 ### 4.2 Kuvailevan kirjallisuuskatsauksen käyttö ja tutkimuksen aineisto
 
-Pääasialliset lähteeni olivat pelikonsolien historiaa ja kehitystä käsittelelviä kirjoja...
+"Kivijalka"-lähteinäni olivat pelikonsolien historiaa ja kehitystä käsitteleviä kirjoja...
 
 
 ### 4.3 Tulokset
