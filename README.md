@@ -56,7 +56,7 @@ Videopeli on kattotermi, joka tarkoittaa kaikkia viihdesovelluksia, joita käyte
 
 ### 2.2 Videopelikonsoli
 
-Videopelikonsoli tarkoittaa videopelien pelaamiseen erikoistunutta pöytätietokonetta. Varhaisimmat videopelikonsolit toimivat pelkästään pelikasettien avulla, joissa oli vain lukumuisti-siruja (read only memory tai ROM), mutta nykyaikaiset videopelikonsolit pyörittävät pelejä levyjen kautta tai suoraan videopelikonsolille lataamalla. Videopelikonsolit vaativat ulkoisen näytön, kuten television tai tietokoneen näytön, toimiakseen. (https://www.pcmag.com/encyclopedia/term/video-game-console.)
+Videopelikonsoli tarkoittaa videopelien pelaamiseen erikoistunutta pöytätietokonetta. Varhaisimmat videopelikonsolit toimivat pelkästään pelikasettien avulla, joissa oli vain lukumuisti-siruja (read only memory tai ROM), mutta nykyaikaiset videopelikonsolit pyörittävät pelejä levyjen kautta tai suoraan videopelikonsolille lataamalla. Videopelikonsolit vaativat ulkoisen näytön, kuten television tai tietokoneen näytön, toimiakseen. (PCMag (ei pvm.).)
 
 
 ### 2.3 Arcade-peli
@@ -256,7 +256,7 @@ Lorem ipsum
 
 Vilkka, H. 2023. Kirjallisuuskatsaus metodina, opinnäytetyön osana ja tekstilajina. (myös e-kirja)​
 
-https://www.pcmag.com/encyclopedia/term/video-game-console
+
 
 https://www.merriam-webster.com/dictionary/arcade%20game
 
@@ -287,6 +287,8 @@ https://www.adobe.com/uk/products/substance3d/discover/3d-polygon-modeling.html
 Cheng, C., Cheung M. W.-L. & Wang, H. 2018. Multinational comparison of internet gaming disorder and psychosocial problems versus well-being: Meta-analysis of 20 countries. Computers in Human Behavior. 88, s. 153-167.
 
 Horton, Z. 2019. A “Total Play and Learning Experience”: The Magnavox Odyssey’s 1972 Dream of Media Convergence. Continent, 8, 1-2, s. 76-86.
+
+PCMag (ei pvm.). video game console. Luettavissa: https://www.pcmag.com/encyclopedia/term/video-game-console. Luettu: 27.2.2025
 
 Raessens, J. & Goldstein, J. 2005. Handbook of Computer Game Studies. MIT Press. Cambridge, MA.\
 
