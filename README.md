@@ -251,6 +251,8 @@ Lorem ipsum
 
     Vilkka, H. 2021. Tutki ja kehitä. (myös e-kirja)​
 
+  https://www.scribd.com/document/168993267/Wolf-Video-Game-Explosion-A-History-From-Pong-to-Playstation-Greenwood-2008
+
 
 (varsinaiset lähteet tästä alaspäin, kirjoita lähteiden merkkaus puhtaaksi)
 
