@@ -15,18 +15,32 @@ Amk-opinnäytetyöohje\
 ## Sisällys
 
 1 Johdanto\
-  1.1 Käsitteet\
-2 Pelikonsolien historia ja kehitys\
-  2.1 Esihistoria\
-  2.2 1970-luku\
-  2.3 1980-luku\
-  2.4 1990-luku\
-  2.5 2000-luku\
-3 Tutkimuksen toteutus\
-  3.1 Kuvaileva kirjallisuuskatsaus​\
-  3.2 Menetelmän käyttö ja tutkimuksen aineisto\
-  3.3 Tulokset\
-4 Johtopäätökset\
+2 Käsitteet\
+  2.1 Videopeli\
+  2.2 Videopelikonsoli\
+  2.3 Arcade-peli\
+  2.4 Flipperi\
+  2.5 Oskilloskooppi\
+  2.6 ChatGPT\
+  2.7 Prosessori\
+  2.8 Näytönohjain\
+  2.9 Tietokonesiru\
+  2.10 Bitti\
+  2.11 8-, 16-, 32- ja 64-bittiset järjestelmät\
+  2.12 Resoluutio\
+  2.13 2D- ja 3D-grafiikat videopeleissä\
+  2.14 Polygoni\
+3 Pelikonsolien historia ja kehitys\
+  3.1 Esihistoria\
+  3.2 1970-luku\
+  3.3 1980-luku\
+  3.4 1990-luku\
+  3.5 2000-luku\
+4 Tutkimuksen toteutus\
+  4.1 Kuvaileva kirjallisuuskatsaus​\
+  4.2 Menetelmän käyttö ja tutkimuksen aineisto\
+  4.3 Tulokset\
+5 Johtopäätökset\
 (4 Pohdinta)\
   (4.1 Johtopäätökset ja suositukset)\
   (4.2 Oma oppiminen)\
