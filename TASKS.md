@@ -5,4 +5,4 @@
 5. lisää kuvia konsoleista
 6. lähteet ja lähdeviittaukset oikein
 7. Word-pohja käyttöön
-8. kirjoita käsitteet ja etsi niihin lähteet
+8. ~kirjoita käsitteet ja etsi niihin lähteet~
