@@ -55,7 +55,7 @@ Valitsin tämän aiheen, koska olen harrastanut videopelaamista erityisesti kons
 
 Tutkimusmenetelmä opinnäytetyössä oli kuvaileva kirjallisuuskatsaus käyttäen mahdollisimman laadukkaita lähteitä, joita etsin esimerkiksi Google Scholarin kautta.
 
-Tutkimuskysymykseni olivat: miten kotivideopelikonsolit ovat kehittyneet teknologisesti niiden alkuajoista 2000-luvun alkuun saakka, mitä kulttuurillisia vaikutuksia pelikonsoleilla on ollut, miten pelialan liiketoiminta on kehittynyt sekä minkälaista laadukasta tutkimustietoa aiheesta löytyy?
+Tutkimuskysymykseni olivat seuraavat: Miten kotivideopelikonsolit ovat kehittyneet teknologisesti niiden alkuajoista 2000-luvun alkuun saakka?; Mitä kulttuurillisia vaikutuksia pelikonsoleilla on ollut?; Miten pelialan liiketoiminta on kehittynyt? sekä Minkälaista laadukasta tutkimustietoa aiheestani löytyy?
 
 
 ## 2 Käsitteet (uusi tietoperusta?)
