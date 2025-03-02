@@ -245,17 +245,17 @@ Kuvailevan kirjallisuuskatsauksen subjektiivisen prosessin: syventävän lukemis
 
 ### 4.2 Kuvailevan kirjallisuuskatsauksen käyttö ja tutkimuksen aineisto
 
-"Kivijalka"-lähteinäni olivat pelikonsolien historiaa ja kehitystä käsitteleviä kirjoja...
+"Kivijalka"-lähteinäni olivat pelikonsolien historiaa ja kehitystä käsitteleviä kirjoja... mitä tähän käytännössä kirjoittaisi?
 
 
 ### 4.3 Tulokset
 
-Lorem ipsum
+Lorem ipsum, mitä tähän kirjoittaisi?
 
 
-## 5 Johtopäätökset
+## 5 Pohdinta
 
-Lorem ipsum
+Lorem ipsum, mitä tähän kirjoittaisi?
 
 
 ## Lähteet
