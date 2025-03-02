@@ -49,7 +49,7 @@ Lähteet
 
 ## 1 Johdanto
 
-Oletko koskaan miettinyt miten 
+Suurin osa meistä on joskus kokeillut pelata videopelejä enemmän tai vähemmän, mutta oletko koskaan miettinyt mistä kaikki lähti liikkeelle? Miten päädyimme tilanteeseen, jossa PlayStationit sekä muut konsolit ovat arkipäiväisiä esineitä monessa kotitaloudessa?
 
 Tämän opinnäytetyön tavoitteena on tarkastella kotikäyttöön tarkoitettujen videopelikonsolien historiaa ja kehitystä. Tarkastelen pelikonsolien historiaa ja kehitystä teknologian, liiketoiminnan ja kulttuurin näkökulmista käyden läpi 1950-2000-luvut. Kerron työssäni näiden vuosikymmenten teknologisesti ja kulttuurisesti olennaisimmista ja merkittävimmistä pelikonsoleista. Olen rajannut opinnäytetyöni aiheen kotivideopelikonsoleihin, eli käsittelen esimerkiksi käsikonsoleita, julkisia arcade-videopelejä tai pelitietokoneita vain pintapuolisesti.
 
