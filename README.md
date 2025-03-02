@@ -51,7 +51,7 @@ Lähteet
 
 Tämän opinnäytetyön tavoitteena on tarkastella kotikäyttöön tarkoitettujen videopelikonsolien historiaa ja kehitystä. Tarkastelen pelikonsolien historiaa ja kehitystä teknologian, liiketoiminnan ja kulttuurin näkökulmista käyden läpi 1950-2000-luvut. Kerron työssäni näiden vuosikymmenten teknologisesti ja kulttuurisesti olennaisimmista ja merkittävimmistä pelikonsoleista. Olen rajannut opinnäytetyöni aiheen kotivideopelikonsoleihin, eli käsittelen esimerkiksi käsikonsoleita, julkisia arcade-videopelejä tai pelitietokoneita vain pintapuolisesti.
 
-Valitsin tämän aiheen, koska olen harrastanut videopelaamista erityisesti konsoleilla lapsesta saakka, ja olin kiinnostunut oppimaan enemmän historiallisista pelikonsoleista ja niiden teknologisista kehitysaskeleista. Ennen tätä opinnäytetyötä, en juurikaan tiennyt pelikonsolien historiasta 2000-luvusta taaksepäin.
+Valitsin tämän aiheen, koska olen harrastanut videopelaamista erityisesti konsoleilla lapsesta saakka ensimmäisestä PlayStationista lähtien, ja olin kiinnostunut oppimaan enemmän historiallisista pelikonsoleista ja niiden teknologisista kehitysaskeleista. Ennen tätä opinnäytetyötä, en juurikaan tiennyt pelikonsolien historiasta 2000-luvusta taaksepäin.
 
 Tutkimusmenetelmä opinnäytetyössä oli kuvaileva kirjallisuuskatsaus käyttäen mahdollisimman laadukkaita lähteitä, joita etsin esimerkiksi Google Scholarin kautta.
 
