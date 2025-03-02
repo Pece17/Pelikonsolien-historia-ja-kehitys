@@ -57,6 +57,8 @@ Tutkimusmenetelmä opinnäytetyössä oli kuvaileva kirjallisuuskatsaus käyttä
 
 Tutkimuskysymykseni olivat seuraavat: Miten kotivideopelikonsolit ovat kehittyneet teknologisesti niiden alkuajoista 2000-luvun alkuun saakka?; Mitä kulttuurillisia vaikutuksia pelikonsoleilla on ollut?; Miten pelialan liiketoiminta on kehittynyt? sekä Minkälaista laadukasta tutkimustietoa aiheestani löytyy?
 
+Käytin ChatGPT:tä opinnäytetyön rajauksen ideoinnissa.
+
 
 ## 2 Käsitteet (uusi tietoperusta?)
 
