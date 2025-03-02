@@ -6,3 +6,4 @@
 6. lähteet ja lähdeviittaukset oikein
 7. Word-pohja käyttöön
 8. ~kirjoita käsitteet ja etsi niihin lähteet~
+9. lyö lukkoon opparin rakenne ja sisällysluettelo
