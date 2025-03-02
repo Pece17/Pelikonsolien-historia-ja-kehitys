@@ -257,6 +257,12 @@ Lorem ipsum, mitä tähän kirjoittaisi?
 Lorem ipsum, mitä tähän kirjoittaisi?
 
 
+### (4.1 Johtopäätökset ja suositukset)
+
+
+### (4.2 Oma oppiminen)
+
+
 ## Lähteet
 - https://www.usitc.gov/publications/332/working_papers/final_from_silicon_to_donkey_kong_a_case_study_in_the_use_of_semiconductors_in_video_game_consoles_compiled_508-compliant.pdf
 - - https://www.theseus.fi/bitstream/handle/10024/125744/Kettunen_final_thesis.pdf?sequence=1
