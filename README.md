@@ -55,9 +55,9 @@ Valitsin tämän aiheen, koska olen harrastanut videopelaamista erityisesti kons
 
 Tutkimusmenetelmä opinnäytetyössä oli kuvaileva kirjallisuuskatsaus käyttäen mahdollisimman laadukkaita lähteitä, joita etsin esimerkiksi Google Scholarin kautta.
 
-Tutkimuskysymykseni olivat seuraavat: Miten kotivideopelikonsolit ovat kehittyneet teknologisesti niiden alkuajoista 2000-luvun alkuun saakka?; Mitä kulttuurillisia vaikutuksia pelikonsoleilla on ollut?; Miten pelialan liiketoiminta on kehittynyt? sekä Minkälaista laadukasta tutkimustietoa aiheestani löytyy?
+Tutkimuskysymykseni olivat seuraavat: "Miten kotivideopelikonsolit kehittyivät teknologisesti niiden alkuajoista 2000-luvun alkuun saakka?", "Minkälaisia kulttuurisia vaikutuksia pelikonsoleilla on ollut?", "Miten pelialan liiketoiminta on kehittynyt?" sekä "Minkälaista laadukasta tutkimustietoa aiheestani löytyy?"
 
-Käytin ChatGPT:tä opinnäytetyön rajauksen ideoinnissa.
+Käytin ChatGPT:tä opinnäytetyöni tukena, muun muassa aiheen rajauksen ideoinnissa.
 
 
 ## 2 Käsitteet (uusi tietoperusta?)
