@@ -7,3 +7,4 @@
 7. Word-pohja käyttöön
 8. ~kirjoita käsitteet ja etsi niihin lähteet~
 9. lyö lukkoon opparin rakenne ja sisällysluettelo
+10. Täsmennä tarvittaessa tutkimuskysymykset, joihin haet työssäsi vastausta
