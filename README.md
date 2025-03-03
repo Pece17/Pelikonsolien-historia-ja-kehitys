@@ -61,7 +61,7 @@ Tutkimuskysymykseni olivat seuraavat: "Miten kotivideopelikonsolit kehittyivät 
 Käytin ChatGPT:tä opinnäytetyöni tukena, muun muassa aiheen rajauksen ideoinnissa.
 
 
-### 1.1 Käsitteet (tee tästä uusi, laajempi tietoperusta?)
+### 1.1 Käsitteet (tee tästä uusi, laajempi tietoperusta, ehkä uusi otsikko?)
 
 Tässä osiossa avaan olennaisimpia käsitteitä, joita opinnäytetyöni sisältää, ja jotka on hyvä tuntea ennen varsinaisen tekstin lukemista.
 
