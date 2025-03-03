@@ -70,12 +70,12 @@ Tässä osiossa avaan olennaisimpia käsitteitä, joita opinnäytetyöni sisält
 
 #### 1.1.1 2D- ja 3D-grafiikat videopeleissä
 
-2D-grafiikat tarkoittavat objektien luontia, näyttämistä ja manipulointia tietokoneella kahdessa ulottuvuudessa X- ja Y-akseleilla, samalla periaatteella kuin paperille piirtäminen on kaksiulotteista. 2D-objekteja voidaan suurentaa tai pienentää, mutta niitä ei pystytä tarkastelemaan eri kulmista tai valaista automaattisesti. (PCMag (ei pvm.).) 3D-grafiikat tarkoittavat objektien luontia, näyttämistä ja manipulointia tietokoneella kolmessa ulottuvuudessa X-, Y- ja Z-akseleilla. 3D-objekteja voidaan myöskin suurentaa ja pienentää, mutta myös käännellä ja tarkastella eri kulmista, ja automaattista valaistusta voidaan halutessa soveltaa. (PCMag (ei pvm.).)
+2D-grafiikat tarkoittavat objektien luontia, näyttämistä ja manipulointia tietokoneella kahdessa ulottuvuudessa X- ja Y-akseleilla, samalla periaatteella kuin paperille piirtäminen on kaksiulotteista. 2D-objekteja voidaan suurentaa tai pienentää, mutta niitä ei pystytä tarkastelemaan eri kulmista tai valaista automaattisesti. (PCMag s.a.) 3D-grafiikat tarkoittavat objektien luontia, näyttämistä ja manipulointia tietokoneella kolmessa ulottuvuudessa X-, Y- ja Z-akseleilla. 3D-objekteja voidaan myöskin suurentaa ja pienentää, mutta myös käännellä ja tarkastella eri kulmista, ja automaattista valaistusta voidaan halutessa soveltaa. (PCMag s.a.)
 
 
 #### 1.1.2 8-, 16-, 32- ja 64-bittiset järjestelmät
 
-8-bittisessä järjestelmässä, kuten esimerkiksi videopelikonsolissa, suoritin kykenee käsittelemään 8 bittiä yhtenä yksikkönä. Vastaavasti, 16-bittisessä järjestelmässä suoritin kykenee käsittelemään 16 bittiä yhtenä yksikkönä, 32-bittisessä järjestelmässä suoritin kykenee käsittelemään 32 bittiä yhtenä yksikkönä ja 64-bittisessä järjestelmässä suoritin kykenee käsittelemään 64 bittiä yhtenä yksikkönä. Tosin, esimerkiksi 64-bittinen tietokone ei välttämättä ole tuplasti nopeampi verrattuna 32-bittiseen tietokoneeseen, vaan tietokoneen monet muut komponentit vaikuttavat myös sen suorituskykyyn. (PCMag (ei pvm.).)
+8-bittisessä järjestelmässä, kuten esimerkiksi videopelikonsolissa, suoritin kykenee käsittelemään 8 bittiä yhtenä yksikkönä. Vastaavasti, 16-bittisessä järjestelmässä suoritin kykenee käsittelemään 16 bittiä yhtenä yksikkönä, 32-bittisessä järjestelmässä suoritin kykenee käsittelemään 32 bittiä yhtenä yksikkönä ja 64-bittisessä järjestelmässä suoritin kykenee käsittelemään 64 bittiä yhtenä yksikkönä. Tosin, esimerkiksi 64-bittinen tietokone ei välttämättä ole tuplasti nopeampi verrattuna 32-bittiseen tietokoneeseen, vaan tietokoneen monet muut komponentit vaikuttavat myös sen suorituskykyyn. (PCMag s.a.)
 
 
 #### 1.1.3 Arcade-peli
@@ -85,7 +85,7 @@ Arcade-peli tai kolikkopeli tarkoittaa tyypillisesti kolikoilla toimivaa peliä,
 
 #### 1.1.4 Bitti
 
-Bitti tarkoittaa tietokoneen tallennustilan pienintä elementtiä. Bitti on yksinumeroinen binääriluku sisältäen vain 0- ja 1-numeroita. Fyysisesti bitti on transitori ja kondensaattori RAM-solussa (random-access memory), magneettinen alue levyllä tai nauhalla, solu SSD-asemalla (solid-state drive), piste optisella tietovälineellä tai virtapiirin läpi pulssiva jännite. (PCMag (ei pvm.).)
+Bitti tarkoittaa tietokoneen tallennustilan pienintä elementtiä. Bitti on yksinumeroinen binääriluku sisältäen vain 0- ja 1-numeroita. Fyysisesti bitti on transitori ja kondensaattori RAM-solussa (random-access memory), magneettinen alue levyllä tai nauhalla, solu SSD-asemalla (solid-state drive), piste optisella tietovälineellä tai virtapiirin läpi pulssiva jännite. (PCMag s.a.)
 
 
 #### 1.1.5 ChatGPT
@@ -110,7 +110,7 @@ Oskilloskoopit ovat yksi tärkeimmistä työkaluista sähköisten signaalien ana
 
 #### 1.1.9 Polygoni
 
-Polygoni tarkoittaa tietokonegrafiikoiden kontekstissa monireunaista objektia, kuten esimerkiksi kolmiota tai neliötä, joka voidaan täyttää väreillä tai jota voidaan liikuttaa yksittäisenä kokonaisuutena (PCMag (ei pvm.)). Polygonit ovat kaksiulotteisia (2D) muotoja, joita käytetään kolmiulotteisten (3D) verkkojen, tai toisin sanoen, mallien luomiseen. Pyramidit ja kuutiot ovat esimerkkejä kolmiulotteisista malleista. Jokainen polygoni muodostuu vähintään kolmesta kärjestä ja reunasta, jotka yhdistyvät muodostaen suljetun muodon. (Adobe (ei pvm.).)
+Polygoni tarkoittaa tietokonegrafiikoiden kontekstissa monireunaista objektia, kuten esimerkiksi kolmiota tai neliötä, joka voidaan täyttää väreillä tai jota voidaan liikuttaa yksittäisenä kokonaisuutena (PCMag s.a.). Polygonit ovat kaksiulotteisia (2D) muotoja, joita käytetään kolmiulotteisten (3D) verkkojen, tai toisin sanoen, mallien luomiseen. Pyramidit ja kuutiot ovat esimerkkejä kolmiulotteisista malleista. Jokainen polygoni muodostuu vähintään kolmesta kärjestä ja reunasta, jotka yhdistyvät muodostaen suljetun muodon. (Adobe s.a.)
 
 
 #### 1.1.10 Prosessori
@@ -120,7 +120,7 @@ Prosessoreita tai suorittimia (central processing unit tai CPU) pidetään tieto
 
 #### 1.1.11 Resoluutio
 
-Resoluutio tai kuvatarkkuus tarkoittaa näytetyn tai tulostetun kuvan terävyyden asteen. Resoluutio määritellään pikselimäärän matriisina tuumaa kohti. Esimerkiksi, 1920x1200 näytön resoluutio tarkoittaa 1920:tä pikseliä vaakatasossa kullakin 1200:lla pystysuoralla rivillä. (PCMag (ei pvm.).)
+Resoluutio tai kuvatarkkuus tarkoittaa näytetyn tai tulostetun kuvan terävyyden asteen. Resoluutio määritellään pikselimäärän matriisina tuumaa kohti. Esimerkiksi, 1920x1200 näytön resoluutio tarkoittaa 1920:tä pikseliä vaakatasossa kullakin 1200:lla pystysuoralla rivillä. (PCMag s.a.)
 
 
 #### 1.1.12 Tietokonesiru
@@ -135,7 +135,7 @@ Videopeli on kattotermi, joka tarkoittaa kaikkia viihdesovelluksia, joita käyte
 
 #### 1.1.14 Videopelikonsoli
 
-Videopelikonsoli tarkoittaa videopelien pelaamiseen erikoistunutta pöytätietokonetta. Varhaisimmat videopelikonsolit toimivat pelkästään pelikasettien avulla, joissa oli vain lukumuisti-siruja (read only memory tai ROM), mutta nykyaikaiset videopelikonsolit pyörittävät pelejä levyjen kautta tai suoraan videopelikonsolille lataamalla. Videopelikonsolit vaativat ulkoisen näytön, kuten television tai tietokoneen näytön, toimiakseen. (PCMag (ei pvm.).)
+Videopelikonsoli tarkoittaa videopelien pelaamiseen erikoistunutta pöytätietokonetta. Varhaisimmat videopelikonsolit toimivat pelkästään pelikasettien avulla, joissa oli vain lukumuisti-siruja (read only memory tai ROM), mutta nykyaikaiset videopelikonsolit pyörittävät pelejä levyjen kautta tai suoraan videopelikonsolille lataamalla. Videopelikonsolit vaativat ulkoisen näytön, kuten television tai tietokoneen näytön, toimiakseen. (PCMag s.a.)
 
 
 ## 2 Pelikonsolien historia ja kehitys (tutkimus?)
@@ -289,7 +289,7 @@ oma oppiminen -> esim lähteiden kirjoittaminen oikein, tietoperustan ja tutkimu
 
 
 
-Adobe (ei pvm.). What is a polygon in 3D modelling?. Luettavissa: https://www.adobe.com/uk/products/substance3d/discover/3d-polygon-modeling.html. Luettu: 27.2.2025.
+Adobe s.a. What is a polygon in 3D modelling?. Luettavissa: https://www.adobe.com/uk/products/substance3d/discover/3d-polygon-modeling.html. Luettu: 27.2.2025.
 
 Black, J. 2011. Pinball: The Misunderstood Game of Amusement. A Journal of Academic Writing, 7, s. 23­­­–24.
 
@@ -307,19 +307,19 @@ Merriam-Webster 2025. arcade game. Luettavissa: https://www.merriam-webster.com/
 
 Miguel Dias Pereira, J. 2006. The history and technology of oscilloscopes. Luettavissa: https://ieeexplore.ieee.org/abstract/document/4017100/authors#authors. Luettu: 27.2.2025.
 
-PCMag (ei pvm.). 2D graphics. Luettavissa: https://www.pcmag.com/encyclopedia/term/2d-graphics. Luettu: 27.2.2025.
+PCMag s.a. 2D graphics. Luettavissa: https://www.pcmag.com/encyclopedia/term/2d-graphics. Luettu: 27.2.2025.
 
-PCMag (ei pvm.). 3D graphics. Luettavissa: https://www.pcmag.com/encyclopedia/term/3d-graphics. Luettu: 27.2.2025.
+PCMag s.a. 3D graphics. Luettavissa: https://www.pcmag.com/encyclopedia/term/3d-graphics. Luettu: 27.2.2025.
 
-PCMag (ei pvm.). 64-bit computing. Luettavissa: https://www.pcmag.com/encyclopedia/term/64-bit-computing. Luettu: 27.2.2025.
+PCMag s.a. 64-bit computing. Luettavissa: https://www.pcmag.com/encyclopedia/term/64-bit-computing. Luettu: 27.2.2025.
 
-PCMag (ei pvm.). bit. Luettavissa: https://www.pcmag.com/encyclopedia/term/bit. Luettu: 27.2.2025.
+PCMag s.a. bit. Luettavissa: https://www.pcmag.com/encyclopedia/term/bit. Luettu: 27.2.2025.
 
-PCMag (ei pvm.). Polygon. Luettavissa: https://www.pcmag.com/encyclopedia/term/polygon. Luettu: 27.2.2025.
+PCMag s.a. Polygon. Luettavissa: https://www.pcmag.com/encyclopedia/term/polygon. Luettu: 27.2.2025.
 
-PCMag (ei pvm.). resolution. Luettavissa: https://www.pcmag.com/encyclopedia/term/resolution. Luettu: 27.2.2025.
+PCMag s.a. resolution. Luettavissa: https://www.pcmag.com/encyclopedia/term/resolution. Luettu: 27.2.2025.
 
-PCMag (ei pvm.). video game console. Luettavissa: https://www.pcmag.com/encyclopedia/term/video-game-console. Luettu: 27.2.2025.
+PCMag s.a. video game console. Luettavissa: https://www.pcmag.com/encyclopedia/term/video-game-console. Luettu: 27.2.2025.
 
 Raessens, J. & Goldstein, J. 2005. Handbook of Computer Game Studies. MIT Press. Cambridge, MA.
 
