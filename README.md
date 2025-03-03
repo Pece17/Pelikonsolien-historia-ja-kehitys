@@ -264,7 +264,9 @@ Lorem ipsum, mitä tähän kirjoittaisi?
 ### (4.1 Johtopäätökset ja suositukset)
 
 
-### (4.2 Oma oppiminen)
+### 4.2 Oma oppiminen
+
+oma oppiminen -> esim lähteiden kirjoittaminen oikein, tietoperustan ja tutkimuksen eron ymmärtäminen oli hankalaa, aikataulun kanssa tasapainottelu ja terveellisen työtavan opettelu 45 minuutin sykleissä max 3h pvä ettei kuormitu liikaa, projektin ja oman oppimisen arviointi, mitä tekisi toisin jos alottaisi uudelleen, projektinhallinta miten mennyt omasta mielestä
 
 
 ## Lähteet
