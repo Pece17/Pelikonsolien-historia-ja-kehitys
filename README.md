@@ -263,10 +263,14 @@ Lorem ipsum, mitä tähän kirjoittaisi?
 
 ### (4.1 Johtopäätökset ja suositukset)
 
+Lorem ipsum, mitä tähän kirjoittaisi?
+
 
 ### 4.2 Oma oppiminen
 
 oma oppiminen -> esim lähteiden kirjoittaminen oikein, tietoperustan ja tutkimuksen eron ymmärtäminen oli hankalaa, aikataulun kanssa tasapainottelu ja terveellisen työtavan opettelu 45 minuutin sykleissä max 3h pvä ettei kuormitu liikaa, projektin ja oman oppimisen arviointi, mitä tekisi toisin jos alottaisi uudelleen, projektinhallinta miten mennyt omasta mielestä
+
+Opinnäytetyötä tehdessä jouduin opettelemaan uudelleen projektinhallintaa käytännön näkökulmista, sillä oli vierähtänyt useampi vuosi siitä, kun viimeksi varsinaisesti opiskelin. Myös terveet työskentelytavat ja kuormituksen ehkäiseminen kehittyivät työn edetessä. Yritin esimerkiksi projektin aluksi kirjoittaa 6-8 tuntia putkeen pitäen vain satunnaisia taukoja, mutta totesin tämän metodin nopeasti liian kuormittavaksi. Päädyin Pomodoro-tekniikkaa mukailevaan työskentelytapaan, jossa työskentelin tehokkaasti keskittyen 45 minuuttia kerrallaan, jonka jälkeen pidin vähintään 10 minuutin tauon. Totesin, että 3 tuntia tehokasta työaikaa neljän 45 minuutin sykleissä päivässä oli varsin riittävä määrä. Karsin kaikki häiriötekijät, jopa musiikinkuuntelun, pois keskittyneen työskentelyn ajaksi. Työpäivinä tein usein ennen töitä kaksi 45 minuutin sessiota sekä töiden jälkeen toiset 45 minuutin sessiot. Työn ja yksityiselämän tasapainottelun kannalta yritin olla miettimättä opinnäytetyötä aktiivisesti vapaa-aikanani, mikä ei aina ollut helppoa stressaamisen takia. Koin tärkeäksi asettaa itselleni rajat, joiden sisällä keskityin työskentelyyn, ja joiden ulkopuolella keskityin palautumiseen. Opinnäytetyön laajuinen projekti on kuitenkin maratoni eikä sprintti.
 
 
 ## Lähteet
