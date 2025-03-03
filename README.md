@@ -235,9 +235,7 @@ Kun löysin mielestäni laadukkaita lähteitä, yritin parhaani mukaan referoida
 
 ### 3.1 Kuvaileva kirjallisuuskatsaus
 
-(kirjallisuuskatsaus edustaa laadullista tutkimusta, ja muutama virke laadullisesta tutkimuksesta voi kirjoittaa)
-
-Kirjallisuuskatsaus tarkoittaa tutkimustapaa, joka tutkii muiden tutkijoiden alkuperäisiä tutkimuksia tarkoituksenaan tunnistaa, arvioida, tulkita ja yhdistää jo olemassa olevaa tietoa. Päämääränä on tiivistää olennainen tieto näistä tutkimuksista valitussa aihepiirissä sekä tehdä johtopäätökset ennalta valittuun tutkimuskysymykseen. Kirjallisuuskatsaus ei ole raportti tai essee. (Vilkka 2023, luku 1.1.1.)
+Kirjallisuuskatsaus tarkoittaa tutkimustapaa, joka tutkii muiden tutkijoiden alkuperäisiä tutkimuksia tarkoituksenaan tunnistaa, arvioida, tulkita ja yhdistää jo olemassa olevaa tietoa. Päämääränä on tiivistää olennainen tieto näistä tutkimuksista valitussa aihepiirissä sekä tehdä johtopäätökset ennalta valittuun tutkimuskysymykseen. Kirjallisuuskatsaus ei ole raportti tai essee. (Vilkka 2023, luku 1.1.1.) Kirjallisuuskatsaus edustaa laadullista tai kvalitatiivista tutkimusta, joka on tieteellisen tutkimuksen menetelmäsuuntaus, jossa pyritään ymmärtämään kohteen laatua, ominaisuuksia ja merkityksiä kokonaisvaltaisesti (Jyväskylän yliopisto s.a.).
 
 Kirjallisuuskatsaustyyppejä on neljä: narratiivinen katsaus, integratiivinen katsaus, systemaattinen kirjallisuuskatsaus sekä meta-analyysi (Vilkka 2023, luku 1.1.3). Keskityn tässä osiossa vain narratiiviseen tai kuvailevaan kirjallisuuskatsaukseen. Sen lähtökohtana on selvittää mitä valitusta ilmiöstä tiedetään aiempien tutkimusten perusteella, mitkä ovat keskeisiä käsitteitä ilmiössä ja mitkä ovat käsitteiden keskinäiset suhteet. Kuvailevalla kirjallisuuskatsauksella voidaan kerätä tietoa monista eri tutkimuksista ja järjestää niistä laaja yleiskäsitys valitusta aiheesta ja sen tieteenalan tilasta - näin voidaan esimerkiksi selvittää onko aiheesta tarvetta suorittaa lisätutkimuksia. Vertailemalla monia eri tutkimuksia ja niiden mahdollisia vajavaisuuksia ja virheitä, voidaan muodostaa yhtenäisempi ja eheämpi kuva aiheesta. (Vilkka 2023, luku 1.2.1.)
 
@@ -306,6 +304,8 @@ De La Cruz, A. & Ryan, J. 2016. Tennis for Two. 6.101 Final Projects Spring 2016
 Encyclopædia Britannica, Inc. 2025. pinball machine. Luettavissa: https://www.britannica.com/topic/pinball-machine. Luettu: 27.2.2025.
 
 Horton, Z. 2019. A “Total Play and Learning Experience”: The Magnavox Odyssey’s 1972 Dream of Media Convergence. Continent, 8, 1-2, s. 76-86.
+
+Jyväskylän yliopisto s.a. Laadullinen tutkimus. Luettavissa: https://sites.app.jyu.fi/mehu/fi/menetelmapolku/tutkimusstrategiat/laadullinen-tutkimus. Luettu: 3.3.2025.
 
 Lotze, N. 2023. From Silicon to Donkey Kong: A Case Study in the Use of Semiconductors in Video Game Consoles. United States International Trade Commission. Washington, D.C. Luettavissa: https://www.usitc.gov/publications/332/working_papers/final_from_silicon_to_donkey_kong_a_case_study_in_the_use_of_semiconductors_in_video_game_consoles_compiled_508-compliant.pdf. Luettu: 27.2.2025.
 
