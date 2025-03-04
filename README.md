@@ -69,7 +69,7 @@ Tässä osiossa avaan olennaisimpia käsitteitä, joita opinnäytetyöni sisält
 
 #### 1.1.1 2D- ja 3D-grafiikat videopeleissä
 
-2D-grafiikat tarkoittavat objektien luontia, näyttämistä ja manipulointia tietokoneella kahdessa ulottuvuudessa X- ja Y-akseleilla, samalla periaatteella kuin paperille piirtäminen on kaksiulotteista. 2D-objekteja voidaan suurentaa tai pienentää, mutta niitä ei pystytä tarkastelemaan eri kulmista tai valaista automaattisesti. (PCMag s.a.) 3D-grafiikat tarkoittavat objektien luontia, näyttämistä ja manipulointia tietokoneella kolmessa ulottuvuudessa X-, Y- ja Z-akseleilla. 3D-objekteja voidaan myöskin suurentaa ja pienentää, mutta myös käännellä ja tarkastella eri kulmista, ja automaattista valaistusta voidaan halutessa soveltaa. (PCMag s.a.)
+
 
 
 #### 1.1.2 8-, 16-, 32- ja 64-bittiset järjestelmät
@@ -109,7 +109,7 @@ Oskilloskoopit ovat yksi tärkeimmistä työkaluista sähköisten signaalien ana
 
 #### 1.1.9 Polygoni
 
-Polygoni tarkoittaa tietokonegrafiikoiden kontekstissa monireunaista objektia, kuten esimerkiksi kolmiota tai neliötä, joka voidaan täyttää väreillä tai jota voidaan liikuttaa yksittäisenä kokonaisuutena (PCMag s.a.). Polygonit ovat kaksiulotteisia (2D) muotoja, joita käytetään kolmiulotteisten (3D) verkkojen, tai toisin sanoen, mallien luomiseen. Pyramidit ja kuutiot ovat esimerkkejä kolmiulotteisista malleista. Jokainen polygoni muodostuu vähintään kolmesta kärjestä ja reunasta, jotka yhdistyvät muodostaen suljetun muodon. (Adobe s.a.)
+
 
 
 #### 1.1.10 Prosessori
@@ -119,7 +119,7 @@ Polygoni tarkoittaa tietokonegrafiikoiden kontekstissa monireunaista objektia, k
 
 #### 1.1.11 Resoluutio
 
-Resoluutio tai kuvatarkkuus tarkoittaa näytetyn tai tulostetun kuvan terävyyden asteen. Resoluutio määritellään pikselimäärän matriisina tuumaa kohti. Esimerkiksi, 1920x1200 näytön resoluutio tarkoittaa 1920:tä pikseliä vaakatasossa kullakin 1200:lla pystysuoralla rivillä. (PCMag s.a.)
+
 
 
 #### 1.1.12 Tietokonesiru
@@ -129,7 +129,7 @@ Resoluutio tai kuvatarkkuus tarkoittaa näytetyn tai tulostetun kuvan terävyyde
 
 ## 2 Videopelit ja pelikonsolit (tee tästä uusi, laajempi tietoperusta)
 
-(avaa yleisemmällä tasolla enemmän käsitteitä, tee niistä enemmän tietoperusta, kuvaa hyvin yleisellä tasolla videopelikonsoleita ja videopelejä, ja tutkimuskysymyksiä, että lukija ymmärtää mistä on kyse
+(, ja tutkimuskysymyksiä, että lukija ymmärtää mistä on kyse
 
     Teoria kattaa työn keskeiset käsitteet​
 
@@ -145,7 +145,13 @@ Prosessoreita tai suorittimia (central processing unit tai CPU) taas pidetään 
 
 Näytönohjaimet (graphics processing unit tai GPU) ovat prosessoreita, jotka erikoistuvat grafiikoiden ja videoiden renderöintiin tai toistamiseen. Suorittamalla näitä toimintoja, näytönohjaimet vapauttavat suorittimet (CPU) keskittymään muihin tehtäviin. Näytönohjaimilla on elintärkeä rooli videopelikonsoleissa, sillä ne renderöivät korkearesoluutioisia grafiikoita ja tekstuureja. Mitä tehokkampi näytönohjain on, sitä enemmän videopelikonsoli pystyy renderöimään kuvia sekunnissa (frames per second tai FPS). Korkeat kuvataajuudet ovat erityisen tärkeitä kilpaileville pelaajille ensimmäisen persoonan ammuntapeleissä (myöskin FPS, sanoista first-person shooter). (Lotze 2023, 9.)
 
-Varsinkin vanhojen pelikonsolien osalla puhutaan paljon biteistä ja eri bittisistä, kuten 8- tai 16-bittisistä, järjestelmistä. Mitä ne sitten tarkoittavat ja mikä on bitti? PCMagin mukaan bitti tarkoittaa tietokoneen tallennustilan pienintä elementtiä. Bitti on yksinumeroinen binääriluku sisältäen vain 0- ja 1-numeroita. Fyysisesti bitti on transitori ja kondensaattori RAM-solussa (random-access memory), magneettinen alue levyllä tai nauhalla, solu SSD-asemalla (solid-state drive), piste optisella tietovälineellä tai virtapiirin läpi pulssiva jännite. (PCMag s.a.) 8-bittisessä järjestelmässä, kuten esimerkiksi videopelikonsolissa, suoritin kykenee käsittelemään 8 bittiä yhtenä yksikkönä. Vastaavasti, 16-bittisessä järjestelmässä suoritin kykenee käsittelemään 16 bittiä yhtenä yksikkönä, 32-bittisessä järjestelmässä suoritin kykenee käsittelemään 32 bittiä yhtenä yksikkönä ja 64-bittisessä järjestelmässä suoritin kykenee käsittelemään 64 bittiä yhtenä yksikkönä. Tosin, esimerkiksi 64-bittinen tietokone ei välttämättä ole tuplasti nopeampi verrattuna 32-bittiseen tietokoneeseen, vaan tietokoneen monet muut komponentit vaikuttavat myös sen suorituskykyyn. (PCMag s.a.)
+Varsinkin vanhojen pelikonsolien osalla puhutaan paljon biteistä ja eri bittisistä järjestelmistä, kuten 8- tai 16-bittisistä järjestelmistä. Mitä ne sitten tarkoittavat ja mikä oikeastaan on bitti? PCMagin mukaan bitti tarkoittaa tietokoneen tallennustilan pienintä elementtiä. Bitti on yksinumeroinen binääriluku sisältäen vain 0- ja 1-numeroita. Fyysisesti bitti on transitori ja kondensaattori RAM-solussa (random-access memory), magneettinen alue levyllä tai nauhalla, solu SSD-asemalla (solid-state drive), piste optisella tietovälineellä tai virtapiirin läpi pulssiva jännite. (PCMag s.a.) 8-bittisessä järjestelmässä, kuten esimerkiksi videopelikonsolissa, suoritin kykenee käsittelemään 8 bittiä yhtenä yksikkönä. Vastaavasti, 16-bittisessä järjestelmässä suoritin kykenee käsittelemään 16 bittiä yhtenä yksikkönä, 32-bittisessä järjestelmässä suoritin kykenee käsittelemään 32 bittiä yhtenä yksikkönä ja 64-bittisessä järjestelmässä suoritin kykenee käsittelemään 64 bittiä yhtenä yksikkönä. Tosin, esimerkiksi 64-bittinen tietokone ei välttämättä ole tuplasti nopeampi verrattuna 32-bittiseen tietokoneeseen, vaan tietokoneen monet muut komponentit vaikuttavat myös sen suorituskykyyn. (PCMag s.a.)
+
+Pelikonsolien komponenteilla on näkyvin vaikutus siihen, miltä pelien resoluutio ja grafiikat näyttävät. Resoluutio tai kuvatarkkuus tarkoittaa näytetyn tai tulostetun kuvan terävyyden asteen. Resoluutio määritellään pikselimäärän matriisina tuumaa kohti. Esimerkiksi, 1920x1200 näytön resoluutio tarkoittaa 1920:tä pikseliä vaakatasossa kullakin 1200:lla pystysuoralla rivillä. (PCMag s.a.) Videopeleissä oli aluksi 2D-grafiikoita, mutta teknologian kehittyessä erityisesti 1990-luvulla tapahtui käännekohta, kun 3D-grafiikat pitkälti syrjäyttivät 2D:n.
+
+Miten 2D- ja 3D-grafiikat määritellään tarkemmin? 2D-grafiikat tarkoittavat objektien luontia, näyttämistä ja manipulointia tietokoneella kahdessa ulottuvuudessa X- ja Y-akseleilla, samalla periaatteella kuin paperille piirtäminen on kaksiulotteista. 2D-objekteja voidaan suurentaa tai pienentää, mutta niitä ei pystytä tarkastelemaan eri kulmista tai valaista automaattisesti. (PCMag s.a.) 3D-grafiikat tarkoittavat objektien luontia, näyttämistä ja manipulointia tietokoneella kolmessa ulottuvuudessa X-, Y- ja Z-akseleilla. 3D-objekteja voidaan myöskin suurentaa ja pienentää, mutta myös käännellä ja tarkastella eri kulmista, ja automaattista valaistusta voidaan halutessa soveltaa. (PCMag s.a.)
+
+3D-grafiikoiden osalta on myös relevanttia ymmärtää polygonit. Polygoni tarkoittaa tietokonegrafiikoiden kontekstissa monireunaista objektia, kuten esimerkiksi kolmiota tai neliötä, joka voidaan täyttää väreillä tai jota voidaan liikuttaa yksittäisenä kokonaisuutena (PCMag s.a.). Polygonit ovat kaksiulotteisia (2D) muotoja, joita käytetään kolmiulotteisten (3D) verkkojen, tai toisin sanoen, mallien luomiseen. Pyramidit ja kuutiot ovat esimerkkejä kolmiulotteisista malleista. Jokainen polygoni muodostuu vähintään kolmesta kärjestä ja reunasta, jotka yhdistyvät muodostaen suljetun muodon. (Adobe s.a.)
 
 
 ## 3 Pelikonsolien historia ja kehitys (tutkimus?)
@@ -274,7 +280,7 @@ Lorem ipsum, mitä tähän kirjoittaisi?
 
 ### 5.2 Oma oppiminen
 
-Opinnäytetyötä tehdessä jouduin opettelemaan uudelleen projektinhallintaa käytännön näkökulmista, sillä oli vierähtänyt useampi vuosi siitä, kun viimeksi varsinaisesti opiskelin. Myös järkevät työskentelytavat, aikataulutus ja kuormituksen ehkäiseminen kehittyivät työn edetessä. Yritin esimerkiksi projektin aluksi kirjoittaa 6-8 tuntia putkeen pitäen vain satunnaisia taukoja, mutta totesin tämän metodin nopeasti liian kuormittavaksi. Päädyin Pomodoro-tekniikkaa mukailevaan työskentelytapaan, jossa työskentelin tehokkaasti keskittyen 45 minuuttia kerrallaan, jonka jälkeen pidin vähintään 10 minuutin tauon. Totesin, että 3 tuntia tehokasta työaikaa päivässä neljässä 45 minuutin syklissä oli varsin riittävä määrä. Karsin kaikki häiriötekijät, jopa musiikinkuuntelun, pois keskittyneen työskentelyn ajaksi, ja käytin korvatulppia, jos kodista tai ulkoa kuului keskittymistä häiritseviä ääniä. Työpäivinä tein usein ennen töitä kaksi 45 minuutin sessiota sekä töiden jälkeen toiset 45 minuutin sessiot. Työn ja yksityiselämän tasapainottelun kannalta yritin olla miettimättä opinnäytetyötä aktiivisesti vapaa-aikanani, mikä ei aina ollut helppoa stressaamisen takia, joka oli ehkä suurin haaste koko opinnäytetyön edistymisen kannalta. Painetta aiheuttivat erityisesti tilanteet, joissa olin jumissa kirjoittamisen kanssa, enkä tiennyt miten edetä. Koin tärkeäksi asettaa itselleni rajat, joiden sisällä keskityin työskentelyyn, ja joiden ulkopuolella keskityin palautumiseen. Opinnäytetyön laajuinen projekti on kuitenkin maratoni eikä sprintti. Vapaa-aikana esimerkiksi urheilu, ystävien kanssa ajan viettäminen ja yleinen rentoutuminen toivat hyvää ja palauttavaa vastapainoa opiskeluun.
+Opinnäytetyötä tehdessä jouduin opettelemaan uudelleen projektinhallintaa käytännön näkökulmista, sillä oli vierähtänyt useampi vuosi siitä, kun viimeksi varsinaisesti opiskelin. Myös järkevät työskentelytavat, aikataulutus ja kuormituksen ehkäiseminen kehittyivät työn edetessä. Yritin esimerkiksi projektin aluksi kirjoittaa 6-8 tuntia putkeen pitäen vain satunnaisia taukoja, mutta totesin tämän metodin nopeasti liian kuormittavaksi. Päädyin Pomodoro-tekniikkaa mukailevaan työskentelytapaan, jossa työskentelin tehokkaasti keskittyen 45 minuuttia kerrallaan, jonka jälkeen pidin vähintään 10 minuutin tauon. Totesin, että 3 tuntia tehokasta työaikaa päivässä neljässä 45 minuutin syklissä oli varsin riittävä määrä. Karsin kaikki häiriötekijät, jopa musiikinkuuntelun, pois keskittyneen työskentelyn ajaksi, ja käytin korvatulppia, jos kodista tai ulkoa kuului keskittymistä häiritseviä ääniä. Työpäivinä tein usein ennen töitä kaksi 45 minuutin sessiota sekä töiden jälkeen toiset 45 minuutin sessiot. Työn ja yksityiselämän tasapainottelun kannalta yritin olla miettimättä opinnäytetyötä aktiivisesti vapaa-aikanani, mikä ei aina ollut helppoa stressaamisen takia, joka oli ehkä suurin haaste koko opinnäytetyön edistymisen kannalta. Painetta aiheuttivat erityisesti tilanteet, joissa olin jumissa kirjoittamisen kanssa, enkä tiennyt miten edetä. Koin tärkeäksi asettaa itselleni rajat, joiden sisällä keskityin työskentelyyn, ja joiden ulkopuolella keskityin palautumiseen. Opinnäytetyön laajuinen projekti on kuitenkin maratoni eikä sprintti. Vapaa-aikana esimerkiksi urheilu, ystävien kanssa ajan viettäminen - vaikkapa yhdessä videopelejä pelaten, ja yleinen rentoutuminen toivat hyvää ja palauttavaa vastapainoa opiskeluun.
 
 Koin varsinkin projektin alussa hankalaksi ymmärtää kuvailevan kirjallisuuskatsauksen tehtävänantoa, erityisesti tietoperustan ja tutkimusosuuden määritelmiä ja eroja. Akateemisten kirjoitelmien tekeminen yleensäkin oli myös päässyt hieman unohtumaan minulta, ja kesti jonkun aikaa saada ote esimerkiksi lähteiden oikeaoppisesta merkkaamisesta ja niihin viittaamisesta. Koin hyödylliseksi listata konkreettisia työtehtäviä muistiin, joita pystyi viivaamaan yli sitä mukaa, kun ne valmistuivat. Jos koin olevani jumissa jonkin laajemman kokonaisuuden kanssa, yritin sen sijaan tehdä helpompia tehtäviä alta pois, kuten esimerkiksi hioa lähdeviittauksia kuntoon. Päivän agendan miettiminen lyhyesti ennen työskentelyä helpotti epävarmuuden kanssa - oli hyvä löytää aina joku punainen lanka, jota seurata.
 
