@@ -15,21 +15,11 @@ Amk-opinnäytetyöohje\
 ## Sisällys
 
 1 Johdanto\
-  1.1 Käsitteet\
-      1.1.1 2D- ja 3D-grafiikat videopeleissä\
-      1.1.2 8-, 16-, 32- ja 64-bittiset järjestelmät\
-      1.1.3 Arcade-peli\
-      1.1.4 Bitti\
-      1.1.5 ChatGPT\
-      1.1.6 Flipperi\
-      1.1.7 Näytönohjain\
-      1.1.8 Oskilloskooppi\
-      1.1.9 Polygoni\
-      1.1.10 Prosessori\
-      1.1.11 Resoluutio\
-      1.1.12 Tietokonesiru\
-      1.1.13 Videopeli\
-      1.1.14 Videopelikonsoli\
+  1.1 Käsitteet\     
+      1.1.1 Arcade-peli\    
+      1.1.2 ChatGPT\
+      1.1.3 Flipperi\
+      1.1.4 Oskilloskooppi\
 2 Videopelit ja pelikonsolit\
 3 Pelikonsolien historia ja kehitys\
   3.1 Esihistoria\
@@ -64,67 +54,27 @@ Käytin ChatGPT:tä opinnäytetyöni tukena, muun muassa aiheen rajauksen ideoin
 
 ### 1.1 Käsitteet
 
-Tässä osiossa avaan olennaisimpia käsitteitä, joita opinnäytetyöni sisältää, ja jotka on hyvä tuntea ennen varsinaisen tekstin lukemista.
+Tässä osiossa avaan muutamia käsitteitä, joita opinnäytetyöni sisältää, ja jotka on hyvä tuntea ennen varsinaisen tekstin lukemista.
 
 
-#### 1.1.1 2D- ja 3D-grafiikat videopeleissä
-
-
-
-
-#### 1.1.2 8-, 16-, 32- ja 64-bittiset järjestelmät
-
-
-
-
-#### 1.1.3 Arcade-peli
+#### 1.1.1 Arcade-peli
 
 Arcade-peli tai kolikkopeli tarkoittaa tyypillisesti kolikoilla toimivaa peliä, joka on suunniteltu pelattavaksi pelihalleissa (Merriam-Webster 2025).
 
 
-#### 1.1.4 Bitti
-
-
-
-
-#### 1.1.5 ChatGPT
+#### 1.1.2 ChatGPT
 
 ChatGPT on esikoulutettu luonnollisen kielen käsittelymalli (Natural language processing tai NLP), joka tarkoittaa tekoälyn osaa, jonka tarkoituksena on mahdollistaa tietokoneiden ymmärrys ja vuorovaikutus ihmisten kielten kanssa. (Sarrion 2023).
 
 
-#### 1.1.6 Flipperi
+#### 1.1.3 Flipperi
 
 Flipperi (englanniksi pinball machine) tarkoittaa varhaisinta sähkömekaanista kolikolla toimivaa arcade-peliä, joita tyypillisesti löytyy esimerkiksi biljardihalleista ja pelihalleista. Flipperin pelaaja syöttää laitteeseen kolikon, mikä avaa jousimännän, jonka avulla pelaaja voi lingota teräspallon kujaa pitkin lasikannelliselle vinolle pelialueelle. Pelialueen yläpäästä pallo laskeutuu erilaisten porttien läpi, pylväiden välistä ja törmäten puskureihin - näiden elementtien sähköiset kosketuspisteet tuottavat kumulatiivisen tuloksen, joka on tallennettu koneen yläosassa olevaan valaistuun paneeliin. Lopuksi pallo putoaa yhteen useista rei'istä antaen erilaisia ​​pisteitä. (Encyclopædia Britannica, Inc. 2025.) Flipperi-laitteiden nimi tulee flippereistä tai mailoista, joiden avulla pelaaja pystyy lyömään pallon takaisin pelialueelle ja pitämään pelin käynnissä (Black 2011, 23—24).
 
 
-#### 1.1.7 Näytönohjain 
-
-
-
-
-#### 1.1.8 Oskilloskooppi
+#### 1.1.4 Oskilloskooppi
 
 Oskilloskoopit ovat yksi tärkeimmistä työkaluista sähköisten signaalien analysoinnissa. Ensisijainen tieto, jota signaalien aaltomuodosta voidaan saada niiden avulla on amplitudin eli värähdyslaajuuden vaihtelun visualisointi ajan kuluessa. (Miguel Dias Pereira 2006.)
-
-
-#### 1.1.9 Polygoni
-
-
-
-
-#### 1.1.10 Prosessori
-
-
-
-
-#### 1.1.11 Resoluutio
-
-
-
-
-#### 1.1.12 Tietokonesiru
-
-
 
 
 ## 2 Videopelit ja pelikonsolit (tee tästä uusi, laajempi tietoperusta)
