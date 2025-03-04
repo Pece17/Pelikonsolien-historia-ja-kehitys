@@ -196,6 +196,8 @@ Kuvailevan kirjallisuuskatsauksen subjektiivisen prosessin: syventävän lukemis
 
 "Kivijalka"-lähteinäni olivat pelikonsolien historiaa ja kehitystä käsitteleviä kirjoja... mitä tähän käytännössä kirjoittaisi?
 
+Seuraavat kirjat osoittautuivat suorastaan helmiksi aiheeni käsittelyn kannalta: Handbook of Computer Game Studies, A Brief History of Video Games sekä The Video Game Explosion: A History from PONG to PlayStation and Beyond. Nämä kolme kirjaa kävivät läpi samoja aiheita pitkälti samassa kronologiassa, ja niitä oli ...
+
 
 ### 4.3 Tulokset
 
@@ -224,7 +226,7 @@ Projektinhallintaa helpottava tekijä oli se, että työstin opinnäyteytyötän
 
 Projektinhallintani kokanaisuutena onnistui melko hyvin alun ruosteisuudesta huolimatta, ja se oli hyödyllinen ja opettavainen kokemus esimerkiksi tulevaa työuraa ajatellen. En tekisi hirveästi toisin asioita, jos olisin nyt aloittamassa projektia alusta, mutta soveltaisin tietysti oivaltamiani asioita alusta alkaen.
 
-Lopuksi, opin luonnollisesti myös paljon opinnäytetyöni aiheesta, pelikonsolien historiasta ja kehityksestä.
+Lopuksi, opin luonnollisesti myös paljon opinnäytetyöni aiheesta eli pelikonsolien historiasta ja kehityksestä.
 
 
 ## Lähteet
