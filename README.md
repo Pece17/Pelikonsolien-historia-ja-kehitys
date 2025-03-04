@@ -65,7 +65,11 @@ Käytin ChatGPT:tä opinnäytetyöni tukena, muun muassa aiheen rajauksen ideoin
 
 Tässä osiossa avaan olennaisimpia käsitteitä, joita opinnäytetyöni sisältää, ja jotka on hyvä tuntea ennen varsinaisen tekstin lukemista.
 
-(avaa yleisemmällä tasolla enemmän käsitteitä, tee niistä enemmän tietoperusta, kuvaa hyvin yleisellä tasolla videopelikonsoleita ja videopelejä, ja tutkimuskysymyksiä, että lukija ymmärtää mistä on kyse)
+(avaa yleisemmällä tasolla enemmän käsitteitä, tee niistä enemmän tietoperusta, kuvaa hyvin yleisellä tasolla videopelikonsoleita ja videopelejä, ja tutkimuskysymyksiä, että lukija ymmärtää mistä on kyse
+
+    Teoria kattaa työn keskeiset käsitteet​
+
+    Teoria luo viitekehyksen, jonka pohjalta tutkimus (kirjallisuuskatsaus) on mahdollista tehdä​)
 
 
 #### 1.1.1 2D- ja 3D-grafiikat videopeleissä
