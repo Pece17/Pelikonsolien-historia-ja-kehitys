@@ -30,19 +30,20 @@ Amk-opinnäytetyöohje\
       1.1.12 Tietokonesiru\
       1.1.13 Videopeli\
       1.1.14 Videopelikonsoli\
-2 Pelikonsolien historia ja kehitys\
-  2.1 Esihistoria\
-  2.2 1970-luku\
-  2.3 1980-luku\
-  2.4 1990-luku\
-  2.5 2000-luku\
-3 Tutkimuksen toteutus\
-  3.1 Kuvaileva kirjallisuuskatsaus​\
-  3.2 Menetelmän käyttö ja tutkimuksen aineisto\
-  3.3 Tulokset\
-4 Pohdinta\
-  (4.1 Johtopäätökset ja suositukset)\
-  (4.2 Oma oppiminen)\
+2 Videopelit ja pelikonsolit\
+3 Pelikonsolien historia ja kehitys\
+  3.1 Esihistoria\
+  3.2 1970-luku\
+  3.3 1980-luku\
+  3.4 1990-luku\
+  3.5 2000-luku\
+4 Tutkimuksen toteutus\
+  4.1 Kuvaileva kirjallisuuskatsaus​\
+  4.2 Menetelmän käyttö ja tutkimuksen aineisto\
+  4.3 Tulokset\
+5 Pohdinta\
+  (5.1 Johtopäätökset ja suositukset)\
+  (5.2 Oma oppiminen)\
 Lähteet
 
 
@@ -61,15 +62,9 @@ Tutkimuskysymykseni olivat seuraavat: "Miten kotivideopelikonsolit kehittyivät 
 Käytin ChatGPT:tä opinnäytetyöni tukena, muun muassa aiheen rajauksen ideoinnissa.
 
 
-### 1.1 Käsitteet (tee tästä uusi, laajempi tietoperusta, ehkä uusi otsikko?)
+### 1.1 Käsitteet
 
 Tässä osiossa avaan olennaisimpia käsitteitä, joita opinnäytetyöni sisältää, ja jotka on hyvä tuntea ennen varsinaisen tekstin lukemista.
-
-(avaa yleisemmällä tasolla enemmän käsitteitä, tee niistä enemmän tietoperusta, kuvaa hyvin yleisellä tasolla videopelikonsoleita ja videopelejä, ja tutkimuskysymyksiä, että lukija ymmärtää mistä on kyse
-
-    Teoria kattaa työn keskeiset käsitteet​
-
-    Teoria luo viitekehyksen, jonka pohjalta tutkimus (kirjallisuuskatsaus) on mahdollista tehdä​)
 
 
 #### 1.1.1 2D- ja 3D-grafiikat videopeleissä
@@ -142,12 +137,21 @@ Videopeli on kattotermi, joka tarkoittaa kaikkia viihdesovelluksia, joita käyte
 Videopelikonsoli tarkoittaa videopelien pelaamiseen erikoistunutta pöytätietokonetta. Varhaisimmat videopelikonsolit toimivat pelkästään pelikasettien avulla, joissa oli vain lukumuisti-siruja (read only memory tai ROM), mutta nykyaikaiset videopelikonsolit pyörittävät pelejä levyjen kautta tai suoraan videopelikonsolille lataamalla. Videopelikonsolit vaativat ulkoisen näytön, kuten television tai tietokoneen näytön, toimiakseen. (PCMag s.a.)
 
 
-## 2 Pelikonsolien historia ja kehitys (tutkimus?)
+## 2 Videopelit ja pelikonsolit (tee tästä uusi, laajempi tietoperusta)
+
+(avaa yleisemmällä tasolla enemmän käsitteitä, tee niistä enemmän tietoperusta, kuvaa hyvin yleisellä tasolla videopelikonsoleita ja videopelejä, ja tutkimuskysymyksiä, että lukija ymmärtää mistä on kyse
+
+    Teoria kattaa työn keskeiset käsitteet​
+
+    Teoria luo viitekehyksen, jonka pohjalta tutkimus (kirjallisuuskatsaus) on mahdollista tehdä​)
+
+
+## 3 Pelikonsolien historia ja kehitys (tutkimus?)
 
 Tässä osiossa käyn läpi pelikonsolien historiaa ja kehitystä niiden alkuajoista 1900-luvun puolivälistä 2000-luvun alkuun saakka.
 
 
-### 2.1 Esihistoria
+### 3.1 Esihistoria
 
 Vuosia 1958-1972 voidaan ajatella videopelien esihistoriana ja kokeilun ajanjaksona, jolloin monet eri ihmiset erilaisilla taustoilla antoivat oman panoksensa videopelien kehitykselle. Jo aikaisemmin syntyneet huviteollisuus, joka käsitti esimerkiksi flipperit ja lautapelit, sekä nopeasti kehittyvä tietokoneteknologia olivat raivanneet tietä tälle tulevalle populaarikulttuurin muodolle. (Raessens & Goldstein 2005, 23.) 
 
@@ -162,7 +166,7 @@ Kuuluisin videopelien esi-isistä on Nolan Bushnell. Yliopistossa ollessaan hän
 Tänä ajanjaksona 1958-1972 videopelit pyörivät erilaisten tieteellisten instrumenttien, tietokoneiden, pelikonsolien prototyyppien ja kolikkopelien kautta, mutta kuluttajille kotiin myytäviä pelikonsoleita ei oltu vielä tuotu markkinoille.
 
 
-### 2.2 1970-luku
+### 3.2 1970-luku
 
 Vuonna 1972 julkaistiin historian ensimmäinen kotivideopelikonsoli, Magnavox Odyssey, joka perustui Ralph Baerin aikaisempiin prototyyppeihin (Horton 2019, 76). Se oli moderneihin pelikonsoleihin verrattuna yksinkertainen, täysin anologinen laite, joka teki kuvanmuodostuksesta ja pelivalikoimasta rajoittunutta. Ei vielä ollut erikseen pelejä ja pelikonsolia, vaan pelikonsoliin oli kovakoodattu kaikki noin kaksitoista samankaltaista pallo ja maila -teemaista peliä. Handbook of Computer Game Studies -kirjan mukaan ei ollut mahdollista ostaa uusia pelejä. (Raessens & Goldstein 2005, 26.) Tämä on kuitenkin ristiriidassa A Brief History of Video Games -kirjan kanssa, jonka mukaan konsoliin oli mahdollista ostaa erikseen kivääriä muistuttava peliohjain sekä uusia pelejä konsoliin liitettävien kasettien muodossa (Richard 2015, 29). Magnavox Odyssey ei myöskään hyödyntänyt suurimpaa osaa mahdollisuuksista, jota sen aikaiset televisiosetit tarjosivat: kuva oli mustavalkoinen ja ääntä ei ollut (Raessens & Goldstein 2005, 26). Äänen puuttuminen johtui ahneudesta ja kustannusten leikkaamisesta - Magnavox-yhtiö yksinkertaisesti poisti Odyssey-konsolin jo olemassa olevan äänisirun. Magnavox antoi myös esimerkiksi olettaa, että Odyssey-konsoli toimi vain Magnavox-televisioiden kautta, mikä ei ollut totta, tai että mainoskuvissa näkyvät erikseen myytävät oheislaitteet kuuluivat konsolipakettiin. (Richard 2015, 28—30.) Väriongelma lopulta "ratkaistiin" muovisilla ja värikkäillä ruudunpäällisillä, jotka loivat illuusion väripeleistä. Magnavox Odyssey -konsolia pidetään nykyään marginaalisena pelikonsolien historiassa, mutta se saavutti silti kohtalaisen suosion, eikä kilpailevia pelikonsoleita tullut markkinoille vähään aikaan. Suurimman kilpailun se kävi arcade-videopelien kanssa. (Raessens & Goldstein 2005, 26.) Noin 300 000 konsolia myytiin kaiken kaikkiaan (Richard 2015, 30).
 
@@ -177,7 +181,7 @@ Atarilla on myös kyseenalainen kunnia olla suurin syy miksi historian ensimmäi
 Suurin osa 1970-luvun peleistä olivat pallo ja maila -teemaisia variaatioita Pong-pelistä johtuen laitteistojen rajoitteista. Tällaisten pelien ylituotanto johti lopulta pelialan kriisiin 1970-luvun lopussa. Parempien tietokonesirujen kehitys kuitenkin avasi tien innovatiivisempien pelien suunnittelulle. (Raessens & Goldstein 2005, 27.)
 
 
-### 2.3 1980-luku
+### 3.3 1980-luku
 
 Vuoteen 1982 mennessä Atari VCS oli myynyt 10 miljoonaa kappaletta sen jatkuvasti kasvavan pelikirjaston, päivitettyjen versioiden sekä hinnanalennusten ansioista. Konsolin valmistus lopetettiin vasta vuonna 1992, 15 vuotta sen julkaisun jälkeen, ja lopulliseksi myyntimääräksi tuli yhteensä 30 miljoonaa yksikköä. (Richard 2015, 51.) Atari onnistui selviämään pelialan kriisistä 1979-1982, koska yhtiöllä oli vahva asema arcade-markkinoilla ja se myös tuotti pelikonsoleille kaikista luovimmat pelit. Atari kuitenkin menetti monopolinsa pelialalla, koska monet uudet ja innovatiiviset peliyhtiöt hyödynsivät valtatyhjiön isompien peliyhtiöiden kaatuessa. Sen ansiosta tämä ajanjakso näki ennennäkemättömän kukoistuksen ja luovuuden pelialan historiassa. Erityisesti Japanilaiset pelien kehittäjät tulivat voimalla mukaan alalle 1970-luvun lopusta lähtien kehittämällä klassikkopelejä, kuten Taito: Space Invaders ja Pac-Man, josta tuli itsessään valtava kulttuurinen ilmiö. Nintendon Donkey Kong ja Mario-pelejä ei myöskään tule unohtaa. (Raessens & Goldstein 2005, 28—30.)
 
@@ -192,7 +196,7 @@ Donkey Kong -pelin ja Nintendo Game & Watch -käsikonsolin suosio sai Nintendon 
 Atarista, Mattelista ja Colecosta, jotka olivat olleet isoimmat tekijät vuosikymmenen alussa, vain Atari pysyi Japanilaisten kannoilla, vaikka sekin oli vain varjo itsestään verrattuna 1970-lukuun. 1986 julkaistu Atari 7800 oli teknisesti Nintendo NES:n veroinen konsoli, mutta Atarin pelivalikoima kalpeni täysin Nintendon laadukkaiden pelien rinnalla. Nintendon suurimmaksi kilpailijaksi osoittautui myöskin Japanilainen peliyhtiö Sega, joka toi Sega Master System -konsolinsa Yhdysvaltojen markkinoille 1986. Se oli 8-bittinen systeemi, joka oli teknisesti hieman NES:iä parempi, mutta koska parhaat pelien kehittäjät olivat tehneet yksinoikeussopimuksen Nintendon kanssa, Sega joutui tyytymään omien arcade-videopeliensä muuntamiseen konsolille, ja toiseen sijaan. (Raessens & Goldstein 2005, 35—36.) Master System nautti kylläkin huomattavaa menestystä Euroopassa, jossa Nintendon ylivalta ei ollut niin korostunutta, mutta siitä ei ikinä ollut todella vaivaamaan Nintendon maailmanlaajuista liiketoimintaa. Master System -konsolia myytin kaiken kaikkiaan 13 miljoonaa yksikköä maailmanlaajuisesti verrattuna 62 miljoonaan myytyyn NES-konsoliin. Sega oli kuitenkin saanut jalkansa väliin, ja seuraava erä ei olisi yhtä yksipuolinen. (Richard 2015, 128—129.)
 
 
-### 2.4 1990-luku
+### 3.4 1990-luku
 
 Teknologinen innovaatio 1970-luvun kasettisysteemistä 1980-luvun pelien kasvaviin resoluutioihin on aina vienyt videopelejä uusiin ulottuvuuksiin. Nämä olivat kuitenkin pieniä askelia verrattuna 1990-luvun kehityksiin, jotka lähtisivät pian hallinnasta. 1990-luvulla sekä pelikonsolien että tietokoneiden bittikapasiteetit kasvoivat räjähdysmäisesti, ja uusia kuvan prosessoinnin menetelmiä kehitettiin, jotka mahdollistivat ennennäkemättömiä grafiikoita ja yksityiskohtia. Pelit tulivat vuosi vuodelta myös monimutkaisemmiksi sekä pidemmiksi. Videopeliala ylitti elokuva-alan liikevaihdon tällä vuosikymmenellä. (Raessens & Goldstein 2005, 38.)
 
@@ -209,7 +213,7 @@ Samalla kun Sonyn ja Segan taistelu kävi kuumana, Nintendon SNES-konsoli oli tu
 Nintendo 64 vei pelikonsolien kykyjä korkeammalle kuin koskaan, mutta myyntiluvut olivat odotettua alhaisemmat. Pelikasetteihin perustuva Nintendo 64 karkotti monet pelien kehittäjät Sonyn ja Segan luokse, ja Nintendo joutui selviämään muuntamalla konsolilleen vanhempia pelejä. Uusista peleistä oli Nintendo 64:lle pulaa. PlayStation oli myös jo ehtinyt Nintendon poissaolon aikana saavuttaa miljoonien asiakkaiden olohuoneet. (Raessens & Goldstein 2005, 39.) Nintendo oli 1990-luvun loppuun mennessä syrjäytetty pelialan johtopaikalta. N64 myi noin 33 miljoonaa yksikköä siinä missä PlayStationista tuli ensimmäinen yli 100 miljoonaa yksikköä myynyt konsoli. Valmistus lopetettiin vasta vuonna 2006, 12 vuotta sen julkaisun jälkeen. Sega Saturn oli loppujen lopuksi katastrofi vain noin 9,5 miljoonalla myydyllä laitteella, ja Sega alkoi nopeasti pohtimaan paluustrategiaansa. Pelialan vanhoille tekijöille kaikki oli muuttunut - Sony ja PlayStation olivat tulleet jäädäkseen. (Richard 2015, 203.)
 
 
-### 2.5 2000-luku
+### 3.5 2000-luku
 
 1990-luvun viimeinen konsoli oli Sega Dreamcast, Sega Saturnin seuraaja. Muun muassa 128-bittinen suoritin, internetyhteyden mahdollisuus ja ennennäkemätön tallennuskapasiteetti tekivät Dreamcast-konsolista kilpailijoihinsa verrattuna valtavasti kehittyneemmän teknisesti. Sega myös julkaisi monia erinomaisia pelejä konsolin mukana, mutta Dreamcastistä ei tullut menestystä erilaisista taloudellisista syistä johtuen. Vuonna 2001 Dreamcastin valmistus lopetettiin ja Sega vetäytyi pysyvästi pois kotikonsolimarkkinoilta. (Raessens & Goldstein 2005, 39—40.) Vaikka Dreamcastin julkaisu, laitteisto ja ohjelmistot olivat kaikki onnistuneita, ja konsoli sai loistavia arvosteluita, suurin syy sen epäonnistumiseen oli PlayStation 2. Sony varasti huomion julkistamalla uuden konsolinsa hyvissä ajoin ennen sen varsinaista julkaisua, mikä sai monet kuluttajat odottamaan ja sivuuttamaan Sega Dreamcastin. Sega teki paperilla kaikki oikein, mutta sen markkinointibudjetti ei vain riittänyt kilpailemaan Sonyn tai Microsoftin kaltaisten jättien kanssa. (Richard 2015, 214—215.)
 
@@ -224,7 +228,7 @@ Nintendo oli aloittanut projektinsa uuden sukupolven konsolin kehitykselle ajois
 Kertovin tilasto tästä konsolisukupolvesta on se, että kun GameCube-konsolin tuotanto päätettiin vuonna 2007 ja Xboxin vuonna 2008, PlayStation 2 -konsoleita tuotettiin aina vuoteen 2013 asti. Kun pöly oli laskeutunut, Nintendo oli myynyt noin 22 miljoonaa laitetta, Microsoft noin 24 miljoonaa, mutta Sony 155 miljoonaa yksikköä. Sony oli suvereenisti huipulla - se oli luonut historian menestyneimmän kotivideopelikonsolin ja jättänyt kilpailijansa nahistelemaan tähteistä. (Richard 2015, 241.)
 
 
-## 3 Tutkimuksen toteutus
+## 4 Tutkimuksen toteutus
 
 Käytin opinnäytetyön sisällön ideointiin ja rajaukseen hyödyksi ChatGPT:tä. Käytin kehoitetta: "Teen opinnäytetyötä aiheesta "Pelikonsolien historia ja kehitys", ja ajattelin käydä läpi 1970-2020 -luvut yksitellen - tarkoituksenani on kertoa miten konsolit ja niiden teknologia kehittyivät jokaisella vuosikymmenellä. Tarvitsen apua aiheen ja sisällön ideointiin ja rajaukseen. Keskityn opinnäytetyössäni teknologiseen näkökulmaan." Kysyin ChatGPT:ltä myös listan jokaisen edellämainitun vuosikymmenen kulttuurisesti merkittävimmistä kotivideopelikonsoleista, mikä enimmäkseen oli hyödyllistä, mutta nosti myös esiin ChatGPT:n ja muiden tekoälyjen vajavaisuuksia. ChatGPT ehdotti muun muassa yhdeksi 1990-luvun konsoliksi erään vuonna 1988 julkaistun konsolin sekä jätti 2000-luvulta merkittävimpiä konsoleita, kuten Sony PlayStation 3 - ja Microsoft Xbox 360 -konsolit, pois, ja sen sijaan ehdotti suurelle yleisölle vähemmän tunnettuja tai merkittäviä konsoleita, kuten PlayStation Portablea. Yritin myös kysyä ChatGPT:ltä apua lähteiden oikeaoppiseen kirjaamiseen, mutta tässäkin suhteessa tunsin etten voi luottaa siihen onko tekoäly oikeassa. ChatGPT:lle ominainen ja huvittavakin piirre on väittää itsevarmasti jotain asiaa faktaksi, mutta kun käyttäjä huomauttaa virheestä, niin ChatGPT pahoittelee ja ehdottaa uutta ratkaisua. ChatGPT ja muut tekoälyt sopivat mielestäni parhaiten ideointiin, mutta faktojen tarkistukseen tarvitaan ainakin vielä toistaiseksi ihmisten panosta. Käytin ChatGPT:tä myös muutamaan otteeseen antamaan ehdotuksia joidenkin englanninkielisten termien kääntämiseen suomeksi, sekä linkkaamaan haluamaani aiheeseen liittyviä akateemisia papereita, mikä osoittautui paikoittain hyödylliseksi metodiksi ja säästi aikaa.
 
@@ -235,7 +239,7 @@ Käytin enimmäkseen Google Scholar -hakukonetta lähteiteni etsimiseen, mikä o
 Kun löysin mielestäni laadukkaita lähteitä, yritin parhaani mukaan referoida niitä omin sanoin. Yritin myös käyttää monia eri lähteitä saman aiheen avaamiseen, ja vertailla niitä. Eroja lähteiden välillä löytyi, mikä osoitti, että yhteen lähteeseen ei kannata täysin luottaa.
 
 
-### 3.1 Kuvaileva kirjallisuuskatsaus
+### 4.1 Kuvaileva kirjallisuuskatsaus
 
 Kirjallisuuskatsaus tarkoittaa tutkimustapaa, joka tutkii muiden tutkijoiden alkuperäisiä tutkimuksia tarkoituksenaan tunnistaa, arvioida, tulkita ja yhdistää jo olemassa olevaa tietoa. Päämääränä on tiivistää olennainen tieto näistä tutkimuksista valitussa aihepiirissä sekä tehdä johtopäätökset ennalta valittuun tutkimuskysymykseen. Kirjallisuuskatsaus ei ole raportti tai essee. (Vilkka 2023, luku 1.1.1.) Kirjallisuuskatsaus edustaa laadullista tai kvalitatiivista tutkimusta, joka on Jyväskylän yliopiston mukaan tieteellisen tutkimuksen menetelmäsuuntaus, jonka tarkoituksena on saada ymmärrys kohteen laadusta, ominaisuuksista ja merkityksistä kokonaisvaltaisesti (Jyväskylän yliopisto s.a.).
 
@@ -246,27 +250,27 @@ Kuvailevan kirjallisuuskatsauksen tarkoituksena on ymmärtää ilmiö kyseenalai
 Kuvailevan kirjallisuuskatsauksen subjektiivisen prosessin: syventävän lukemisen, luetun ymmärtämisen ja tulkinnan, myötä ajatellaan, että tutkimuskysymykset voivat myös hioutua. Tiedonhaun subjektiivisuutta on kritisoitu, mutta myös kiitelty, koska se sallii erityiskysymyksiin suuntautumisen ja niiden aineistölähtöisen tarkastelun osittain päällekkäin etenevien vaiheiden kautta. (Vilkka 2023, luku 1.2.1.)
 
 
-### 3.2 Kuvailevan kirjallisuuskatsauksen käyttö ja tutkimuksen aineisto
+### 4.2 Kuvailevan kirjallisuuskatsauksen käyttö ja tutkimuksen aineisto
 
 "Kivijalka"-lähteinäni olivat pelikonsolien historiaa ja kehitystä käsitteleviä kirjoja... mitä tähän käytännössä kirjoittaisi?
 
 
-### 3.3 Tulokset
+### 4.3 Tulokset
 
 Lorem ipsum, mitä tähän kirjoittaisi?
 
 
-## 4 Pohdinta
+## 5 Pohdinta
 
 Lorem ipsum, mitä tähän kirjoittaisi?
 
 
-### (4.1 Johtopäätökset ja suositukset)
+### (5.1 Johtopäätökset ja suositukset)
 
 Lorem ipsum, mitä tähän kirjoittaisi?
 
 
-### 4.2 Oma oppiminen
+### 5.2 Oma oppiminen
 
 Opinnäytetyötä tehdessä jouduin opettelemaan uudelleen projektinhallintaa käytännön näkökulmista, sillä oli vierähtänyt useampi vuosi siitä, kun viimeksi varsinaisesti opiskelin. Myös järkevät työskentelytavat, aikataulutus ja kuormituksen ehkäiseminen kehittyivät työn edetessä. Yritin esimerkiksi projektin aluksi kirjoittaa 6-8 tuntia putkeen pitäen vain satunnaisia taukoja, mutta totesin tämän metodin nopeasti liian kuormittavaksi. Päädyin Pomodoro-tekniikkaa mukailevaan työskentelytapaan, jossa työskentelin tehokkaasti keskittyen 45 minuuttia kerrallaan, jonka jälkeen pidin vähintään 10 minuutin tauon. Totesin, että 3 tuntia tehokasta työaikaa päivässä neljässä 45 minuutin syklissä oli varsin riittävä määrä. Karsin kaikki häiriötekijät, jopa musiikinkuuntelun, pois keskittyneen työskentelyn ajaksi, ja käytin korvatulppia, jos kodista tai ulkoa kuului keskittymistä häiritseviä ääniä. Työpäivinä tein usein ennen töitä kaksi 45 minuutin sessiota sekä töiden jälkeen toiset 45 minuutin sessiot. Työn ja yksityiselämän tasapainottelun kannalta yritin olla miettimättä opinnäytetyötä aktiivisesti vapaa-aikanani, mikä ei aina ollut helppoa stressaamisen takia. Painetta aiheuttivat erityisesti tilanteet, joissa olin jumissa kirjoittamisen kanssa, enkä tiennyt miten edetä. Koin tärkeäksi asettaa itselleni rajat, joiden sisällä keskityin työskentelyyn, ja joiden ulkopuolella keskityin palautumiseen. Opinnäytetyön laajuinen projekti on kuitenkin maratoni eikä sprintti. Vapaa-aikana esimerkiksi urheilu, ystävien kanssa ajan viettäminen ja yleinen rentoutuminen toivat hyvää ja palauttavaa vastapainoa opiskeluun.
 
