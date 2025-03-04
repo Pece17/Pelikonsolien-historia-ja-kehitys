@@ -99,7 +99,7 @@ Flipperi (englanniksi pinball machine) tarkoittaa varhaisinta sähkömekaanista 
 
 #### 1.1.7 Näytönohjain 
 
-Näytönohjaimet (graphics processing unit tai GPU) ovat prosessoreita, jotka erikoistuvat grafiikoiden ja videoiden renderöintiin tai toistamiseen. Suorittamalla näitä toimintoja, näytönohjaimet vapauttavat suorittimet (CPU) keskittymään muihin tehtäviin. Näytönohjaimilla on elintärkeä rooli videopelikonsoleissa, sillä ne renderöivät korkearesoluutioisia grafiikoita ja tekstuureja. Mitä tehokkampi näytönohjain on, sitä enemmän videopelikonsoli pystyy renderöimään kuvia sekunnissa (frames per second tai FPS). Korkeat kuvataajuudet ovat erityisen tärkeitä kilpaileville pelaajille ensimmäisen persoonan ammuntapeleissä (myöskin FPS, sanoista first-person shooter). (Lotze 2023, 9.)
+
 
 
 #### 1.1.8 Oskilloskooppi
@@ -114,7 +114,7 @@ Polygoni tarkoittaa tietokonegrafiikoiden kontekstissa monireunaista objektia, k
 
 #### 1.1.10 Prosessori
 
-Prosessoreita tai suorittimia (central processing unit tai CPU) pidetään tietokoneiden aivoina, jotka pyörittävät tietokoneiden käyttöjärjestelmiä ja suorittavat ohjelmistojen ohjeistuksia. Nykyaikaisissa suorittimissa on tyypillisesti useita prosessoreita, joita kutsutaan ytimiksi, ja joista kukin pystyy keskittymään omaan uniikkiin tehtäväänsä. Mitä enemmän ytimiä suorittimella on, sitä tehokkaammin se pystyy prosessoimaan tietoa. Videopelikonsoleissa suorittimet hallitsevat käyttöjärjestelmää, suorittavat ohjelmistoja ja hallitsevat videopelien sisäisiä toimintoja, kuten taistelua, törmäysmallinnusta ja ei-ohjattavia pelaajien (NPC) vuorovaikutuksia. (Lotze 2023, 9.)
+
 
 
 #### 1.1.11 Resoluutio
@@ -124,7 +124,7 @@ Resoluutio tai kuvatarkkuus tarkoittaa näytetyn tai tulostetun kuvan terävyyde
 
 #### 1.1.12 Tietokonesiru
 
-Tietokonesirut, toisilta nimiltään mikropiirit tai puolijohteet, tarkoittavat elektroniikassa tyypillisesti piistä valmistettuja laitteita, jotka sisältävät elektronisia piirikomponentteja, kuten transistoreita ja johdotuksia. Kyseiset transistorit toimivat kytkiminä, jotka pystyvät kytkemään sähkövirran päälle tai pois. Puolijohdelaitteet voivat vaihdella yksinkertaisista lämpötila-antureista, joita käytetään digitaalisissa lämpömittareissa, huippuluokan tietokoneprosessoreihin (CPU). (Lotze 2023, 5.)
+
 
 
 ## 2 Videopelit ja pelikonsolit (tee tästä uusi, laajempi tietoperusta)
@@ -137,9 +137,13 @@ Tietokonesirut, toisilta nimiltään mikropiirit tai puolijohteet, tarkoittavat 
 
 Mitä tarkoitetaan videopeleillä ja pelikonsoleilla? PCMagin (PC Magazine) mukaan videopeli tarkoittaa interaktiivista ohjelmistoa, jota käytetään viihteeseen, roolipelaamiseen ja simulointiin. Videopelejä pelataan esimerkiksi Windows-tietokoneilla, kännyköillä tai erikoistuneilla pelikonsoleilla, kuten Microsoftin Xboxilla tai Sonyn PlayStationilla. Jatkuvasti kasvavien prosessorien ja näytönohjainten nopeuksien ansioista videopeleistä on tullut äärimmäisen realistisia niiden animaatioiden, sekä myös niissä käsiteltävien teemojen osalta. (PCMag s.a.). Toisen lähteen mukaan videopeli on kattotermi, joka tarkoittaa kaikkia viihdesovelluksia, joita käytetään erilaisten pelikonsolien tai laitteiden kautta (Cheng, Cheung & Wang 2018).
 
-Videopelikonsoli taas tarkoittaa PCMagin mukaan videopelien pelaamiseen erikoistunutta pöytätietokonetta (PCMag s.a.). Pöytätietokone on mielestäni ehkä hieman harhaanjohtava termi tässä kontekstissa, ja parempi sana kuvaamaan pelikonsolia voisi olla elektroninen laite. Varhaisimmat videopelikonsolit toimivat pelkästään pelikasettien avulla, joissa oli vain lukumuisti-siruja (read only memory tai ROM), mutta nykyaikaiset videopelikonsolit pyörittävät pelejä levyjen kautta tai suoraan videopelikonsolille lataamalla. Videopelikonsolit vaativat ulkoisen näytön, kuten television tai tietokoneen näytön, toimiakseen. (PCMag s.a.)
+Videopelikonsoli taas tarkoittaa PCMagin mukaan videopelien pelaamiseen erikoistunutta pöytätietokonetta (PCMag s.a.). Pöytätietokone on mielestäni ehkä hieman harhaanjohtava termi tässä kontekstissa, ja parempi yleistermi kuvaamaan pelikonsolia voisi olla pelaamiseen erikoistunut elektroninen laite. Varhaisimmat videopelikonsolit toimivat pelkästään pelikasettien avulla, joissa oli vain lukumuisti-siruja (read only memory tai ROM), mutta nykyaikaiset videopelikonsolit pyörittävät pelejä Blu-ray-levyjen kautta tai suoraan videopelikonsolille palveluntarjoajalta lataamalla. Videopelikonsolit vaativat ulkoisen näytön, kuten television tai tietokoneen näytön, toimiakseen. (PCMag s.a.)
 
-Pelikonsolit tarvitsevat toimiakseen erilaisia tietokoneiden komponentteja, kuten erityisesti tietokonesiruja, prosessoreita sekä näytönohjaimia.
+Pelikonsolit tarvitsevat toimiakseen erilaisia tietokoneiden komponentteja, kuten erityisesti tietokonesiruja, prosessoreita sekä näytönohjaimia. Tietokonesirut, toisilta nimiltään mikropiirit tai puolijohteet, tarkoittavat elektroniikassa tyypillisesti piistä valmistettuja laitteita, jotka sisältävät elektronisia piirikomponentteja, kuten transistoreita ja johdotuksia. Kyseiset transistorit toimivat kytkiminä, jotka pystyvät kytkemään sähkövirran päälle tai pois. Puolijohdelaitteet voivat vaihdella yksinkertaisista lämpötila-antureista, joita käytetään digitaalisissa lämpömittareissa, huippuluokan tietokoneprosessoreihin (CPU). (Lotze 2023, 5.)
+
+Prosessoreita tai suorittimia (central processing unit tai CPU) taas pidetään tietokoneiden aivoina, jotka pyörittävät tietokoneiden käyttöjärjestelmiä ja suorittavat ohjelmistojen ohjeistuksia. Nykyaikaisissa suorittimissa on tyypillisesti useita prosessoreita, joita kutsutaan ytimiksi, ja joista kukin pystyy keskittymään omaan uniikkiin tehtäväänsä. Mitä enemmän ytimiä suorittimella on, sitä tehokkaammin se pystyy prosessoimaan tietoa. Videopelikonsoleissa suorittimet hallitsevat käyttöjärjestelmää, suorittavat ohjelmistoja ja hallitsevat videopelien sisäisiä toimintoja, kuten taistelua, törmäysmallinnusta ja ei-ohjattavia pelaajien (NPC) vuorovaikutuksia. (Lotze 2023, 9.)
+
+Näytönohjaimet (graphics processing unit tai GPU) ovat prosessoreita, jotka erikoistuvat grafiikoiden ja videoiden renderöintiin tai toistamiseen. Suorittamalla näitä toimintoja, näytönohjaimet vapauttavat suorittimet (CPU) keskittymään muihin tehtäviin. Näytönohjaimilla on elintärkeä rooli videopelikonsoleissa, sillä ne renderöivät korkearesoluutioisia grafiikoita ja tekstuureja. Mitä tehokkampi näytönohjain on, sitä enemmän videopelikonsoli pystyy renderöimään kuvia sekunnissa (frames per second tai FPS). Korkeat kuvataajuudet ovat erityisen tärkeitä kilpaileville pelaajille ensimmäisen persoonan ammuntapeleissä (myöskin FPS, sanoista first-person shooter). (Lotze 2023, 9.)
 
 
 ## 3 Pelikonsolien historia ja kehitys (tutkimus?)
