@@ -74,7 +74,7 @@ Tässä osiossa avaan olennaisimpia käsitteitä, joita opinnäytetyöni sisält
 
 #### 1.1.2 8-, 16-, 32- ja 64-bittiset järjestelmät
 
-8-bittisessä järjestelmässä, kuten esimerkiksi videopelikonsolissa, suoritin kykenee käsittelemään 8 bittiä yhtenä yksikkönä. Vastaavasti, 16-bittisessä järjestelmässä suoritin kykenee käsittelemään 16 bittiä yhtenä yksikkönä, 32-bittisessä järjestelmässä suoritin kykenee käsittelemään 32 bittiä yhtenä yksikkönä ja 64-bittisessä järjestelmässä suoritin kykenee käsittelemään 64 bittiä yhtenä yksikkönä. Tosin, esimerkiksi 64-bittinen tietokone ei välttämättä ole tuplasti nopeampi verrattuna 32-bittiseen tietokoneeseen, vaan tietokoneen monet muut komponentit vaikuttavat myös sen suorituskykyyn. (PCMag s.a.)
+
 
 
 #### 1.1.3 Arcade-peli
@@ -84,7 +84,7 @@ Arcade-peli tai kolikkopeli tarkoittaa tyypillisesti kolikoilla toimivaa peliä,
 
 #### 1.1.4 Bitti
 
-Bitti tarkoittaa tietokoneen tallennustilan pienintä elementtiä. Bitti on yksinumeroinen binääriluku sisältäen vain 0- ja 1-numeroita. Fyysisesti bitti on transitori ja kondensaattori RAM-solussa (random-access memory), magneettinen alue levyllä tai nauhalla, solu SSD-asemalla (solid-state drive), piste optisella tietovälineellä tai virtapiirin läpi pulssiva jännite. (PCMag s.a.)
+
 
 
 #### 1.1.5 ChatGPT
@@ -144,6 +144,8 @@ Pelikonsolit tarvitsevat toimiakseen erilaisia tietokoneiden komponentteja, kute
 Prosessoreita tai suorittimia (central processing unit tai CPU) taas pidetään tietokoneiden aivoina, jotka pyörittävät tietokoneiden käyttöjärjestelmiä ja suorittavat ohjelmistojen ohjeistuksia. Nykyaikaisissa suorittimissa on tyypillisesti useita prosessoreita, joita kutsutaan ytimiksi, ja joista kukin pystyy keskittymään omaan uniikkiin tehtäväänsä. Mitä enemmän ytimiä suorittimella on, sitä tehokkaammin se pystyy prosessoimaan tietoa. Videopelikonsoleissa suorittimet hallitsevat käyttöjärjestelmää, suorittavat ohjelmistoja ja hallitsevat videopelien sisäisiä toimintoja, kuten taistelua, törmäysmallinnusta ja ei-ohjattavia pelaajien (NPC) vuorovaikutuksia. (Lotze 2023, 9.)
 
 Näytönohjaimet (graphics processing unit tai GPU) ovat prosessoreita, jotka erikoistuvat grafiikoiden ja videoiden renderöintiin tai toistamiseen. Suorittamalla näitä toimintoja, näytönohjaimet vapauttavat suorittimet (CPU) keskittymään muihin tehtäviin. Näytönohjaimilla on elintärkeä rooli videopelikonsoleissa, sillä ne renderöivät korkearesoluutioisia grafiikoita ja tekstuureja. Mitä tehokkampi näytönohjain on, sitä enemmän videopelikonsoli pystyy renderöimään kuvia sekunnissa (frames per second tai FPS). Korkeat kuvataajuudet ovat erityisen tärkeitä kilpaileville pelaajille ensimmäisen persoonan ammuntapeleissä (myöskin FPS, sanoista first-person shooter). (Lotze 2023, 9.)
+
+Varsinkin vanhojen pelikonsolien osalla puhutaan paljon biteistä ja eri bittisistä, kuten 8- tai 16-bittisistä, järjestelmistä. Mitä ne sitten tarkoittavat ja mikä on bitti? PCMagin mukaan bitti tarkoittaa tietokoneen tallennustilan pienintä elementtiä. Bitti on yksinumeroinen binääriluku sisältäen vain 0- ja 1-numeroita. Fyysisesti bitti on transitori ja kondensaattori RAM-solussa (random-access memory), magneettinen alue levyllä tai nauhalla, solu SSD-asemalla (solid-state drive), piste optisella tietovälineellä tai virtapiirin läpi pulssiva jännite. (PCMag s.a.) 8-bittisessä järjestelmässä, kuten esimerkiksi videopelikonsolissa, suoritin kykenee käsittelemään 8 bittiä yhtenä yksikkönä. Vastaavasti, 16-bittisessä järjestelmässä suoritin kykenee käsittelemään 16 bittiä yhtenä yksikkönä, 32-bittisessä järjestelmässä suoritin kykenee käsittelemään 32 bittiä yhtenä yksikkönä ja 64-bittisessä järjestelmässä suoritin kykenee käsittelemään 64 bittiä yhtenä yksikkönä. Tosin, esimerkiksi 64-bittinen tietokone ei välttämättä ole tuplasti nopeampi verrattuna 32-bittiseen tietokoneeseen, vaan tietokoneen monet muut komponentit vaikuttavat myös sen suorituskykyyn. (PCMag s.a.)
 
 
 ## 3 Pelikonsolien historia ja kehitys (tutkimus?)
