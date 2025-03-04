@@ -127,16 +127,6 @@ Resoluutio tai kuvatarkkuus tarkoittaa näytetyn tai tulostetun kuvan terävyyde
 Tietokonesirut, toisilta nimiltään mikropiirit tai puolijohteet, tarkoittavat elektroniikassa tyypillisesti piistä valmistettuja laitteita, jotka sisältävät elektronisia piirikomponentteja, kuten transistoreita ja johdotuksia. Kyseiset transistorit toimivat kytkiminä, jotka pystyvät kytkemään sähkövirran päälle tai pois. Puolijohdelaitteet voivat vaihdella yksinkertaisista lämpötila-antureista, joita käytetään digitaalisissa lämpömittareissa, huippuluokan tietokoneprosessoreihin (CPU). (Lotze 2023, 5.)
 
 
-#### 1.1.13 Videopeli
-
-Videopeli on kattotermi, joka tarkoittaa kaikkia viihdesovelluksia, joita käytetään erilaisten pelikonsolien tai laitteiden kautta (Cheng, Cheung & Wang 2018).
-
-
-#### 1.1.14 Videopelikonsoli
-
-Videopelikonsoli tarkoittaa videopelien pelaamiseen erikoistunutta pöytätietokonetta. Varhaisimmat videopelikonsolit toimivat pelkästään pelikasettien avulla, joissa oli vain lukumuisti-siruja (read only memory tai ROM), mutta nykyaikaiset videopelikonsolit pyörittävät pelejä levyjen kautta tai suoraan videopelikonsolille lataamalla. Videopelikonsolit vaativat ulkoisen näytön, kuten television tai tietokoneen näytön, toimiakseen. (PCMag s.a.)
-
-
 ## 2 Videopelit ja pelikonsolit (tee tästä uusi, laajempi tietoperusta)
 
 (avaa yleisemmällä tasolla enemmän käsitteitä, tee niistä enemmän tietoperusta, kuvaa hyvin yleisellä tasolla videopelikonsoleita ja videopelejä, ja tutkimuskysymyksiä, että lukija ymmärtää mistä on kyse
@@ -144,6 +134,12 @@ Videopelikonsoli tarkoittaa videopelien pelaamiseen erikoistunutta pöytätietok
     Teoria kattaa työn keskeiset käsitteet​
 
     Teoria luo viitekehyksen, jonka pohjalta tutkimus (kirjallisuuskatsaus) on mahdollista tehdä​)
+
+Mitä tarkoitetaan videopeleillä ja pelikonsoleilla? PCMagin (PC Magazine) mukaan videopeli tarkoittaa interaktiivista ohjelmistoa, jota käytetään viihteeseen, roolipelaamiseen ja simulointiin. Videopelejä pelataan esimerkiksi Windows-tietokoneilla, kännyköillä tai erikoistuneilla pelikonsoleilla, kuten Microsoftin Xboxilla tai Sonyn PlayStationilla. Jatkuvasti kasvavien prosessorien ja näytönohjainten nopeuksien ansioista videopeleistä on tullut äärimmäisen realistisia niiden animaatioiden sekä myös niiden käsiteltävien teemojen osalta. (PCMag s.a.). Toisen lähteen mukaan videopeli on kattotermi, joka tarkoittaa kaikkia viihdesovelluksia, joita käytetään erilaisten pelikonsolien tai laitteiden kautta (Cheng, Cheung & Wang 2018).
+
+Videopelikonsoli taas tarkoittaa PCMagin mukaan videopelien pelaamiseen erikoistunutta pöytätietokonetta (PCMag s.a.). Pöytätietokone on mielestäni ehkä hieman harhaanjohtava termi tässä kontekstissa, ja parempi sana kuvaamaan pelikonsolia voisi olla elektroninen laite. Varhaisimmat videopelikonsolit toimivat pelkästään pelikasettien avulla, joissa oli vain lukumuisti-siruja (read only memory tai ROM), mutta nykyaikaiset videopelikonsolit pyörittävät pelejä levyjen kautta tai suoraan videopelikonsolille lataamalla. Videopelikonsolit vaativat ulkoisen näytön, kuten television tai tietokoneen näytön, toimiakseen. (PCMag s.a.)
+
+Pelikonsolit tarvitsevat toimiakseen erityisesti tietokonesiruja, prosessoreita sekä näytönohjaimia
 
 
 ## 3 Pelikonsolien historia ja kehitys (tutkimus?)
@@ -338,6 +334,8 @@ PCMag s.a. bit. Luettavissa: https://www.pcmag.com/encyclopedia/term/bit. Luettu
 PCMag s.a. Polygon. Luettavissa: https://www.pcmag.com/encyclopedia/term/polygon. Luettu: 27.2.2025.
 
 PCMag s.a. resolution. Luettavissa: https://www.pcmag.com/encyclopedia/term/resolution. Luettu: 27.2.2025.
+
+PCMag s.a. video game. Luettavissa: https://www.pcmag.com/encyclopedia/term/video-game. Luettu: 4.3.2025.
 
 PCMag s.a. video game console. Luettavissa: https://www.pcmag.com/encyclopedia/term/video-game-console. Luettu: 27.2.2025.
 
