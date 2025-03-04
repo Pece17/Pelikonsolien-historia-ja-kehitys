@@ -15,8 +15,8 @@ Amk-opinnäytetyöohje\
 ## Sisällys
 
 1 Johdanto\
-  1.1 Käsitteet\     
-      1.1.1 Arcade-peli\    
+  1.1 Käsitteet     
+      1.1.1 Arcade-peli    
       1.1.2 ChatGPT\
       1.1.3 Flipperi\
       1.1.4 Oskilloskooppi\
