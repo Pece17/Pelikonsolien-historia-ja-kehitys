@@ -174,10 +174,6 @@ Käytin opinnäytetyön sisällön ideointiin ja rajaukseen hyödyksi ChatGPT:t�
 
 Päädyin lopulta rajaamaan opinnätetyöni laajuudeksi 1900-luvun puolivälin ja 2000-luvun alun välisen ajanjakson, koska se kiinnosti minua eniten ja tekstiä oli jo tullut kirjoitettua enemmän kuin odotin.
 
-Käytin enimmäkseen Google Scholar -hakukonetta lähteiteni etsimiseen, mikä osoitti omat haasteensa. Löysin monta laadukkaan tuntuista kirjaa videopelikonsolien historiaan ja kehitykseen liittyen, mutta lähes kaikki tarjosivat vain rajoitetun määrän sivuja esikatseltaviksi. Handbook of Computer Game Studies sekä A Brief History of Video Games -kirjat, joita käytin "kivijalka"-lähteinäni, onnistuin lainaamaan Internet Archive -kirjastosta tekemällä sinne tilin. The Video Game Explosion: A History from PONG to PlayStation and Beyond -kirjasta onnistuin myös löytämään ilmaiseksi katseltavan e-kirjan. Muiden kirjojen kohdalla en ollut yhtä onnekas. Löysin Google Scholarin kautta myös joitakin artikkeleja tieteellisistä julkaisuista liittyen aiheeseeni. Hakusanoina käytin Google Scholarissa muun muassa "magnavox odyssey history" sekä muiden yksittäisten konsolien nimiä, "history of video game consoles", "chatgpt" ja "oscilloscope". Koestin myös Keenious-tekoälypalvelua lähteiden etsimiseen. Aiheeseeni peilaten pelikonsolien historiaa käsittelevät kattavat kirjat olivat mielestäni parhaita lähteitä, sillä opinnäytetyööni päätyi niin monta eri konsolia tarkasteltavaksi, että niistä olisi ollut työlästä etsiä lähteitä ja tietoa yksitellen. Valitsemani kirjalähteet käsittelivät pelikonsolien historiaa pitkälti samassa kronologiassa, joten niitä oli kätevä vertailla keskenään.
-
-Kun löysin mielestäni laadukkaita lähteitä, yritin parhaani mukaan referoida niitä omin sanoin. Yritin myös käyttää monia eri lähteitä saman aiheen avaamiseen, ja vertailla niitä. Eroja lähteiden välillä löytyi, mikä osoitti, että yhteen lähteeseen ei kannata täysin luottaa.
-
 
 ### 4.1 Kuvaileva kirjallisuuskatsaus
 
@@ -195,6 +191,10 @@ Kuvailevan kirjallisuuskatsauksen subjektiivisen prosessin: syventävän lukemis
 "Kivijalka"-lähteinäni olivat pelikonsolien historiaa ja kehitystä käsitteleviä kirjoja... mitä tähän käytännössä kirjoittaisi?
 
 Seuraavat kirjat osoittautuivat suorastaan helmiksi aiheeni käsittelyn kannalta: Handbook of Computer Game Studies, A Brief History of Video Games sekä The Video Game Explosion: A History from PONG to PlayStation and Beyond. Nämä kolme kirjaa kävivät läpi samoja aiheita pitkälti samassa kronologiassa, ja niitä oli ...
+
+Käytin enimmäkseen Google Scholar -hakukonetta lähteiteni etsimiseen, mikä osoitti omat haasteensa. Löysin monta laadukkaan tuntuista kirjaa videopelikonsolien historiaan ja kehitykseen liittyen, mutta lähes kaikki tarjosivat vain rajoitetun määrän sivuja esikatseltaviksi. Handbook of Computer Game Studies sekä A Brief History of Video Games -kirjat, joita käytin "kivijalka"-lähteinäni, onnistuin lainaamaan Internet Archive -kirjastosta tekemällä sinne tilin. The Video Game Explosion: A History from PONG to PlayStation and Beyond -kirjasta onnistuin myös löytämään ilmaiseksi katseltavan e-kirjan. Muiden kirjojen kohdalla en ollut yhtä onnekas. Löysin Google Scholarin kautta myös joitakin artikkeleja tieteellisistä julkaisuista liittyen aiheeseeni. Hakusanoina käytin Google Scholarissa muun muassa "magnavox odyssey history" sekä muiden yksittäisten konsolien nimiä, "history of video game consoles", "chatgpt" ja "oscilloscope". Koestin myös Keenious-tekoälypalvelua lähteiden etsimiseen. Aiheeseeni peilaten pelikonsolien historiaa käsittelevät kattavat kirjat olivat mielestäni parhaita lähteitä, sillä opinnäytetyööni päätyi niin monta eri konsolia tarkasteltavaksi, että niistä olisi ollut työlästä etsiä lähteitä ja tietoa yksitellen. Valitsemani kirjalähteet käsittelivät pelikonsolien historiaa pitkälti samassa kronologiassa, joten niitä oli kätevä vertailla keskenään.
+
+Kun löysin mielestäni laadukkaita lähteitä, yritin parhaani mukaan referoida niitä omin sanoin. Yritin myös käyttää monia eri lähteitä saman aiheen avaamiseen, ja vertailla niitä. Eroja lähteiden välillä löytyi, mikä osoitti, että yhteen lähteeseen ei kannata täysin luottaa.
 
 
 ### 4.3 Tulokset
