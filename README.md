@@ -199,6 +199,19 @@ Seuraavat kirjat osoittautuivat suorastaan helmiksi aiheeni käsittelyn kannalta
 
 ### 4.3 Tulokset
 
+(Käy läpi jokainen tutkimuskysymys ja siihen saadut vastaukset. ​
+
+    Tulosten jäsennys voi noudattaa suoraan tutkimuskysymyksiä tai jos olet teoriaosuudessa esitellyt jonkin viitekehyksen, hyödynnä sitä.​
+
+    Liitä tulososaan mukaan lähdemateriaalia​
+
+    Työn sisäinen keskustelu eli diskurssi​
+
+    HUOM! Jos kirjoitat samaan tekstikappaleeseen lähteisiin perustuvaa tietoa ja omaa tekstiä niin kirjoita oma lähteisiin perustuva teksti ensin, lisää lähdeviite ja sitten vasta oma teksti.​
+
+    Tarpeen mukaan tee luvun loppuun tuloksista vielä yhteenveto eli objektiivinen koonti päätuloksista.)
+
+
 "Miten kotivideopelikonsolit kehittyivät teknologisesti niiden alkuajoista 2000-luvun alkuun saakka?"
 
 "Minkälaisia kulttuurisia vaikutuksia pelikonsoleilla on ollut?"
@@ -210,12 +223,21 @@ Seuraavat kirjat osoittautuivat suorastaan helmiksi aiheeni käsittelyn kannalta
 
 ## 5 Pohdinta
 
-Lorem ipsum, mitä tähän kirjoittaisi?
+Lorem ipsum, mitä tähän kirjoittaisi? (tähän vain muutamalla virkkeellä jotain)
 
 
-### (5.1 Johtopäätökset ja suositukset)
+### 5.1 Johtopäätökset ja suositukset
 
-Lorem ipsum, mitä tähän kirjoittaisi?
+(    Aloita osuus kertaamalla tutkimuskysymykset. Käy sen jälkeen läpi olennaiset ja käyttökelpoisimmat tulokset ja pohdi niiden merkittävyyttä.​
+
+    Mitä johtopäätöksiä voi tulosten perusteella tehdä?​
+
+    Miten tuloksia voisi hyödyntää/soveltaa? ​
+
+    Pohdi tuloksien luotettavuutta ja eettisyyttä​
+
+    Millaisia jatkotutkimusmahdollisuuksia tutkimukselle löytyy?​
+)
 
 
 ### 5.2 Oma oppiminen
