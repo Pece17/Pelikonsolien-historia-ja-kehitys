@@ -63,8 +63,6 @@ Oskilloskooppi    Oskilloskoopit ovat yksi tärkeimmistä työkaluista sähköis
 
 ## 2 Videopelit ja pelikonsolit (tee tästä uusi, laajempi tietoperusta)
 
-(avaa tutkimuskysymyksiä, että lukija ymmärtää mistä on kyse? - Teoria luo viitekehyksen, jonka pohjalta tutkimus (kirjallisuuskatsaus) on mahdollista tehdä​)
-
 Mitä tarkoitetaan videopeleillä ja pelikonsoleilla? PCMagin (PC Magazine) mukaan videopeli tarkoittaa interaktiivista ohjelmistoa, jota käytetään viihteeseen, roolipelaamiseen ja simulointiin. Videopelejä pelataan esimerkiksi Windows-tietokoneilla, kännyköillä tai erikoistuneilla pelikonsoleilla, kuten Microsoftin Xboxilla tai Sonyn PlayStationilla. Jatkuvasti kasvavien prosessorien ja näytönohjainten nopeuksien ansioista videopeleistä on tullut äärimmäisen realistisia niiden animaatioiden, sekä myös niissä käsiteltävien teemojen osalta. (PCMag s.a.). Toisen lähteen mukaan videopeli on kattotermi, joka tarkoittaa kaikkia viihdesovelluksia, joita käytetään erilaisten pelikonsolien tai laitteiden kautta (Cheng, Cheung & Wang 2018).
 
 Videopelikonsoli taas tarkoittaa PCMagin mukaan videopelien pelaamiseen erikoistunutta pöytätietokonetta (PCMag s.a.). Pöytätietokone on mielestäni ehkä hieman harhaanjohtava termi tässä kontekstissa, ja parempi yleistermi kuvaamaan pelikonsolia voisi olla pelaamiseen erikoistunut elektroninen laite. Varhaisimmat videopelikonsolit toimivat pelkästään pelikasettien avulla, joissa oli vain lukumuisti-siruja (read only memory tai ROM), ja sen jälkeen CD-levyiltä, mutta nykyaikaiset videopelikonsolit pyörittävät pelejä Blu-ray-levyjen kautta tai suoraan videopelikonsolille palveluntarjoajalta lataamalla. Videopelikonsolit vaativat ulkoisen näytön, kuten television tai tietokoneen näytön, toimiakseen. (PCMag s.a.)
