@@ -222,7 +222,8 @@ Lorem ipsum, mitä tähän kirjoittaisi? (tähän vain muutamalla virkkeellä jo
 
 ### 5.1 Johtopäätökset ja suositukset
 
-(- Aloita osuus kertaamalla tutkimuskysymykset. Käy sen jälkeen läpi olennaiset ja käyttökelpoisimmat tulokset ja pohdi niiden merkittävyyttä.​
+(
+- Aloita osuus kertaamalla tutkimuskysymykset. Käy sen jälkeen läpi olennaiset ja käyttökelpoisimmat tulokset ja pohdi niiden merkittävyyttä.​
 - Mitä johtopäätöksiä voi tulosten perusteella tehdä?​
 - Miten tuloksia voisi hyödyntää/soveltaa? ​
 - Pohdi tuloksien luotettavuutta ja eettisyyttä​
