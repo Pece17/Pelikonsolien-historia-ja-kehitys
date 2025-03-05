@@ -199,7 +199,13 @@ Seuraavat kirjat osoittautuivat suorastaan helmiksi aiheeni käsittelyn kannalta
 
 ### 4.3 Tulokset
 
-Lorem ipsum, mitä tähän kirjoittaisi?
+"Miten kotivideopelikonsolit kehittyivät teknologisesti niiden alkuajoista 2000-luvun alkuun saakka?"
+
+"Minkälaisia kulttuurisia vaikutuksia pelikonsoleilla on ollut?"
+
+"Miten pelialan liiketoiminta on kehittynyt?"
+
+"Minkälaista laadukasta tutkimustietoa aiheestani löytyy?"
 
 
 ## 5 Pohdinta
