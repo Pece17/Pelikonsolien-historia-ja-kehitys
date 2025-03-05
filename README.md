@@ -279,7 +279,7 @@ Adobe s.a. What is a polygon in 3D modelling?. Luettavissa: https://www.adobe.co
 
 Black, J. 2011. Pinball: The Misunderstood Game of Amusement. A Journal of Academic Writing, 7, s. 23­­­–24.
 
-Cheng, C., Cheung, M. W.-L. & Wang, H. 2018. Multinational comparison of internet gaming disorder and psychosocial problems versus well-being: Meta-analysis of 20 countries. Computers in Human Behavior. 88, s. 153-167.
+Cheng, C., Cheung, M. W.-L. & Wang, H. 2018. Multinational comparison of internet gaming disorder and psychosocial problems versus well-being: Meta-analysis of 20 countries. Computers in Human Behavior. 88, s. 153–167.
 
 De La Cruz, A. & Ryan, J. 2016. Tennis for Two. 6.101 Final Projects Spring 2016. Massachusetts Institute of Technology. Cambridge, MA. Luettavissa: http://web.mit.edu/6.101/www/s2016/projects/jackryan_Project_Final_Report.pdf. Luettu: 27.2.2025.
 
@@ -287,7 +287,7 @@ Encyclopædia Britannica, Inc. 2025. pinball machine. Luettavissa: https://www.b
 
 GitHub Docs s.a. About GitHub and Git. Luettavissa: https://docs.github.com/en/get-started/start-your-journey/about-github-and-git. Luettu: 4.3.2025.
 
-Horton, Z. 2019. A “Total Play and Learning Experience”: The Magnavox Odyssey’s 1972 Dream of Media Convergence. Continent, 8, 1-2, s. 76-86.
+Horton, Z. 2019. A “Total Play and Learning Experience”: The Magnavox Odyssey’s 1972 Dream of Media Convergence. Continent, 8, 1-2, s. 76–86.
 
 Jyväskylän yliopisto s.a. Laadullinen tutkimus. Luettavissa: https://sites.app.jyu.fi/mehu/fi/menetelmapolku/tutkimusstrategiat/laadullinen-tutkimus. Luettu: 3.3.2025.
 
