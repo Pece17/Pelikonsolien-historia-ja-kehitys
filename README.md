@@ -201,15 +201,15 @@ Seuraavat kirjat osoittautuivat suorastaan helmiksi aiheeni käsittelyn kannalta
 
 (Käy läpi jokainen tutkimuskysymys ja siihen saadut vastaukset. ​
 
-    Tulosten jäsennys voi noudattaa suoraan tutkimuskysymyksiä tai jos olet teoriaosuudessa esitellyt jonkin viitekehyksen, hyödynnä sitä.​
+Tulosten jäsennys voi noudattaa suoraan tutkimuskysymyksiä tai jos olet teoriaosuudessa esitellyt jonkin viitekehyksen, hyödynnä sitä.​
 
-    Liitä tulososaan mukaan lähdemateriaalia​
+Liitä tulososaan mukaan lähdemateriaalia​
 
-    Työn sisäinen keskustelu eli diskurssi​
+Työn sisäinen keskustelu eli diskurssi​
 
-    HUOM! Jos kirjoitat samaan tekstikappaleeseen lähteisiin perustuvaa tietoa ja omaa tekstiä niin kirjoita oma lähteisiin perustuva teksti ensin, lisää lähdeviite ja sitten vasta oma teksti.​
+HUOM! Jos kirjoitat samaan tekstikappaleeseen lähteisiin perustuvaa tietoa ja omaa tekstiä niin kirjoita oma lähteisiin perustuva teksti ensin, lisää lähdeviite ja sitten vasta oma teksti.​
 
-    Tarpeen mukaan tee luvun loppuun tuloksista vielä yhteenveto eli objektiivinen koonti päätuloksista.)
+Tarpeen mukaan tee luvun loppuun tuloksista vielä yhteenveto eli objektiivinen koonti päätuloksista.)
 
 
 "Miten kotivideopelikonsolit kehittyivät teknologisesti niiden alkuajoista 2000-luvun alkuun saakka?"
@@ -228,15 +228,15 @@ Lorem ipsum, mitä tähän kirjoittaisi? (tähän vain muutamalla virkkeellä jo
 
 ### 5.1 Johtopäätökset ja suositukset
 
-(    Aloita osuus kertaamalla tutkimuskysymykset. Käy sen jälkeen läpi olennaiset ja käyttökelpoisimmat tulokset ja pohdi niiden merkittävyyttä.​
+(Aloita osuus kertaamalla tutkimuskysymykset. Käy sen jälkeen läpi olennaiset ja käyttökelpoisimmat tulokset ja pohdi niiden merkittävyyttä.​
 
-    Mitä johtopäätöksiä voi tulosten perusteella tehdä?​
+Mitä johtopäätöksiä voi tulosten perusteella tehdä?​
 
-    Miten tuloksia voisi hyödyntää/soveltaa? ​
+Miten tuloksia voisi hyödyntää/soveltaa? ​
 
-    Pohdi tuloksien luotettavuutta ja eettisyyttä​
+Pohdi tuloksien luotettavuutta ja eettisyyttä​
 
-    Millaisia jatkotutkimusmahdollisuuksia tutkimukselle löytyy?​
+Millaisia jatkotutkimusmahdollisuuksia tutkimukselle löytyy?​
 )
 
 
