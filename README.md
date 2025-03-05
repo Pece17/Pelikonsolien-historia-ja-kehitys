@@ -28,7 +28,7 @@ Amk-opinnäytetyöohje\
   4.2 Menetelmän käyttö ja tutkimuksen aineisto\
   4.3 Tulokset\
 5 Pohdinta\
-  (5.1 Johtopäätökset ja suositukset)\
+  5.1 Johtopäätökset ja suositukset\
   5.2 Oma oppiminen\
 Lähteet
 
