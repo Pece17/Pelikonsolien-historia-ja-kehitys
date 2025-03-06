@@ -12,3 +12,4 @@
 12. kirjoita luvut: ~4 Tutkimuksen toteutus~, ~4.2 Kuvailevan kirjallisuuskatsauksen käyttö ja tutkimuksen aineisto~, 4.3 Tulokset, ~5 Pohdinta~ ja 5.1 Johtopäätökset ja suositukset
 13. lopuksi oikolue koko teksti virheiden ja muutosten varalta
 14. kopioi teksti ja pistä homma pakettiin Word-dokumenttiin
+15. tee tiivistelmä lopuksi
