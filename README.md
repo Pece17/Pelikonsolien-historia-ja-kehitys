@@ -186,13 +186,15 @@ Kuvailevan kirjallisuuskatsauksen subjektiivisen prosessin: syventävän lukemis
 
 ### 4.2 Kuvailevan kirjallisuuskatsauksen käyttö ja tutkimuksen aineisto
 
-"Kivijalka"-lähteinäni toimivat kuvailevassa kirjallisuuskatsauksessa pelikonsolien historiaa ja kehitystä käsitteleviä kirjoja. Erityisesti seuraavat kirjat osoittautuivat suorastaan helmiksi aiheeni käsittelyn kannalta: Handbook of Computer Game Studies, A Brief History of Video Games sekä The Video Game Explosion: A History from PONG to PlayStation and Beyond. Nämä kolme kirjaa kävivät läpi samoja aiheita pitkälti samassa kronologiassa, ja niitä oli johdonmukaista vertailla keskenään.
+Käytin enimmäkseen Google Scholar -hakukonetta lähteiteni etsimiseen, mikä osoitti omat haasteensa. Löysin monta laadukkaan tuntuista kirjaa videopelikonsolien historiaan ja kehitykseen liittyen, mutta lähes kaikki tarjosivat vain rajoitetun määrän sivuja esikatseltaviksi. Handbook of Computer Game Studies sekä A Brief History of Video Games -kirjat, joita käytin "kivijalka"-lähteinäni, onnistuin lainaamaan Internet Archive -kirjastosta tekemällä sinne tilin. The Video Game Explosion: A History from PONG to PlayStation and Beyond -kirjasta onnistuin myös löytämään ilmaiseksi katseltavan e-kirjan. Muiden kirjojen kohdalla en ollut yhtä onnekas, mutta nämä mainitsemani kolme kirjaa osoittautuivat suorastaan helmiksi aiheeni käsittelyn kannalta. Ne kolme kirjaa kävivät läpi samoja aiheita pitkälti samassa kronologiassa, ja niitä oli johdonmukaista vertailla keskenään.
+
+Löysin Google Scholarin kautta myös joitakin artikkeleja tieteellisistä julkaisuista liittyen aiheeseeni. Hakusanoina käytin Google Scholarissa muun muassa "magnavox odyssey history" sekä muiden yksittäisten konsolien nimiä, "history of video game consoles", "chatgpt" ja "oscilloscope". Koestin myös Keenious-tekoälypalvelua lähteiden etsimiseen. Aiheeseeni peilaten pelikonsolien historiaa käsittelevät kattavat kirjat olivat mielestäni parhaita lähteitä, sillä opinnäytetyööni päätyi niin monta eri konsolia tarkasteltavaksi, että niistä olisi ollut työlästä etsiä lähteitä ja tietoa yksitellen. Valitsemani kirjalähteet käsittelivät pelikonsolien historiaa pitkälti samassa kronologiassa, joten niitä oli kätevä vertailla keskenään.
 
 Vuonna 2005 julkaistu Handbook of Computer Game Studies on Joost Raessensin ja Jeffrey Goldsteinin editoima kokoomateos, jonka The History of the Video Game -luku on Steven Mallietin ja Gust De Meyerin käsialaa. Tämä luku toimi kuvailevan kirjallisuuskatsaukseni perustana, ja sisälsi lähes täydellisesti ne asiat, joita alunperin halusin lähteä tutkimaan.
 
-A Brief History of Video Games on vuonna 2015 julkaistu Richard Stantonin kirjoittama kirja videopelien ja pelikonsolien historiasta.
+A Brief History of Video Games on vuonna 2015 julkaistu Richard Stantonin kirjoittama kirja videopelien ja pelikonsolien historiasta. Käytin tätä kirjaa tiiviisti Handbook of Computer Game Studies -kirjan The History of the Video Game -luvun rinnalla, koska ne peilasivat toisiaan erinomaisesti, mutta myös sisälsivät eroavaisuuksia ja myös virheitä.
 
-Käytin enimmäkseen Google Scholar -hakukonetta lähteiteni etsimiseen, mikä osoitti omat haasteensa. Löysin monta laadukkaan tuntuista kirjaa videopelikonsolien historiaan ja kehitykseen liittyen, mutta lähes kaikki tarjosivat vain rajoitetun määrän sivuja esikatseltaviksi. Handbook of Computer Game Studies sekä A Brief History of Video Games -kirjat, joita käytin "kivijalka"-lähteinäni, onnistuin lainaamaan Internet Archive -kirjastosta tekemällä sinne tilin. The Video Game Explosion: A History from PONG to PlayStation and Beyond -kirjasta onnistuin myös löytämään ilmaiseksi katseltavan e-kirjan. Muiden kirjojen kohdalla en ollut yhtä onnekas. Löysin Google Scholarin kautta myös joitakin artikkeleja tieteellisistä julkaisuista liittyen aiheeseeni. Hakusanoina käytin Google Scholarissa muun muassa "magnavox odyssey history" sekä muiden yksittäisten konsolien nimiä, "history of video game consoles", "chatgpt" ja "oscilloscope". Koestin myös Keenious-tekoälypalvelua lähteiden etsimiseen. Aiheeseeni peilaten pelikonsolien historiaa käsittelevät kattavat kirjat olivat mielestäni parhaita lähteitä, sillä opinnäytetyööni päätyi niin monta eri konsolia tarkasteltavaksi, että niistä olisi ollut työlästä etsiä lähteitä ja tietoa yksitellen. Valitsemani kirjalähteet käsittelivät pelikonsolien historiaa pitkälti samassa kronologiassa, joten niitä oli kätevä vertailla keskenään.
+The Video Game Explosion: A History from PONG to PlayStation and Beyond
 
 Kun löysin mielestäni laadukkaita lähteitä, yritin parhaani mukaan referoida niitä omin sanoin. Yritin myös käyttää monia eri lähteitä saman aiheen avaamiseen, ja vertailla niitä. Eroja lähteiden välillä löytyi, mikä osoitti, että yhteen lähteeseen ei kannata täysin luottaa.
 
@@ -310,9 +312,9 @@ PCMag s.a. video game console. Luettavissa: https://www.pcmag.com/encyclopedia/t
 
 Malliet, S. & De Meyer, G. 2005. The History of the Video Game. Teoksessa Raessens, J. & Goldstein, J. (toim.). Handbook of Computer Game Studies, s. 23–45. MIT Press. Cambridge, MA.
 
-Stanton, R. 2015. A Brief History of Video Games. Robinson. Lontoo 
-
 Sarrion, E. 2023. What Is ChatGPT ?. Luettavissa: https://link.springer.com/chapter/10.1007/978-1-4842-9529-8_1. Luettu: 27.2.2025.
+
+Stanton, R. 2015. A Brief History of Video Games. Robinson. Lontoo
 
 Vilkka, H. 2023. Kirjallisuuskatsaus metodina, opinnäytetyön osana ja tekstilajina. Art House. Helsinki. E-kirja. Luettu: 17.2.2025.
 
