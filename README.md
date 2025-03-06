@@ -225,8 +225,11 @@ Lorem ipsum, mitä tähän kirjoittaisi? (tähän vain muutamalla virkkeellä jo
 - Mitä johtopäätöksiä voi tulosten perusteella tehdä?​
 - Miten tuloksia voisi hyödyntää/soveltaa? ​
 - Pohdi tuloksien luotettavuutta ja eettisyyttä​
-- Millaisia jatkotutkimusmahdollisuuksia tutkimukselle löytyy?​
 )
+
+En löytänyt tuloksistani eettisiä ongelmia.
+
+Jatkotutkimusmahdollisuutena voisi olla esimerkiksi tehdä vielä laajempi ja kattavampi tutkimus aiheestani, käyttäen useampia lähteitä samojen asioiden käsittelyyn. Tai toisena vaihtoehtona voisi keskittyä aiheestani johonkin pienempään kokonaisuuteen syvemmin.
 
 
 ### 5.2 Oma oppiminen
