@@ -50,7 +50,7 @@ Käytin ChatGPT:tä opinnäytetyöni tukena, muun muassa aiheen rajauksen ideoin
 
 ### 1.1 Käsitteet
 
-Tässä osiossa avaan muutamia spesifejä käsitteitä, joita opinnäytetyöni sisältää, ja jotka on hyvä tuntea ennen varsinaisen tekstin lukemista. Käyn läpi myös opinnäytetyööni olennaisia käsitteitä luvussa 2
+Tässä alaluvussa avaan muutamia spesifejä käsitteitä, joita opinnäytetyöni sisältää, ja jotka on hyvä tuntea ennen varsinaisen tekstin lukemista. Käyn läpi myös opinnäytetyööni olennaisia käsitteitä luvussa 2
 
 Arcade-peli    Arcade-peli tai kolikkopeli tarkoittaa tyypillisesti kolikoilla toimivaa peliä, joka on suunniteltu pelattavaksi pelihalleissa (Merriam-Webster 2025).
 
@@ -61,7 +61,7 @@ Flipperi    Flipperi (englanniksi pinball machine) tarkoittaa varhaisinta sähk�
 Oskilloskooppi    Oskilloskoopit ovat yksi tärkeimmistä työkaluista sähköisten signaalien analysoinnissa. Ensisijainen tieto, jota signaalien aaltomuodosta voidaan saada niiden avulla on amplitudin eli värähdyslaajuuden vaihtelun visualisointi ajan kuluessa. (Miguel Dias Pereira 2006.)
 
 
-## 2 Videopelit ja pelikonsolit (tee tästä uusi, laajempi tietoperusta)
+## 2 Videopelit ja pelikonsolit (tietoperusta?)
 
 Mitä tarkoitetaan videopeleillä ja pelikonsoleilla? PCMagin (PC Magazine) mukaan videopeli tarkoittaa interaktiivista ohjelmistoa, jota käytetään viihteeseen, roolipelaamiseen ja simulointiin. Videopelejä pelataan esimerkiksi Windows-tietokoneilla, kännyköillä tai erikoistuneilla pelikonsoleilla, kuten Microsoftin Xboxilla tai Sonyn PlayStationilla. Jatkuvasti kasvavien prosessorien ja näytönohjainten nopeuksien ansioista videopeleistä on tullut äärimmäisen realistisia niiden animaatioiden, sekä myös niissä käsiteltävien teemojen osalta. (PCMag s.a.). Toisen lähteen mukaan videopeli on kattotermi, joka tarkoittaa kaikkia viihdesovelluksia, joita käytetään erilaisten pelikonsolien tai laitteiden kautta (Cheng, Cheung & Wang 2018).
 
@@ -86,7 +86,7 @@ Nyt kun videopelien ja pelikonsolien keskeisiä käsitteitä on avattu, voimme u
 
 ## 3 Pelikonsolien historia ja kehitys (tutkimus?)
 
-Tässä osiossa käyn läpi pelikonsolien historiaa ja kehitystä niiden alkuajoista 1900-luvun puolivälistä 2000-luvun alkuun saakka.
+Tämän luvun alaluvuissa käyn läpi pelikonsolien historiaa ja kehitystä niiden alkuajoista 1900-luvun puolivälistä 2000-luvun alkuun saakka.
 
 
 ### 3.1 Esihistoria
@@ -168,7 +168,7 @@ Kertovin tilasto tästä konsolisukupolvesta on se, että kun GameCube-konsolin 
 
 ## 4 Tutkimuksen toteutus
 
-Lorem ipsum, mitä tähän kirjoittaisi? (tähän vain muutamalla virkkeellä jotain)
+Tämän luvun alaluvuissa käyn läpi mitä kuvaileva kirjallisuuskatsaus tarkoittaa, miten sovelsin kuvailevaa kirjallisuuskatsausta tutkimukseni teossa, kuvailen tutkimukseeni löytämääni aineistoa sekä käsittelen tutkimuksestani syntyneitä tuloksia.
 
 
 ### 4.1 Kuvaileva kirjallisuuskatsaus
@@ -225,7 +225,7 @@ Angel De La Cruzin ja John Ryanin Tennis for Two -loppuprojektista Massachusetts
 
 ## 5 Pohdinta
 
-Lorem ipsum, mitä tähän kirjoittaisi? (tähän vain muutamalla virkkeellä jotain)
+Tämän luvun alaluvuissa käyn läpi tekemästäni tutkimuksen tuloksista syntyneitä johtopäätöksiä sekä arvioin omaa oppimistani koko opinnäytetyöprojekin osalta.
 
 
 ### 5.1 Johtopäätökset ja suositukset
