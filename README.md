@@ -190,15 +190,19 @@ Käytin enimmäkseen Google Scholar -hakukonetta lähteiteni etsimiseen, mikä o
 
 Löysin Google Scholarin kautta myös joitakin artikkeleja tieteellisistä julkaisuista liittyen aiheeseeni. Hakusanoina käytin Google Scholarissa muun muassa "magnavox odyssey history" sekä muiden yksittäisten konsolien nimiä, "history of video game consoles", "chatgpt" ja "oscilloscope". Koestin myös Keenious-tekoälypalvelua lähteiden etsimiseen. Aiheeseeni peilaten pelikonsolien historiaa käsittelevät kattavat kirjat olivat mielestäni parhaita lähteitä, sillä opinnäytetyööni päätyi niin monta eri konsolia tarkasteltavaksi, että niistä olisi ollut työlästä etsiä lähteitä ja tietoa yksitellen. Valitsemani kirjalähteet käsittelivät pelikonsolien historiaa pitkälti samassa kronologiassa, joten niitä oli johdonmukaista vertailla keskenään.
 
-Vuonna 2005 julkaistu Handbook of Computer Game Studies on Joost Raessensin ja Jeffrey Goldsteinin editoima kokoomateos, jonka The History of the Video Game -luku on Steven Mallietin ja Gust De Meyerin käsialaa. Tämä luku toimi kuvailevan kirjallisuuskatsaukseni perustana, ja sisälsi lähes täydellisesti ne asiat, joita alunperin halusin lähteä tutkimaan. Tämä kirja oli myös yksi syy miksi rajasin 2010- ja 2020-lukujen pelikonsolit pois tutkimuksestani.
+
+
+Vuonna 2005 julkaistu Handbook of Computer Game Studies on Joost Raessensin ja Jeffrey Goldsteinin editoima kokoomateos, jonka The History of the Video Game -luku on Steven Mallietin ja Gust De Meyerin käsialaa. Tämä luku toimi kuvailevan kirjallisuuskatsaukseni perustana, ja sisälsi lähes täydellisesti ne asiat, joita alunperin halusinkin lähteä tutkimaan. Tämä kirja oli myös yksi syy miksi rajasin 2010- ja 2020-lukujen pelikonsolit pois tutkimuksestani.
 
 A Brief History of Video Games on vuonna 2015 julkaistu Richard Stantonin kirjoittama kirja videopelien ja pelikonsolien historiasta. Käytin tätä kirjaa tiiviisti Handbook of Computer Game Studies -kirjan The History of the Video Game -luvun rinnalla, koska ne peilasivat toisiaan erinomaisesti, mutta myös sisälsivät eroavaisuuksia ja virheitä.
 
 Vuonna 2008 julkaistu The Video Game Explosion: A History from PONG to PlayStation and Beyond oli kolmas kirja, jota hyödynsin tutkimuksessani. Se on myöskin kokoomateos, Mark J. P. Wolfin editoima. Käsittelin kirjasta Wolfin The Early Days (Before 1985) -luvun sekä Leonard Hermanin Early Home Video Game Systems ja System Profile: The Atari Video Computer System (VCS) -luvut.
 
-Zachary Hortonin A “Total Play and Learning Experience”: The Magnavox Odyssey’s 1972 Dream of Media Convergence -artikkelia Continent-lehdestä käytin täydentämään ja haastamaan kirjalähteitäni.
+Zachary Hortonin A “Total Play and Learning Experience”: The Magnavox Odyssey’s 1972 Dream of Media Convergence -artikkelia Continent-lehdestä käytin täydentämään ja haastamaan kirjalähteitäni pelikonsolien esihistoriaa ja 1970-lukua käsittelevissä luvuissa.
 
-Yritin parhaani mukaan referoida löytämiäni lähteitä omin sanoin. Yritin myös käyttää monia eri lähteitä saman aiheen avaamiseen, ja vertailla niitä. Eroja lähteiden välillä löytyi, mikä osoitti, että yhteen lähteeseen ei kannata täysin luottaa.
+Angel De La Cruzin ja John Ryanin Tennis for Two -loppuprojektista Massachusetts Institute of Technology -korkeakoulussa sain täydennystä Willy Higinbothamin Tennis for Two -videopelin kuvaukseen.
+
+Yritin parhaani mukaan referoida löytämiäni lähteitä omin sanoin käyttäen korkeintaan Google Translate -kääntäjää joidenkin termien selvittämiseen. Yritin myös käyttää monia eri lähteitä saman aiheen avaamiseen, ja vertailla niitä. Eroja lähteiden välillä löytyi, mikä osoitti, että yhteen lähteeseen ei kannata täysin luottaa.
 
 
 ### 4.3 Tulokset
@@ -231,10 +235,9 @@ Lorem ipsum, mitä tähän kirjoittaisi? (tähän vain muutamalla virkkeellä jo
 (
 - Aloita osuus kertaamalla tutkimuskysymykset. Käy sen jälkeen läpi olennaiset ja käyttökelpoisimmat tulokset ja pohdi niiden merkittävyyttä.​
 - Mitä johtopäätöksiä voi tulosten perusteella tehdä?​
-- Pohdi tuloksien luotettavuutta ja eettisyyttä​
 )
 
-En tiedä onko tuloksilleni varsinaisia sovelluskohteita. Tulokset ovat hyödyllisiä sen osalta, että ne antavat mielestäni kattavan tiivistelmän pelikonsolien historiasta ja kehityksestä 1950- ja 2000-lukujen välillä, ja säästävät lukijan tarpeelta kahlata monia eri kirjoja ja artikkeleita saadakseen samat tiedot.
+En tiedä onko tuloksilleni varsinaisia sovelluskohteita. Tulokset ovat hyödyllisiä sen osalta, että ne antavat mielestäni kattavan tiivistelmän mielestäni merkittävimpien pelikonsolien historiasta ja kehityksestä 1950- ja 2000-lukujen välillä, ja säästävät lukijan tarpeelta kahlata monia eri kirjoja ja artikkeleita saadakseen samat tiedot.
 
 Pidän tuloksia melko luotettavina, sillä tutkin samoja aihepiirejä kronologisesti monista eri lähteistä vertaillen niiden samankaltaisuuksia, eroja ja mahdollisia virheitä. En löytänyt tuloksistani eettisiä ongelmia. 
 
