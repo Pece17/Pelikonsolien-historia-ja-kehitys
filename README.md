@@ -225,7 +225,7 @@ Angel De La Cruzin ja John Ryanin Tennis for Two -loppuprojektista Massachusetts
 
 ## 5 Pohdinta
 
-Tämän luvun alaluvuissa käyn läpi tekemästäni tutkimuksen tuloksista syntyneitä johtopäätöksiä sekä arvioin omaa oppimistani koko opinnäytetyöprojekin osalta.
+Tämän luvun alaluvuissa käyn läpi tekemästäni tutkimuksen tuloksista syntyneitä johtopäätöksiä sekä arvioin omaa oppimistani koko opinnäytetyöprojektin osalta.
 
 
 ### 5.1 Johtopäätökset ja suositukset
