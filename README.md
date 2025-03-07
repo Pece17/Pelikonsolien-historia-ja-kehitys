@@ -81,7 +81,7 @@ Miten 2D- ja 3D-grafiikat määritellään tarkemmin? 2D-grafiikat tarkoittavat 
 
 3D-grafiikoiden osalta on myös relevanttia ymmärtää mitä polygonit tarkoittavat. Polygoni tarkoittaa tietokonegrafiikoiden kontekstissa monireunaista objektia, kuten esimerkiksi kolmiota tai neliötä, joka voidaan täyttää väreillä tai jota voidaan liikuttaa yksittäisenä kokonaisuutena (PCMag s.a.). Polygonit ovat kaksiulotteisia (2D) muotoja, joita käytetään kolmiulotteisten (3D) verkkojen, tai toisin sanoen, mallien luomiseen. Pyramidit ja kuutiot ovat esimerkkejä kolmiulotteisista malleista. Jokainen polygoni muodostuu vähintään kolmesta kärjestä ja reunasta, jotka yhdistyvät muodostaen suljetun muodon. (Adobe s.a.)
 
-Nyt kun videopelien ja pelikonsolien keskeisiä käsitteitä on avattu, voimme uppoutua seuraavassa luvussa syvemmin pelikonsolien historiaan ja kehitykseen: niiden teknologisiin kehitysaskeliin, kulttuurisiin vaikutuksiin ja niihin liittyvän liiketoiminnan muutoksiin. Samalla tutkimme minkälaista tutkimustietoa aiheesta löytyy.
+Nyt kun videopelien ja pelikonsolien keskeisiä käsitteitä on avattu, voimme uppoutua seuraavassa luvussa syvemmin pelikonsolien historiaan, niiden teknologisiin kehitysaskeliin, kulttuurisiin vaikutuksiin ja niihin liittyvän liiketoiminnan muutoksiin. Samalla tutkimme minkälaista tutkimustietoa aiheesta löytyy.
 
 
 ## 3 Pelikonsolien historia ja kehitys (tutkimus?)
@@ -215,7 +215,7 @@ Angel De La Cruzin ja John Ryanin Tennis for Two -loppuprojektista Massachusetts
 
 Minkälainen on kotivideopelikonsolien historia niiden alkuajoista 2000-luvun alkuun saakka? Luku 3 opinnätetyössäni kokonaisuudessaan vastaa tähän erittäin laajaan kysymykseen. Yritin parhaani mukaan referoida pelikonsolien historian tänä ajanjaksona minun mielestäni merkityksellisimpien pelikonsolien ja peliyhtiöiden kautta. Jos et tunne pelikonsolien historiaa, luku 3 antaa mielestäni kattavan läpileikkauksen aiheeseen.
 
-Miten kotivideopelikonsolit kehittyivät teknologisesti niiden alkuajoista 2000-luvun alkuun saakka? Kotivideopelikonsolien teknologinen kehitys oli huimaa niiden alkuajoista 2000-luvun alkuun saakka.
+Miten kotivideopelikonsolit kehittyivät teknologisesti niiden alkuajoista 2000-luvun alkuun saakka? Kotivideopelikonsolien teknologinen kehitys oli huimaa tänä ajanjaksona.
 
 Minkälaisia kulttuurisia vaikutuksia pelikonsoleilla on ollut niiden alkuajoista 2000-luvun alkuun saakka?
 
