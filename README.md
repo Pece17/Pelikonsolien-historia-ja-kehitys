@@ -43,7 +43,7 @@ Valitsin tämän aiheen, koska olen harrastanut videopelaamista erityisesti kons
 
 Tutkimusmenetelmä opinnäytetyössä oli kuvaileva kirjallisuuskatsaus käyttäen mahdollisimman laadukkaita lähteitä, joita etsin esimerkiksi Google Scholarin kautta.
 
-Tutkimuskysymykseni olivat seuraavat: "Miten kotivideopelikonsolit kehittyivät teknologisesti niiden alkuajoista 2000-luvun alkuun saakka?", "Minkälaisia kulttuurisia vaikutuksia pelikonsoleilla on ollut?", "Miten pelialan liiketoiminta on kehittynyt?" sekä "Minkälaista laadukasta tutkimustietoa aiheestani löytyy?" <- (TÄSMENNÄ TUTKIMUSKYSYMYKSET VIELÄ, LYÖ LUKKOON)
+Tutkimuskysymykseni olivat seuraavat: "Minkälainen on kotivideopelikonsolien historia niiden alkuajoista 2000-luvun alkuun saakka?", "Miten kotivideopelikonsolit kehittyivät teknologisesti niiden alkuajoista 2000-luvun alkuun saakka?", "Minkälaisia kulttuurisia vaikutuksia pelikonsoleilla on ollut niiden alkuajoista 2000-luvun alkuun saakka?" sekä "Miten pelialan liiketoiminta on kehittynyt sen alkuajoista 2000-luvun alkuun saakka?"
 
 Käytin ChatGPT:tä opinnäytetyöni tukena, muun muassa aiheen rajauksen ideoinnissa.
 
@@ -213,14 +213,13 @@ Angel De La Cruzin ja John Ryanin Tennis for Two -loppuprojektista Massachusetts
 - HUOM! Jos kirjoitat samaan tekstikappaleeseen lähteisiin perustuvaa tietoa ja omaa tekstiä niin kirjoita oma lähteisiin perustuva teksti ensin, lisää lähdeviite ja sitten vasta oma teksti.​
 - Tarpeen mukaan tee luvun loppuun tuloksista vielä yhteenveto eli objektiivinen koonti päätuloksista.)
 
+Minkälainen on kotivideopelikonsolien historia niiden alkuajoista 2000-luvun alkuun saakka? Luku 3 opinnätetyössäni kokonaisuudessaan vastaa tähän erittäin laajaan kysymykseen. Yritin parhaani mukaan referoida pelikonsolien historian tänä ajanjaksona minun mielestäni merkityksellisimpien pelikonsolien ja peliyhtiöiden kautta. Jos et tunne pelikonsolien historiaa, luku 3 antaa mielestäni kattavan läpileikkauksen aiheeseen.
 
-Kotivideopelikonsolien kehitys oli huimaa niiden alkuajoista 2000-luvun alkuun saakka.
+Miten kotivideopelikonsolit kehittyivät teknologisesti niiden alkuajoista 2000-luvun alkuun saakka? Kotivideopelikonsolien teknologinen kehitys oli huimaa niiden alkuajoista 2000-luvun alkuun saakka.
 
-"Minkälaisia kulttuurisia vaikutuksia pelikonsoleilla on ollut?"
+Minkälaisia kulttuurisia vaikutuksia pelikonsoleilla on ollut niiden alkuajoista 2000-luvun alkuun saakka?
 
-"Miten pelialan liiketoiminta on kehittynyt?"
-
-"Minkälaista laadukasta tutkimustietoa aiheestani löytyy?"
+Miten pelialan liiketoiminta on kehittynyt sen alkuajoista 2000-luvun alkuun saakka?
 
 
 ## 5 Pohdinta
