@@ -28,7 +28,9 @@ Amk-opinnäytetyöohje\
   4.2 Menetelmän käyttö ja tutkimuksen aineisto\
   4.3 Tulokset\
     4.3.1 Minkälainen on kotivideopelikonsolien historia niiden alkuajoista 2000-luvun alkuun saakka?\
-    
+    4.3.2 Miten kotivideopelikonsolit kehittyivät teknologisesti niiden alkuajoista 2000-luvun alkuun saakka?\
+    4.3.3 Minkälaisia kulttuurisia vaikutuksia pelikonsoleilla on ollut niiden alkuajoista 2000-luvun alkuun saakka?\
+    4.3.4 Miten pelialan liiketoiminta on kehittynyt sen alkuajoista 2000-luvun alkuun saakka?
 5 Pohdinta\
   5.1 Johtopäätökset ja suositukset\
   5.2 Oma oppiminen\
