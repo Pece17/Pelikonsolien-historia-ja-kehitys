@@ -50,9 +50,9 @@ Käytin ChatGPT:tä opinnäytetyöni tukena, muun muassa aiheen rajauksen ideoin
 
 ### 1.1 Käsitteet
 
-Tässä alaluvussa avaan muutamia spesifejä käsitteitä, joita opinnäytetyöni sisältää, ja jotka on hyvä tuntea ennen varsinaisen tekstin lukemista. Käyn läpi myös opinnäytetyööni olennaisia käsitteitä luvussa 2.
+Tässä alaluvussa avaan muutamia spesifejä käsitteitä, joita opinnäytetyöni sisältää, ja jotka on hyvä tuntea ennen varsinaisen tekstin lukemista. Käyn läpi myös opinnäytetyöni kannalta olennaisia käsitteitä luvussa 2.
 
-Analoginen    Analoginen tarkoittaa esitystä kohteesta, mikä muistuttaa alkuperäistä. Analogiset laitteet valvovat olosuhteita, kuten liikettä, lämpötilaa ja ääntä, ja muuntavat ne "analogisiksi" elektronisiksi tai mekaanisiksi kuvioiksi. Esimerkiksi analoginen kello edustaa maapallon pyörimistä pyörivillä viisareillaan kellotaulussa. Analogiset puhelimet taas muuttavat äänen värähtelyt samanmuotoisiksi elektronisiksi värähtelyiksi. Analoginen tarkoittaa jatkuvaa signaalia toisin kuin digitaalinen, joka hajottaa kaikki numeroiksi. Analogiset videokamerat skannaavat katselualuettaan rivi kerrallaan ja muuntavat äärettömästi vaihtelevien punaisen, vihreän ja sinisen (RGB) valon voimakkuudet analogisiksi sähköisiksi signaaleiksi. (PCMag s.a.)
+Analoginen    Analoginen tarkoittaa esitystä kohteesta, mikä muistuttaa alkuperäistä kohdetta. Analogiset laitteet valvovat olosuhteita, kuten liikettä, lämpötilaa ja ääntä, ja muuntavat ne "analogisiksi" elektronisiksi tai mekaanisiksi kuvioiksi. Esimerkiksi analoginen kello edustaa maapallon pyörimistä pyörivillä viisareillaan kellotaulussa. Analogiset puhelimet taas muuttavat äänen värähtelyt samanmuotoisiksi elektronisiksi värähtelyiksi. Analoginen tarkoittaa jatkuvaa signaalia toisin kuin digitaalinen, joka hajottaa kaikki numeroiksi. Analogiset videokamerat skannaavat katselualuettaan rivi kerrallaan ja muuntavat äärettömästi vaihtelevien punaisen, vihreän ja sinisen (RGB) valon voimakkuudet analogisiksi sähköisiksi signaaleiksi. (PCMag s.a.)
 
 Arcade-peli    Arcade-peli tai kolikkopeli tarkoittaa tyypillisesti kolikoilla toimivaa peliä, joka on suunniteltu pelattavaksi pelihalleissa (Merriam-Webster 2025).
 
