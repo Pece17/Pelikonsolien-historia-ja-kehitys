@@ -258,9 +258,11 @@ Käy sen jälkeen läpi olennaiset ja käyttökelpoisimmat tulokset ja pohdi nii
 
 Tutkimuskysymykseni olivat "Minkälainen on kotivideopelikonsolien historia yleisesti niiden alkuajoista 2000-luvun alkuun saakka?" ja "Miten kotivideopelikonsolit kehittyivät teknologisesti niiden alkuajoista 2000-luvun alkuun saakka?"
 
-Tutkimukseni tulokset antavat mielestäni kattavan kuvan pelikonsolien historiasta yleisellä tasolla, ja kuvaavat tärkeimmät pelikonsolit sekä peliyhtiöt määrittämälläni ajanjaksolla. Tuloksissa sivutaan myös pelikonsolien kulttuurisia vaikutuksia ja pelialan liiketoimintaa. Tulokseni tarjoavat mielestäni laajan tiivistelmän aiheesta monien lähteiden pohjalta ja vastaavat tutkimuskysymyksiini. Lukijalle tulee selväksi mitkä olivat merkittävimmät pelikonsolit ja miten pelikonsolit kehittyivät.
+Ensimmäiseen tutkimuskysymykseeni tutkimukseni tulokset antavat mielestäni kattavan vastauksen, sillä ne kuvaavat pelikonsolien historiaa yleisellä tasolla ja kertovat tärkeimmistä pelikonsoleista sekä peliyhtiöistä määrittämälläni ajanjaksolla. Tuloksissa sivutaan myös pelikonsolien kulttuurisia vaikutuksia ja pelialan liiketoimintaa. Tulokseni tarjoavat mielestäni laajan tiivistelmän aiheesta monien lähteiden pohjalta. Lukijalle tulee selväksi mitkä olivat merkittävimmät pelikonsolit ja miten pelikonsolit kehittyivät.
 
-En tiedä onko tuloksilleni varsinaisia sovelluskohteita. Tulokset ovat hyödyllisiä sen osalta, että ne antavat mielestäni kattavan tiivistelmän mielestäni merkittävimpien pelikonsolien historiasta ja kehityksestä 1950- ja 2000-lukujen välillä, ja säästävät lukijan tarpeelta kahlata monia eri kirjoja ja artikkeleita saadakseen samat tiedot.
+Toiseen tutkimuskysymykseeni
+
+En tiedä onko tuloksilleni varsinaisia sovelluskohteita. Tulokseni ovat hyödyllisiä sen osalta, että ne säästävät lukijan tarpeelta kahlata monia eri kirjoja ja artikkeleita saadakseen samat olennaisimmat tiedot.
 
 Pidän tuloksia melko luotettavina, sillä tutkin samoja aihepiirejä kronologisesti monista eri lähteistä vertaillen niiden samankaltaisuuksia, eroja ja mahdollisia virheitä. En löytänyt tuloksistani eettisiä ongelmia. 
 
