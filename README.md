@@ -37,9 +37,9 @@ Lähteet
 
 Suurin osa meistä on joskus kokeillut pelata videopelejä enemmän tai vähemmän, mutta oletko koskaan miettinyt mistä kaikki lähti liikkeelle? Miten päädyimme tilanteeseen, jossa PlayStationit sekä muut videopelikonsolit ovat arkipäiväisiä esineitä monessa kotitaloudessa?
 
-Tämän opinnäytetyön tavoitteena on tarkastella kotikäyttöön tarkoitettujen videopelikonsolien historiaa ja kehitystä. Tarkastelen pelikonsolien historiaa ja kehitystä teknologian, liiketoiminnan ja kulttuurin näkökulmista käyden läpi 1950-2000-luvut. Kerron työssäni näiden vuosikymmenten teknologisesti ja kulttuurisesti olennaisimmista ja merkittävimmistä pelikonsoleista. Olen rajannut opinnäytetyöni aiheen kotivideopelikonsoleihin, eli käsittelen esimerkiksi käsikonsoleita, julkisia arcade-videopelejä tai pelitietokoneita vain pintapuolisesti.
+Tämän opinnäytetyön tavoitteena on tarkastella kotikäyttöön tarkoitettujen videopelikonsolien historiaa ja kehitystä 1900-luvun puolivälistä 2000-luvun alkuun. Tarkastelen pelikonsolien historiaa yleisesti sivuten liiketoiminnan ja kulttuurin näkökulmia, mutta erityisesti keskityn pelikonsolien teknologiseen kehitykseen. Kerron työssäni näiden vuosikymmenten teknologisesti ja kulttuurisesti olennaisimmista ja merkittävimmistä pelikonsoleista. Olen rajannut opinnäytetyöni aiheen kotivideopelikonsoleihin, eli käsittelen esimerkiksi käsikonsoleita, julkisia arcade-videopelejä tai pelitietokoneita vain pintapuolisesti.
 
-Valitsin tämän aiheen, koska olen harrastanut videopelaamista erityisesti konsoleilla lapsesta saakka ensimmäisestä PlayStationista lähtien, ja olin kiinnostunut oppimaan enemmän historiallisista pelikonsoleista ja niiden teknologisista kehitysaskeleista. Ennen tätä opinnäytetyötä, en juurikaan tiennyt pelikonsolien historiasta 2000-luvusta taaksepäin.
+Valitsin tämän aiheen, koska olen harrastanut videopelaamista erityisesti konsoleilla lapsesta saakka ensimmäisestä PlayStationista lähtien, ja olin kiinnostunut oppimaan enemmän historiallisista pelikonsoleista sekä niiden teknologisista kehitysaskeleista. Ennen tätä opinnäytetyötä en juurikaan tiennyt pelikonsolien historiasta 2000-luvusta taaksepäin.
 
 Tutkimusmenetelmä opinnäytetyössä oli kuvaileva kirjallisuuskatsaus käyttäen mahdollisimman laadukkaita lähteitä, joita etsin esimerkiksi Google Scholarin kautta.
 
@@ -50,9 +50,9 @@ Käytin ChatGPT:tä opinnäytetyöni tukena, muun muassa aiheen rajauksen ideoin
 
 ### 1.1 Käsitteet
 
-Tässä alaluvussa avaan muutamia spesifejä käsitteitä, joita opinnäytetyöni sisältää, ja jotka on hyvä tuntea ennen varsinaisen tekstin lukemista. Käyn läpi myös opinnäytetyöni kannalta olennaisia käsitteitä luvussa 2.
+Tässä alaluvussa avaan muutamia spesifejä käsitteitä, joita opinnäytetyöni sisältää ja jotka on hyvä tuntea ennen varsinaisen tekstin lukemista. Käyn läpi opinnäytetyöni kannalta olennaisia käsitteitä myös luvussa 2.
 
-Analoginen    Analoginen tarkoittaa esitystä kohteesta, mikä muistuttaa alkuperäistä kohdetta. Analogiset laitteet valvovat olosuhteita, kuten liikettä, lämpötilaa ja ääntä, ja muuntavat ne "analogisiksi" elektronisiksi tai mekaanisiksi kuvioiksi. Esimerkiksi analoginen kello edustaa maapallon pyörimistä pyörivillä viisareillaan kellotaulussa. Analogiset puhelimet taas muuttavat äänen värähtelyt samanmuotoisiksi elektronisiksi värähtelyiksi. Analoginen tarkoittaa jatkuvaa signaalia toisin kuin digitaalinen, joka hajottaa kaikki numeroiksi. Analogiset videokamerat skannaavat katselualuettaan rivi kerrallaan ja muuntavat äärettömästi vaihtelevien punaisen, vihreän ja sinisen (RGB) valon voimakkuudet analogisiksi sähköisiksi signaaleiksi. (PCMag s.a.)
+Analoginen    Analoginen tarkoittaa kohteen esitystä, joka muistuttaa alkuperäistä kohdetta. Analogiset laitteet valvovat olosuhteita, kuten liikettä, lämpötilaa ja ääntä, ja muuntavat ne "analogisiksi" sähköisiksi tai mekaanisiksi kuvioiksi. Esimerkiksi analoginen kello edustaa maapallon pyörimistä pyörivillä viisareillaan kellotaulussa. Analogiset puhelimet taas muuttavat äänen värähtelyt samanmuotoisiksi elektronisiksi värähtelyiksi. Analoginen tarkoittaa jatkuvaa signaalia toisin kuin digitaalinen, joka hajottaa kaikki numeroiksi. Analogiset videokamerat skannaavat katselualuettaan rivi kerrallaan ja muuntavat äärettömästi vaihtelevien punaisen, vihreän ja sinisen (RGB) valon voimakkuudet analogisiksi sähköisiksi signaaleiksi. (PCMag s.a.)
 
 Arcade-peli    Arcade-peli tai kolikkopeli tarkoittaa tyypillisesti kolikoilla toimivaa peliä, joka on suunniteltu pelattavaksi pelihalleissa (Merriam-Webster 2025).
 
@@ -207,15 +207,7 @@ Angel De La Cruzin ja John Ryanin Tennis for Two -loppuprojektista Massachusetts
 
 ### 4.3 Tulokset
 
-(
-- Käy läpi jokainen tutkimuskysymys ja siihen saadut vastaukset. ​
-- Tulosten jäsennys voi noudattaa suoraan tutkimuskysymyksiä tai jos olet teoriaosuudessa esitellyt jonkin viitekehyksen, hyödynnä sitä.​
-- Liitä tulososaan mukaan lähdemateriaalia​
-- Työn sisäinen keskustelu eli diskurssi​
-- HUOM! Jos kirjoitat samaan tekstikappaleeseen lähteisiin perustuvaa tietoa ja omaa tekstiä niin kirjoita oma lähteisiin perustuva teksti ensin, lisää lähdeviite ja sitten vasta oma teksti.​
-- Tarpeen mukaan tee luvun loppuun tuloksista vielä yhteenveto eli objektiivinen koonti päätuloksista.)
-
-Minkälainen on kotivideopelikonsolien historia niiden alkuajoista 2000-luvun alkuun saakka? Luku 3 opinnätetyössäni kokonaisuudessaan vastaa tähän varsin laajaan kysymykseen. Yritin parhaani mukaan referoida pelikonsolien historian tänä ajanjaksona minun mielestäni merkityksellisimpien pelikonsolien ja peliyhtiöiden kautta. Jos et tunne pelikonsolien historiaa, luku 3 antaa mielestäni kattavan, mutta tiiviin läpileikkauksen aiheeseen.
+Minkälainen on kotivideopelikonsolien historia yleisesti niiden alkuajoista 2000-luvun alkuun saakka? Luku 3 opinnätetyössäni kokonaisuudessaan vastaa tähän varsin laajaan kysymykseen sivuten myös kulttuurin ja pelialan liiketoiminnan näkökulmia. Yritin parhaani mukaan referoida pelikonsolien historian tänä ajanjaksona minun mielestäni merkityksellisimpien pelikonsolien ja peliyhtiöiden kautta. Jos et tunne pelikonsolien historiaa, luku 3 antaa mielestäni kattavan, mutta tiiviin läpileikkauksen aiheeseen.
 
 Miten kotivideopelikonsolit kehittyivät teknologisesti niiden alkuajoista 2000-luvun alkuun saakka? Kotivideopelikonsolien teknologinen kehitys oli huimaa tänä ajanjaksona. Poislukien esihistorialliset videopelit ja laitteet, joilla ne pyörivät, kotivideopelikonsolit lähtivät liikkeelle puhtaasti analogisesta ja melko alkeellisesta vuonna 1972 julkaistusta Magnavox Odysseystä, jolle oli kovakoodattu tusinan verran pallo ja maila -teemaisia pelejä. Se ei myöskään esimerkiksi sisältänyt peliääniä tai värikuvaa. (Malliet & De Meyer 2005, 26.) Vuonna 1975 julkaistu Atari Home Pong -konsoli oli myöskin kovakoodattu, ja sisälsi vain yhden pelin, mutta se oli jo teknologisesti jonkin verran kehittyneempi verrattaessa Odyssey-konsoliin. Sen resoluutio oli parempi, sen peliohjaimet olivat reagoivammat, se näytti värigrafiikoita ja se pystyi näyttämään pelien pistetilanteet. (Herman 2008, 54–55.) Myös monet muut yhtiöt toivat markkinoille omat versionsa pallo ja maila -teemaisista peleistään ja konsoleistaan Magnavoxin ja Atarin vanavedessä, joista jokainen tarjosi jotain uutta: esimerkiksi digitaalisen konsolin, nelinpelin mahdollisuuden, värikuvan tai peliäänet (Malliet & De Meyer 2005, 26).
 
@@ -249,7 +241,7 @@ Microsoftilla uskottiin, että tietokonekomponenttien alhaisten hintojen takia M
 
 Nintendo onnistui kehittämään vuonna 2001 julkaistusta GameCubesta PlayStation 2:ta tehokkaamman, tai vähintään yhtä tehokkaan, konsolin halvemmilla kuluilla suunnittelun aikaisen aloituksen vuoksi. Nintendo myös teki konsolista erittäin ohjelmointiystävällisen, sillä se oli aikaisemmin historiassaan vieraannuttanut kolmannen osapuolen pelinkehittäjiä. Uuden konsolin pelit pyörivät mini-DVD-levyillä, ja tallenuskapasiteetti ei ollut enää ongelma, toisin kuin N64:n pelikaseteilla. Nintendo GameCuben muotoilu oli onnistunut: se oli kaunis, kevyt ja pienikokoinen laite. GameCuben mukana tullut peliohjain oli myös poikkeuksellisen mukava. (Stanton 2015, 223–225.)
 
-1970- ja 2000-lukujen välisenä aikana pelikonsolien suorittimet ja niiden bittikapasiteetit, näytönohjaimet, tallennuskapasiteetit ja tietokonesirut kehittyivät valtavasti. Näiden komponenttien ja ominaisuuksien kehitys mahdollisti sen, että 1970-luvun alkeellisista maila ja pallo -peleistä siirryttiin 1980-luvulle tultaessa monimutkaisempiin 2D-peleihin. 2D-pelit jatkoivat kehitystään grafiikoiden ja niiden monimutkaisuuden osilta kunnes 1990-luvun aikana 3D-grafiikat ottivat lopulta komennon. 3D-grafiikat taas jatkoivat kehittymistään 2000-luvulle saavuttaessa – pelikonsolit pystyivät toistamaan yhä enemmän ja enemmän polygoneja sekunnissa. Myös innovaatiot, kuten muun muassa pelikasetit ja myöhemmin pelilevyt, konsoleihin liitettävät oheislaitteet ja internetyhteyden sekä online-pelaamisen mahdollisuudet kuvaavat, että noin 30 vuodessa tehtiin valtavia loikkia teknologisesti pelikonsolien osalta.
+1970- ja 2000-lukujen välisenä aikana pelikonsolien suorittimet ja niiden bittikapasiteetit, näytönohjaimet, tallennuskapasiteetit ja tietokonesirut kehittyivät valtavasti. Näiden komponenttien ja ominaisuuksien kehitys mahdollisti sen, että 1970-luvun alkeellisista maila ja pallo -peleistä siirryttiin 1980-luvulle tultaessa monimutkaisempiin 2D-peleihin. 2D-pelit jatkoivat kehitystään niiden grafiikoiden ja monimutkaisuuden osilta kunnes 1990-luvun aikana 3D-grafiikat ottivat lopulta komennon. 3D-grafiikat taas jatkoivat kehittymistään 2000-luvulle saavuttaessa – pelikonsolit pystyivät toistamaan yhä enemmän ja enemmän polygoneja sekunnissa. Myös innovaatiot, kuten muun muassa pelikasetit ja myöhemmin pelilevyt, konsoleihin liitettävät oheislaitteet ja internetyhteyden sekä online-pelaamisen mahdollisuudet kuvaavat, että noin 30 vuodessa pelikonsoleissa tehtiin valtavia loikkia teknologisesti.
 
 
 ## 5 Pohdinta
@@ -259,10 +251,14 @@ Tämän luvun alaluvuissa käyn läpi tekemäni tutkimuksen tuloksista syntyneit
 
 ### 5.1 Johtopäätökset ja suositukset
 
-(
-- Aloita osuus kertaamalla tutkimuskysymykset. Käy sen jälkeen läpi olennaiset ja käyttökelpoisimmat tulokset ja pohdi niiden merkittävyyttä.​
+
+Käy sen jälkeen läpi olennaiset ja käyttökelpoisimmat tulokset ja pohdi niiden merkittävyyttä.​
 - Mitä johtopäätöksiä voi tulosten perusteella tehdä?​
-)
+
+
+Tutkimuskysymykseni olivat "Minkälainen on kotivideopelikonsolien historia yleisesti niiden alkuajoista 2000-luvun alkuun saakka?" ja "Miten kotivideopelikonsolit kehittyivät teknologisesti niiden alkuajoista 2000-luvun alkuun saakka?"
+
+Tutkimukseni tulokset antavat mielestäni kattavan kuvan pelikonsolien historiasta yleisellä tasolla, ja kuvaavat tärkeimmät pelikonsolit sekä peliyhtiöt määrittämälläni ajanjaksolla. Tuloksissa sivutaan myös pelikonsolien kulttuurisia vaikutuksia ja pelialan liiketoimintaa. Tulokseni tarjoavat mielestäni laajan tiivistelmän aiheesta monien lähteiden pohjalta ja vastaavat tutkimuskysymyksiini. Lukijalle tulee selväksi mitkä olivat merkittävimmät pelikonsolit ja miten pelikonsolit kehittyivät.
 
 En tiedä onko tuloksilleni varsinaisia sovelluskohteita. Tulokset ovat hyödyllisiä sen osalta, että ne antavat mielestäni kattavan tiivistelmän mielestäni merkittävimpien pelikonsolien historiasta ja kehityksestä 1950- ja 2000-lukujen välillä, ja säästävät lukijan tarpeelta kahlata monia eri kirjoja ja artikkeleita saadakseen samat tiedot.
 
