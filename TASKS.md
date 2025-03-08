@@ -14,3 +14,4 @@
 14. kopioi teksti ja pistä homma pakettiin Word-dokumenttiin
 15. tee tiivistelmä lopuksi
 16. https://www.pcmag.com/encyclopedia/term/analog
+17. poista kulttuurinen ja liiketaloudellinen näkökulma tuloksista ja tutkimuskysymyksistä, keskitytään vain historiaan yleisesti ja teknologiaan tarkemmin?
