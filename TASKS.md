@@ -1,6 +1,6 @@
 1. ~kirjoita tietoperusta loppuun~
 2. ~oikolue tähän asti kirjoitettu tutkimusosuus, korjaa löytyneet virheet~
-3. etsi vielä 1 lähde jo käsiteltyihin konsoleihin
+3. ~etsi vielä 1 lähde jo käsiteltyihin konsoleihin~
 4. tee järkevä kappalejaotus ettei liian pitkiä kappaleita
 5. lisää kuvia konsoleista (optional)
 6. ~lähteet ja lähdeviittaukset oikein~
