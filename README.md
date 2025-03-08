@@ -241,8 +241,6 @@ Microsoftilla uskottiin, että tietokonekomponenttien alhaisten hintojen takia M
 
 Nintendo onnistui kehittämään vuonna 2001 julkaistusta GameCubesta PlayStation 2:ta tehokkaamman, tai vähintään yhtä tehokkaan, konsolin halvemmilla kuluilla suunnittelun aikaisen aloituksen vuoksi. Nintendo myös teki konsolista erittäin ohjelmointiystävällisen, sillä se oli aikaisemmin historiassaan vieraannuttanut kolmannen osapuolen pelinkehittäjiä. Uuden konsolin pelit pyörivät mini-DVD-levyillä, ja tallenuskapasiteetti ei ollut enää ongelma, toisin kuin N64:n pelikaseteilla. Nintendo GameCuben muotoilu oli onnistunut: se oli kaunis, kevyt ja pienikokoinen laite. GameCuben mukana tullut peliohjain oli myös poikkeuksellisen mukava. (Stanton 2015, 223–225.)
 
-1970- ja 2000-lukujen välisenä aikana pelikonsolien suorittimet ja niiden bittikapasiteetit, näytönohjaimet, tallennuskapasiteetit ja tietokonesirut kehittyivät valtavasti. Näiden komponenttien ja ominaisuuksien kehitys mahdollisti sen, että 1970-luvun alkeellisista maila ja pallo -peleistä siirryttiin 1980-luvulle tultaessa monimutkaisempiin 2D-peleihin. 2D-pelit jatkoivat kehitystään niiden grafiikoiden ja monimutkaisuuden osilta kunnes 1990-luvun aikana 3D-grafiikat ottivat lopulta komennon. 3D-grafiikat taas jatkoivat kehittymistään 2000-luvulle saavuttaessa – pelikonsolit pystyivät toistamaan yhä enemmän ja enemmän polygoneja sekunnissa. Myös innovaatiot, kuten muun muassa pelikasetit ja myöhemmin pelilevyt, konsoleihin liitettävät oheislaitteet ja internetyhteyden sekä online-pelaamisen mahdollisuudet kuvaavat, että noin 30 vuodessa pelikonsoleissa tehtiin valtavia loikkia teknologisesti.
-
 
 ## 5 Pohdinta
 
@@ -251,22 +249,17 @@ Tämän luvun alaluvuissa käyn läpi tekemäni tutkimuksen tuloksista syntyneit
 
 ### 5.1 Johtopäätökset ja suositukset
 
-
-Käy sen jälkeen läpi olennaiset ja käyttökelpoisimmat tulokset ja pohdi niiden merkittävyyttä.​
-- Mitä johtopäätöksiä voi tulosten perusteella tehdä?​
-
-
 Tutkimuskysymykseni olivat "Minkälainen on kotivideopelikonsolien historia yleisesti niiden alkuajoista 2000-luvun alkuun saakka?" ja "Miten kotivideopelikonsolit kehittyivät teknologisesti niiden alkuajoista 2000-luvun alkuun saakka?"
 
 Ensimmäiseen tutkimuskysymykseeni tutkimukseni tulokset antavat mielestäni kattavan vastauksen, sillä ne kuvaavat pelikonsolien historiaa yleisellä tasolla ja kertovat tärkeimmistä pelikonsoleista sekä peliyhtiöistä määrittämälläni ajanjaksolla. Tuloksissa sivutaan myös pelikonsolien kulttuurisia vaikutuksia ja pelialan liiketoimintaa. Tulokseni tarjoavat mielestäni laajan tiivistelmän aiheesta monien lähteiden pohjalta. Lukijalle tulee selväksi mitkä olivat merkittävimmät pelikonsolit ja miten pelikonsolit kehittyivät.
 
-Toiseen tutkimuskysymykseeni
+Toiseen tutkimuskysymykseeni löysin mielestäni myös vastauksen. 1970- ja 2000-lukujen välisenä aikana pelikonsolien suorittimet ja niiden bittikapasiteetit, näytönohjaimet, tallennuskapasiteetit ja tietokonesirut kehittyivät valtavasti. Näiden komponenttien ja ominaisuuksien kehitys mahdollisti sen, että 1970-luvun alkeellisista maila ja pallo -peleistä siirryttiin 1980-luvulle tultaessa monimutkaisempiin 2D-peleihin. 2D-pelit jatkoivat kehitystään niiden grafiikoiden ja monimutkaisuuden osilta kunnes 1990-luvun aikana 3D-grafiikat ottivat lopulta komennon. 3D-grafiikat taas jatkoivat kehittymistään 2000-luvulle saavuttaessa – pelikonsolit pystyivät toistamaan yhä enemmän ja enemmän polygoneja sekunnissa. Myös innovaatiot, kuten muun muassa pelikasetit ja myöhemmin pelilevyt, konsoleihin liitettävät oheislaitteet ja internetyhteyden sekä online-pelaamisen mahdollisuudet kuvaavat, että noin 30 vuodessa pelikonsoleissa tehtiin valtavia loikkia teknologisesti.
 
 En tiedä onko tuloksilleni varsinaisia sovelluskohteita. Tulokseni ovat hyödyllisiä sen osalta, että ne säästävät lukijan tarpeelta kahlata monia eri kirjoja ja artikkeleita saadakseen samat olennaisimmat tiedot.
 
 Pidän tuloksia melko luotettavina, sillä tutkin samoja aihepiirejä kronologisesti monista eri lähteistä vertaillen niiden samankaltaisuuksia, eroja ja mahdollisia virheitä. En löytänyt tuloksistani eettisiä ongelmia. 
 
-Jatkotutkimusmahdollisuutena voisi olla esimerkiksi tehdä vielä laajempi ja kattavampi tutkimus aiheestani sisällyttäen myös 2010- ja 2020-lukujen kotivideopelikonsolit, sekä käyttäen useampia lähteitä samojen asioiden käsittelyyn. Toisena vaihtoehtona voisi olla keskittyminen aiheestani johonkin pienempään kokonaisuuteen syvemmin. Tutkimukseen voisi myös halutessa sisällyttää enemmän esimerkiksi käsikonsoleita, arcade-videopelejä ja pelitietokoneita.
+Jatkotutkimusmahdollisuutena voisi olla esimerkiksi tehdä vielä laajempi ja kattavampi tutkimus aiheestani sisällyttäen myös 2010- ja 2020-lukujen kotivideopelikonsolit, sekä käyttäen useampia lähteitä samojen asioiden käsittelyyn. Toisena vaihtoehtona voisi olla johonkin aiheestani löytyvään pienempään kokonaisuuteen keskittyminen syvemmin. Tutkimukseen voisi myös halutessa sisällyttää enemmän tietoa esimerkiksi käsikonsoleista, arcade-videopeleistä ja pelitietokoneista.
 
 
 ### 5.2 Oma oppiminen
