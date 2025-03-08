@@ -29,8 +29,8 @@ Amk-opinnäytetyöohje\
   4.3 Tulokset\
     4.3.1 Minkälainen on kotivideopelikonsolien historia niiden alkuajoista 2000-luvun alkuun saakka?\
     4.3.2 Miten kotivideopelikonsolit kehittyivät teknologisesti niiden alkuajoista 2000-luvun alkuun saakka?\
-    4.3.3 Minkälaisia kulttuurisia vaikutuksia pelikonsoleilla on ollut niiden alkuajoista 2000-luvun alkuun saakka?\
-    4.3.4 Miten pelialan liiketoiminta on kehittynyt sen alkuajoista 2000-luvun alkuun saakka?\
+    (4.3.3 Minkälaisia kulttuurisia vaikutuksia pelikonsoleilla on ollut niiden alkuajoista 2000-luvun alkuun saakka?)\
+    (4.3.4 Miten pelialan liiketoiminta on kehittynyt sen alkuajoista 2000-luvun alkuun saakka?)\
 5 Pohdinta\
   5.1 Johtopäätökset ja suositukset\
   5.2 Oma oppiminen\
@@ -259,12 +259,12 @@ Nintendo onnistui kehittämään vuonna 2001 julkaistusta GameCubesta PlayStatio
 1970- ja 2000-lukujen välisenä aikana pelikonsolien suorittimet ja niiden bittikapasiteetit, näytönohjaimet, tallennuskapasiteetit ja tietokonesirut kehittyivät valtavasti. Näiden komponenttien ja ominaisuuksien kehitys mahdollisti sen, että 1970-luvun alkeellisista maila ja pallo -peleistä siirryttiin 1980-luvulle tultaessa monimutkaisempiin 2D-peleihin. 2D-pelit jatkoivat kehitystään grafiikoiden ja niiden monimutkaisuuden osilta kunnes 1990-luvun aikana 3D-grafiikat ottivat lopulta komennon. 3D-grafiikat taas jatkoivat kehittymistään 2000-luvulle saavuttaessa - pelikonsolit pystyivät toistamaan yhä enemmän ja enemmän polygoneja sekunnissa. Myös innovaatiot, kuten muun muassa pelikasetit ja myöhemmin pelilevyt, konsoleihin liitettävät oheislaitteet ja internetyhteyden sekä online-pelaamisen mahdollisuudet kuvaavat, että noin 30 vuodessa tehtiin valtavia loikkia teknologisesti pelikonsolien osalta.
 
 
-#### 4.3.3 Minkälaisia kulttuurisia vaikutuksia pelikonsoleilla on ollut niiden alkuajoista 2000-luvun alkuun saakka?
+#### (4.3.3 Minkälaisia kulttuurisia vaikutuksia pelikonsoleilla on ollut niiden alkuajoista 2000-luvun alkuun saakka?)
 
 lorem ipsum
 
 
-#### 4.3.4 Miten pelialan liiketoiminta on kehittynyt sen alkuajoista 2000-luvun alkuun saakka?
+#### (4.3.4 Miten pelialan liiketoiminta on kehittynyt sen alkuajoista 2000-luvun alkuun saakka?)
 
 Ralph Baer keksi vuonna 1968 menetelmän, jolla pelejä voitaisiin tarjota ihmisten olohuoneisiin ja televisioihin kaapelin kautta, samalla periaattella kuin kaapelitelevisio toimi. Idea kuitenkin hyllytettiin muutamaksi vuodeksi kaapeliyhtiöiden vastahakoisuuden takia. Ralph Baerin suurin panos videopelien ja pelikonsolien kehityksessä oli hänen ideansa tuoda videopelit tarjolle kuluttajien kotien yksityisyyteen - häntä voidaan siis ajatella kotivideopelikonsolin isänä. (Malliet & De Meyer 2005, 24–25.) Nolan Bushnellin kehittämä Computer Space -peli oli ensimmäinen arcade- tai kolikkovideopeli, ja myös historian ensimmäinen kaupallistettu videopeli, jonka päätarkoituksena oli tuottaa rahaa (Malliet & De Meyer 2005, 25). The Video Game Explosion: A History from PONG to PlayStation and Beyond -kirjan mukaan videopeliteollisuus syntyi, kun Nolan Bushnell lisäsi kolikkopaikan Computer Space -arcade-peliinsä vuonna 1971, ja 1972 vuodesta alkaen Pong-videopeli löysi menestystä flipperipelien rinnalla pelihalleissa (Wolf 2008, 29). Computer Space ei ollut yleisömenestys, mutta kaksi vuotta myöhemmin Bushnell hioi konseptinsa täydellisyyteen Pong-kolikkovideopelillään, joka oli ensimmäinen todellinen yleisöhitti videopelien sektorilla ja toimi lähtölaukauksena nopeasti kasvavalle videopeliteollisuudelle. Videopelit olivat kolikkopelien myötä tuotu tieteellisen tutkimuksen piiristä suurelle yleisölle. (Malliet & De Meyer 2005, 25.)
 
