@@ -50,7 +50,9 @@ Käytin ChatGPT:tä opinnäytetyöni tukena, muun muassa aiheen rajauksen ideoin
 
 ### 1.1 Käsitteet
 
-Tässä alaluvussa avaan muutamia spesifejä käsitteitä, joita opinnäytetyöni sisältää, ja jotka on hyvä tuntea ennen varsinaisen tekstin lukemista. Käyn läpi myös opinnäytetyööni olennaisia käsitteitä luvussa 2
+Tässä alaluvussa avaan muutamia spesifejä käsitteitä, joita opinnäytetyöni sisältää, ja jotka on hyvä tuntea ennen varsinaisen tekstin lukemista. Käyn läpi myös opinnäytetyööni olennaisia käsitteitä luvussa 2.
+
+Analoginen    Analoginen tarkoittaa esitystä kohteesta, mikä muistuttaa alkuperäistä. Analogiset laitteet valvovat olosuhteita, kuten liikettä, lämpötilaa ja ääntä, ja muuntavat ne "analogisiksi" elektronisiksi tai mekaanisiksi kuvioiksi. Esimerkiksi analoginen kello edustaa maapallon pyörimistä pyörivillä viisareillaan kellotaulussa. Analogiset puhelimet taas muuttavat äänen värähtelyt samanmuotoisiksi elektronisiksi värähtelyiksi. Analoginen tarkoittaa jatkuvaa signaalia toisin kuin digitaalinen, joka hajottaa kaikki numeroiksi. Analogiset videokamerat skannaavat katselualuettaan rivi kerrallaan ja muuntavat äärettömästi vaihtelevien punaisen, vihreän ja sinisen (RGB) valon voimakkuudet analogisiksi sähköisiksi signaaleiksi. (PCMag s.a.)
 
 Arcade-peli    Arcade-peli tai kolikkopeli tarkoittaa tyypillisesti kolikoilla toimivaa peliä, joka on suunniteltu pelattavaksi pelihalleissa (Merriam-Webster 2025).
 
@@ -61,7 +63,7 @@ Flipperi    Flipperi (englanniksi pinball machine) tarkoittaa varhaisinta sähk�
 Oskilloskooppi    Oskilloskoopit ovat yksi tärkeimmistä työkaluista sähköisten signaalien analysoinnissa. Ensisijainen tieto, jota signaalien aaltomuodosta voidaan saada niiden avulla on amplitudin eli värähdyslaajuuden vaihtelun visualisointi ajan kuluessa. (Miguel Dias Pereira 2006.)
 
 
-## 2 Videopelit ja pelikonsolit (tietoperusta?)
+## 2 Videopelit ja pelikonsolit
 
 Mitä tarkoitetaan videopeleillä ja pelikonsoleilla? PCMagin (PC Magazine) mukaan videopeli tarkoittaa interaktiivista ohjelmistoa, jota käytetään viihteeseen, roolipelaamiseen ja simulointiin. Videopelejä pelataan esimerkiksi Windows-tietokoneilla, kännyköillä tai erikoistuneilla pelikonsoleilla, kuten Microsoftin Xboxilla tai Sonyn PlayStationilla. Jatkuvasti kasvavien prosessorien ja näytönohjainten nopeuksien ansioista videopeleistä on tullut äärimmäisen realistisia niiden animaatioiden, sekä myös niissä käsiteltävien teemojen osalta. (PCMag s.a.). Toisen lähteen mukaan videopeli on kattotermi, joka tarkoittaa kaikkia viihdesovelluksia, joita käytetään erilaisten pelikonsolien tai laitteiden kautta (Cheng, Cheung & Wang 2018).
 
@@ -84,7 +86,7 @@ Miten 2D- ja 3D-grafiikat määritellään tarkemmin? 2D-grafiikat tarkoittavat 
 Nyt kun videopelien ja pelikonsolien keskeisiä käsitteitä on avattu, voimme uppoutua seuraavassa luvussa syvemmin pelikonsolien historiaan sivuten myös niiden kulttuurisia vaikutuksia ja niihin liittyvän liiketoiminnan muutoksia, ja erityisesti niiden teknologisiin kehitysaskeliin. Samalla tutkimme minkälaista tutkimustietoa aiheesta löytyy.
 
 
-## 3 Pelikonsolien historia ja kehitys (tutkimus?)
+## 3 Pelikonsolien historia ja kehitys
 
 Tämän luvun alaluvuissa käyn läpi pelikonsolien historiaa ja kehitystä niiden alkuajoista 1900-luvun puolivälistä 2000-luvun alkuun saakka.
 
@@ -317,6 +319,8 @@ PCMag s.a. 2D graphics. Luettavissa: https://www.pcmag.com/encyclopedia/term/2d-
 PCMag s.a. 3D graphics. Luettavissa: https://www.pcmag.com/encyclopedia/term/3d-graphics. Luettu: 27.2.2025.
 
 PCMag s.a. 64-bit computing. Luettavissa: https://www.pcmag.com/encyclopedia/term/64-bit-computing. Luettu: 27.2.2025.
+
+PCMag s.a. analog. Luettavissa: https://www.pcmag.com/encyclopedia/term/analog. Luettu: 8.3.2025.
 
 PCMag s.a. bit. Luettavissa: https://www.pcmag.com/encyclopedia/term/bit. Luettu: 27.2.2025.
 
