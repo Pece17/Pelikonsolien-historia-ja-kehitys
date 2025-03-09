@@ -39,9 +39,9 @@ yleistettävissä olevia tuloksia. Preesensiä käytetään myös silloin, kun k
 töä.
 
 Tiivistelmä on enintään yhden sivun pituinen. Siinä tulee olla vähintään kolme tekstikappaletta,
-jotka erotetaan toisistaan yhdellä tyhjällä rivillä. Tiivistelmä ei saa sisältää lähdeviitteitä.
+jotka erotetaan toisistaan yhdellä tyhjällä rivillä. Tiivistelmä ei saa sisältää lähdeviitteitä.\
 \
-Pelikonsolit, Videopelit, Videopeliala\
+Pelikonsolit, Videopelit, Videopeliala
 
 
 ## Sisällys ✅
