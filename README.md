@@ -241,9 +241,9 @@ Zachary Hortonin A “Total Play and Learning Experience”: The Magnavox Odysse
 Angel De La Cruzin ja John Ryanin Tennis for Two -loppuprojektista Massachusetts Institute of Technology -korkeakoulussa sain täydennystä Willy Higinbothamin Tennis for Two -videopelin kuvaukseen.
 
 
-### 4.3 Tulokset
+### 4.3 Tulokset ✅
 
-sfdsf
+Tämän alaluvun alaluvuissa käyn läpi tutkimuskysymyksiini löytämiäni tuloksia.
 
 
 #### 4.3.1 Kotivideopelikonsolien historia yleisesti niiden alkuajoista 2000-luvun alkuun saakka
