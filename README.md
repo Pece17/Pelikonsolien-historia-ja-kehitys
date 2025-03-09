@@ -4,7 +4,7 @@ Pekka Hämäläinen
 
 
 Haaga-Helia ammattikorkeakoulu\
-Tradenomin tutkinto\
+Tietojenkäsittelyn tradenomi\
 Amk-opinnäytetyö\
 2025
 
