@@ -86,7 +86,7 @@ Miten 2D- ja 3D-grafiikat määritellään tarkemmin? 2D-grafiikat tarkoittavat 
 Nyt kun videopelien ja pelikonsolien keskeisiä käsitteitä on avattu, voimme uppoutua seuraavassa luvussa syvemmin kotivideopelikonsolien historiaan sivuten myös niiden kulttuurisia vaikutuksia ja niihin liittyvän liiketoiminnan muutoksia. Erityisesti keskitymme kuitenkin niiden teknologisiin kehitysaskeliin. Samalla näemme minkälaista tutkimustietoa aiheesta löytyy.
 
 
-## 3 Pelikonsolien historia ja kehitys
+## 3 Pelikonsolien historia ja kehitys ✅
 
 Tämän luvun alaluvuissa käyn läpi pelikonsolien historiaa ja kehitystä niiden alkuajoista 1900-luvun puolivälistä 2000-luvun alkuun saakka.
 
