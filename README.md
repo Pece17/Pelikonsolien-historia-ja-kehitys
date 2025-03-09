@@ -1,4 +1,4 @@
-# Pelikonsolien historia ja kehitys 1900-luvun puolivälistä 2000-luvun alkuun
+# Pelikonsolien historia ja kehitys 1900-luvun puolivälistä 2000-luvun alkuun ✅
 
 Pekka Hämäläinen
 
@@ -12,7 +12,7 @@ Amk-opinnäytetyö\
 ## Tiivistelmä
 
 
-## Sisällys
+## Sisällys ✅
 
 1 Johdanto\
   1.1 Käsitteet     
@@ -25,7 +25,7 @@ Amk-opinnäytetyö\
   3.5 2000-luku\
 4 Tutkimuksen toteutus\
   4.1 Kuvaileva kirjallisuuskatsaus​\
-  4.2 Menetelmän käyttö ja tutkimuksen aineisto\
+  4.2 Kuvailevan kirjallisuuskatsauksen käyttö ja tutkimuksen aineisto\
   4.3 Tulokset\
 5 Pohdinta\
   5.1 Johtopäätökset ja suositukset\
