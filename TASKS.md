@@ -2,7 +2,7 @@
 1. oikolue koko teksti kokonaisuutena ja tee tarvittaessa muutoksia (esim. kappalejaotus) sekä korjaa virheet, tekstin olisi hyvä toimia kokonaisuutena
 2. tarkista, että lähteet ja lähdeviittaukset (sivunumerot tuloksissa) ovat oikein, myös pisteiden paikat
 3. kopioi teksti uuteen Word-dokumenttiin VDI:n kautta
-4. tee aivan lopuksi tiivistelmä (kopioi se myös githubiin)
+4. tee tiivistelmä (kopioi se myös githubiin)
 5. korjaa lopuksi Wordin mahdollisesti herjaamat virheet
 6. lisää kuvia konsoleista (optional)
 7. ~kirjoita tietoperusta loppuun~
