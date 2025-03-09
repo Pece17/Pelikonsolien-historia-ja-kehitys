@@ -186,7 +186,7 @@ Kuvailevan kirjallisuuskatsauksen tarkoituksena on ymmärtää ilmiö kyseenalai
 Kuvailevan kirjallisuuskatsauksen subjektiivisen prosessin: syventävän lukemisen, luetun ymmärtämisen ja tulkinnan myötä ajatellaan, että tutkimuskysymykset voivat myös hioutua. Tiedonhaun subjektiivisuutta on kritisoitu, mutta myös kiitelty, koska se sallii erityiskysymyksiin suuntautumisen, ja niiden aineistölähtöisen tarkastelun osittain päällekkäin etenevien vaiheiden kautta. (Vilkka 2023, luku 1.2.1.)
 
 
-### 4.2 Kuvailevan kirjallisuuskatsauksen käyttö ja tutkimuksen aineisto
+### 4.2 Kuvailevan kirjallisuuskatsauksen käyttö ja tutkimuksen aineisto ✅
 
 Käytin opinnäytetyön sisällön ideointiin ja rajaukseen hyödyksi ChatGPT:tä. Käytin kehoitetta: "Teen opinnäytetyötä aiheesta "Pelikonsolien historia ja kehitys", ja ajattelin käydä läpi 1970-2020 -luvut yksitellen – tarkoituksenani on kertoa miten konsolit ja niiden teknologia kehittyivät jokaisella vuosikymmenellä. Tarvitsen apua aiheen ja sisällön ideointiin ja rajaukseen. Keskityn opinnäytetyössäni teknologiseen näkökulmaan." Kysyin ChatGPT:ltä myös listan jokaisen edellämainitun vuosikymmenen kulttuurisesti merkittävimmistä kotivideopelikonsoleista, mikä enimmäkseen oli hyödyllistä, mutta nosti myös esiin ChatGPT:n ja muiden tekoälyjen vajavaisuuksia. ChatGPT ehdotti muun muassa yhdeksi 1990-luvun konsoliksi erään vuonna 1988 julkaistun konsolin, sekä jätti 2000-luvulta merkittävimpiä konsoleita, kuten Sony PlayStation 3 - ja Microsoft Xbox 360 -konsolit, pois, ja sen sijaan ehdotti suurelle yleisölle vähemmän tunnettuja tai merkittäviä konsoleita, kuten PlayStation Portablea. Yritin myös kysyä ChatGPT:ltä apua lähteiden oikeaoppiseen kirjaamiseen, mutta tässäkin suhteessa tunsin etten voi luottaa siihen onko tekoäly oikeassa. ChatGPT:lle ominainen ja huvittavakin piirre on väittää itsevarmasti jotain asiaa faktaksi, mutta kun käyttäjä huomauttaa virheestä, niin ChatGPT pahoittelee ja ehdottaa uutta ratkaisua. ChatGPT ja muut tekoälyt sopivat mielestäni parhaiten ideointiin, mutta faktojen tarkistukseen tarvitaan ainakin vielä toistaiseksi ihmisten panosta. Käytin ChatGPT:tä myös muutamaan otteeseen antamaan ehdotuksia joidenkin englanninkielisten termien kääntämiseen suomeksi, sekä linkkaamaan haluamaani aiheeseen liittyviä akateemisia papereita, mikä osoittautui paikoittain hyödylliseksi metodiksi.
 
@@ -244,7 +244,7 @@ Microsoftilla uskottiin, että tietokonekomponenttien alhaisten hintojen takia M
 Nintendo onnistui kehittämään vuonna 2001 julkaistusta GameCubesta PlayStation 2:ta tehokkaamman, tai vähintään yhtä tehokkaan, konsolin halvemmilla kuluilla suunnittelun aikaisen aloituksen vuoksi. Nintendo myös teki konsolista erittäin ohjelmointiystävällisen, sillä se oli aikaisemmin historiassaan vieraannuttanut kolmannen osapuolen pelinkehittäjiä. Uuden konsolin pelit pyörivät mini-DVD-levyillä, ja tallenuskapasiteetti ei ollut enää ongelma, toisin kuin N64:n pelikaseteilla. Nintendo GameCuben muotoilu oli onnistunut: se oli kaunis, kevyt ja pienikokoinen laite. GameCuben mukana tullut peliohjain oli myös poikkeuksellisen mukava. (Stanton 2015, 223–225.)
 
 
-## 5 Pohdinta
+## 5 Pohdinta ✅
 
 Tämän luvun alaluvuissa käyn läpi tekemäni tutkimuksen tuloksista syntyneitä johtopäätöksiä sekä arvioin omaa oppimistani koko opinnäytetyöprojektin osalta.
 
