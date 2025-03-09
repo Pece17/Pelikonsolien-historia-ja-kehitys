@@ -48,9 +48,9 @@ Tutkimuskysymykseni olivat seuraavat: "Minkälainen on kotivideopelikonsolien hi
 Käytin ChatGPT:tä jonkin verran opinnäytetyöni tukena, muun muassa aiheen rajauksen ideoinnissa.
 
 
-### 1.1 Käsitteet
+### 1.1 Käsitteet ✅
 
-Tässä alaluvussa avaan muutamia spesifejä käsitteitä, joita opinnäytetyöni sisältää ja jotka on hyvä tuntea ennen varsinaisen tekstin lukemista. Käyn läpi opinnäytetyöni kannalta olennaisia käsitteitä myös luvussa 2.
+Tässä alaluvussa avaan muutamia spesifejä käsitteitä, joita opinnäytetyöni sisältää, ja jotka on hyvä tuntea ennen varsinaisen tekstin lukemista. Käyn läpi opinnäytetyöni kannalta olennaisia käsitteitä myös Videopelit ja pelikonsolit -luvussa.
 
 Analoginen    Analoginen tarkoittaa kohteen esitystä tavalla, joka muistuttaa alkuperäistä kohdetta. Analogiset laitteet valvovat olosuhteita, kuten liikettä, lämpötilaa ja ääntä, ja muuntavat ne "analogisiksi" sähköisiksi tai mekaanisiksi kuvioiksi. Esimerkiksi analoginen kello edustaa maapallon pyörimistä pyörivillä viisareillaan kellotaulussa. Analogiset puhelimet taas muuttavat äänen värähtelyt samanmuotoisiksi elektronisiksi värähtelyiksi. Analoginen tarkoittaa jatkuvaa signaalia toisin kuin digitaalinen, joka hajottaa kaikki numeroiksi. Analogiset videokamerat skannaavat katselualuettaan rivi kerrallaan ja muuntavat äärettömästi vaihtelevien punaisen, vihreän ja sinisen (RGB) valon voimakkuudet analogisiksi sähköisiksi signaaleiksi. (PCMag s.a.)
 
