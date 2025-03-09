@@ -33,11 +33,11 @@ Amk-opinnäytetyö\
 Lähteet
 
 
-## 1 Johdanto
+## 1 Johdanto ✅
 
 Suurin osa meistä on joskus kokeillut pelata videopelejä enemmän tai vähemmän, mutta oletko koskaan miettinyt mistä kaikki lähti liikkeelle? Miten päädyimme tilanteeseen, jossa PlayStationit sekä muut videopelikonsolit ovat arkipäiväisiä esineitä monessa kotitaloudessa?
 
-Tämän opinnäytetyön tavoitteena on tarkastella kotikäyttöön tarkoitettujen videopelikonsolien historiaa ja kehitystä 1900-luvun puolivälistä 2000-luvun alkuun. Tarkastelen pelikonsolien historiaa yleisesti sivuten liiketoiminnan ja kulttuurin näkökulmia, mutta erityisesti keskityn pelikonsolien teknologiseen kehitykseen. Kerron työssäni näiden vuosikymmenten teknologisesti ja kulttuurisesti olennaisimmista ja merkittävimmistä pelikonsoleista. Olen rajannut opinnäytetyöni aiheen kotivideopelikonsoleihin, eli käsittelen esimerkiksi käsikonsoleita, julkisia arcade-videopelejä tai pelitietokoneita vain pintapuolisesti.
+Tämän opinnäytetyön tavoitteena on tarkastella kotikäyttöön tarkoitettujen videopelikonsolien historiaa ja kehitystä 1900-luvun puolivälistä 2000-luvun alkuun. Tarkastelen pelikonsolien historiaa yleisesti sivuten myös liiketoiminnan ja kulttuurin näkökulmia, mutta erityisesti keskityn pelikonsolien teknologiseen kehitykseen. Kerron työssäni näiden vuosikymmenten teknologisesti ja kulttuurisesti olennaisimmista ja merkittävimmistä pelikonsoleista, sekä niitä valmistaneista peliyhtiöistä. Olen rajannut opinnäytetyöni aiheen kotivideopelikonsoleihin, eli käsittelen esimerkiksi käsikonsoleita, julkisia arcade-videopelejä tai pelitietokoneita vain pintapuolisesti.
 
 Valitsin tämän aiheen, koska olen harrastanut videopelaamista erityisesti konsoleilla lapsesta saakka ensimmäisestä PlayStationista lähtien, ja olin kiinnostunut oppimaan enemmän historiallisista pelikonsoleista sekä niiden teknologisista kehitysaskeleista. Ennen tätä opinnäytetyötä en juurikaan tiennyt pelikonsolien historiasta 2000-luvusta taaksepäin.
 
@@ -45,7 +45,7 @@ Tutkimusmenetelmä opinnäytetyössä oli kuvaileva kirjallisuuskatsaus käyttä
 
 Tutkimuskysymykseni olivat seuraavat: "Minkälainen on kotivideopelikonsolien historia yleisesti niiden alkuajoista 2000-luvun alkuun saakka?" sekä "Miten kotivideopelikonsolit kehittyivät teknologisesti niiden alkuajoista 2000-luvun alkuun saakka?"
 
-Käytin ChatGPT:tä opinnäytetyöni tukena, muun muassa aiheen rajauksen ideoinnissa.
+Käytin ChatGPT:tä jonkin verran opinnäytetyöni tukena, muun muassa aiheen rajauksen ideoinnissa.
 
 
 ### 1.1 Käsitteet
