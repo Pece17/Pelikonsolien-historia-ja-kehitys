@@ -11,6 +11,16 @@ Amk-opinnäytetyö\
 
 ## Tiivistelmä
 
+Pekka Hämäläinen\
+\
+Tradenomi\
+\
+Pelikonsolien historia ja kehitys 1900-luvun puolivälistä 2000-luvun alkuun\
+\
+? + 0
+\
+
+
 
 ## Sisällys ✅
 
