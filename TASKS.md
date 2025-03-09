@@ -1,6 +1,6 @@
 
 1. oikolue koko teksti kokonaisuutena ja tee tarvittaessa muutoksia (esim. kappalejaotus) sekä korjaa virheet, tekstin olisi hyvä toimia kokonaisuutena
-2. tarkista, että lähteet ja lähteviittaukset (sivunumerot tuloksissa) ovat oikein
+2. tarkista, että lähteet ja lähdeviittaukset (sivunumerot tuloksissa) ovat oikein
 3. kopioi teksti uuteen Word-dokumenttiin VDI:n kautta
 4. tee aivan lopuksi tiivistelmä (kopioi se myös githubiin)
 5. lisää kuvia konsoleista (optional)
