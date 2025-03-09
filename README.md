@@ -4,8 +4,8 @@ Pekka Hämäläinen
 
 
 Haaga-Helia ammattikorkeakoulu\
-Tradenomi (tietojenkäsittely)\
-Amk-opinnäytetyöohje\
+Tradenomin tutkinto\
+Amk-opinnäytetyö\
 2025
 
 
