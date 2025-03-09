@@ -255,7 +255,7 @@ Ensimmäiseen tutkimuskysymykseeni tutkimukseni tulokset antavat mielestäni kat
 
 Toiseen tutkimuskysymykseeni löysin mielestäni myös vastauksen. 1970- ja 2000-lukujen välisenä aikana pelikonsolien suorittimet ja niiden bittikapasiteetit, näytönohjaimet, tallennuskapasiteetit ja tietokonesirut kehittyivät valtavasti. Näiden komponenttien ja ominaisuuksien kehitys mahdollisti sen, että 1970-luvun alkeellisista maila ja pallo -peleistä siirryttiin 1980-luvulle tultaessa monimutkaisempiin 2D-peleihin. 2D-pelit jatkoivat kehitystään niiden grafiikoiden ja monimutkaisuuden osilta kunnes 1990-luvun aikana 3D-grafiikat ottivat lopulta komennon. 3D-grafiikat taas jatkoivat kehittymistään 2000-luvulle saavuttaessa – pelikonsolit pystyivät toistamaan yhä enemmän ja enemmän polygoneja sekunnissa. Myös innovaatiot, kuten muun muassa pelikasetit ja myöhemmin pelilevyt, konsoleihin liitettävät oheislaitteet ja internetyhteyden sekä online-pelaamisen mahdollisuudet kuvaavat, että noin 30 vuodessa pelikonsoleissa tehtiin valtavia loikkia teknologisesti.
 
-En tiedä onko tuloksilleni varsinaisia sovelluskohteita. Tulokseni ovat hyödyllisiä sen osalta, että ne säästävät lukijan tarpeelta kahlata läpi monia eri kirjoja ja artikkeleita saadakseen samat mielestäni olennaisimmat tiedot.
+En tiedä onko tuloksilleni varsinaisia sovelluskohteita. Tulokseni ovat hyödyllisiä sen osalta, että ne säästävät lukijan halutessaan tarpeelta kahlata läpi monia eri kirjoja ja artikkeleita saadakseen samat mielestäni olennaisimmat tiedot.
 
 Pidän tuloksia melko luotettavina, sillä tutkin samoja aihepiirejä kronologisesti monista eri lähteistä vertaillen niiden samankaltaisuuksia, eroja ja mahdollisia virheitä. En löytänyt tuloksistani eettisiä ongelmia. 
 
