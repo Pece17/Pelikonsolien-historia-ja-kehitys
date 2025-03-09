@@ -243,7 +243,7 @@ Angel De La Cruzin ja John Ryanin Tennis for Two -loppuprojektista Massachusetts
 
 ### 4.3 Tulokset ✅
 
-Tämän alaluvun alaluvuissa käyn läpi tutkimuskysymyksiini löytämiäni tuloksia.
+Tämän alaluvun alaluvuissa käyn läpi tutkimuskysymyksiini löytämiäni vastauksia.
 
 
 #### 4.3.1 Kotivideopelikonsolien historia yleisesti niiden alkuajoista 2000-luvun alkuun saakka
