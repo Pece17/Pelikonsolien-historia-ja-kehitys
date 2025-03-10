@@ -325,7 +325,7 @@ Projektinhallintani kokanaisuutena onnistui melko hyvin alun ruosteisuudesta huo
 Lopuksi, opin luonnollisesti myös paljon opinnäytetyöni aiheesta, eli pelikonsolien historiasta ja kehityksestä.
 
 
-## Lähteet
+## Lähteet ✅
 
 Adobe s.a. What is a polygon in 3D modelling?. Luettavissa: https://www.adobe.com/uk/products/substance3d/discover/3d-polygon-modeling.html. Luettu: 27.2.2025.
 
