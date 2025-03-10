@@ -25,7 +25,7 @@ Opinnäytetyön tietoperustassa avataan videopelien ja pelikonsolien kannalta ol
 
 Tutkimusosuuden jälkeen opinnäytetyössä määritellään tutkimusmenetelmä, joka oli tässä tapauksessa kuvaileva kirjallisuuskatsaus, kuvataan tutkimuksen toteutusta ja aineistoa sekä tuodaan esille tutkimuskysymyksiin syntyneet tulokset. Lopuksi opinnäytetyössä tehdään johtopäätökset, arvioidaan jatkotutkimusmahdollisuuksia sekä pohditaan omaa oppimista opinnäytetyön projektinhallinnan näkökulmasta.
 
-Pelikonsolien historia ja kehitys 1900-luvun puolivälistä 2000-luvun alkuun saakka oli erittäin vaiheikasta. Tutkimuksen tulokset kuvaavat, että pelikonsolien teknologioissa tehtiin huimia kehityksiä komponenttien ja innovaatioiden osilta vuonna 1972 julkaistusta historian ensimmäisestä kotivideopelikonsolista eteenpäin 2000-luvun alkuun saakka. Monet eri pelikonsolit, videopelit ja peliyhtiöt olivat merkityksellisiä sekä kulttuurillisesti että videopelialan liiketoiminnan kannalta tämän noin 30 vuoden ajanjakson aikana.\
+Pelikonsolien historia ja kehitys 1900-luvun puolivälistä 2000-luvun alkuun saakka oli erittäin vaiheikasta. Tutkimuksen tulokset kuvaavat, että pelikonsolien teknologioissa tehtiin huimia kehityksiä komponenttien ja innovaatioiden osilta vuonna 1972 julkaistusta historian ensimmäisestä kotivideopelikonsolista eteenpäin 2000-luvun alkuun saakka. Monet eri pelikonsolit, videopelit, henkilöt ja peliyhtiöt olivat merkityksellisiä sekä kulttuurillisesti että videopelialan liiketoiminnan kannalta tämän noin 30 vuoden ajanjakson aikana.\
 \
 Pelikonsolit, Videopelit, Videopeliala
 
