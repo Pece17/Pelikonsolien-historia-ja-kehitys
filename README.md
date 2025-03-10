@@ -171,6 +171,8 @@ Donkey Kong -pelin ja Nintendo Game & Watch -käsikonsolin suosio sai Nintendon 
 
 Atarista, Mattelista ja Colecosta, jotka olivat olleet isoimmat tekijät vuosikymmenen alussa, vain Atari pysyi Japanilaisten kannoilla, vaikka sekin oli vain varjo itsestään verrattuna 1970-lukuun. 1986 julkaistu Atari 7800 oli teknisesti Nintendo NES:n veroinen konsoli, mutta Atarin pelivalikoima kalpeni täysin Nintendon laadukkaiden pelien rinnalla. Nintendon suurimmaksi kilpailijaksi osoittautui myöskin Japanilainen peliyhtiö Sega, joka toi Sega Master System -konsolinsa Yhdysvaltojen markkinoille vuonna 1986. Se oli 8-bittinen systeemi, joka oli teknisesti hieman NES:iä parempi, mutta koska parhaat pelien kehittäjät olivat tehneet yksinoikeussopimuksen Nintendon kanssa, Sega joutui tyytymään omien arcade-videopeliensä muuntamiseen konsolille, ja toiseen sijaan. (Malliet & De Meyer 2005, 35–36.) Master System nautti kylläkin huomattavaa menestystä Euroopassa, jossa Nintendon ylivalta ei ollut niin korostunutta, mutta siitä ei ikinä ollut todella vaivaamaan Nintendon maailmanlaajuista liiketoimintaa. Master System -konsolia myytin kaiken kaikkiaan 13 miljoonaa yksikköä maailmanlaajuisesti verrattuna 62 miljoonaan myytyyn NES-konsoliin. Sega oli kuitenkin saanut jalkansa väliin, ja seuraava erä ei olisi yhtä yksipuolinen. (Stanton 2015, 128–129.)
 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sega-Master-System-Set.jpg/1920px-Sega-Master-System-Set.jpg)
+
 
 ### 3.4 1990-luku ✅
 
