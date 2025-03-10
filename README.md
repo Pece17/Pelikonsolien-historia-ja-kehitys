@@ -353,6 +353,8 @@ Jyväskylän yliopisto s.a. Laadullinen tutkimus. Luettavissa: https://sites.app
 
 Lotze, N. 2023. From Silicon to Donkey Kong: A Case Study in the Use of Semiconductors in Video Game Consoles. United States International Trade Commission. Washington, D.C. Luettavissa: https://www.usitc.gov/publications/332/working_papers/final_from_silicon_to_donkey_kong_a_case_study_in_the_use_of_semiconductors_in_video_game_consoles_compiled_508-compliant.pdf. Luettu: 27.2.2025.
 
+Malliet, S. & De Meyer, G. 2005. The History of the Video Game. Teoksessa Raessens, J. & Goldstein, J. (toim.). Handbook of Computer Game Studies, s. 23–45. MIT Press. Cambridge, MA.
+
 Merriam-Webster 2025. arcade game. Luettavissa: https://www.merriam-webster.com/dictionary/arcade%20game. Luettu: 27.2.2025.
 
 Miguel Dias Pereira, J. 2006. The history and technology of oscilloscopes. Luettavissa: https://ieeexplore.ieee.org/abstract/document/4017100/authors#authors. Luettu: 27.2.2025.
@@ -374,8 +376,6 @@ PCMag s.a. resolution. Luettavissa: https://www.pcmag.com/encyclopedia/term/reso
 PCMag s.a. video game. Luettavissa: https://www.pcmag.com/encyclopedia/term/video-game. Luettu: 4.3.2025.
 
 PCMag s.a. video game console. Luettavissa: https://www.pcmag.com/encyclopedia/term/video-game-console. Luettu: 27.2.2025.
-
-Malliet, S. & De Meyer, G. 2005. The History of the Video Game. Teoksessa Raessens, J. & Goldstein, J. (toim.). Handbook of Computer Game Studies, s. 23–45. MIT Press. Cambridge, MA.
 
 Sarrion, E. 2023. What Is ChatGPT ?. Luettavissa: https://link.springer.com/chapter/10.1007/978-1-4842-9529-8_1. Luettu: 27.2.2025.
 
