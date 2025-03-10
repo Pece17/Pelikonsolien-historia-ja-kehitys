@@ -19,27 +19,12 @@ Pelikonsolien historia ja kehitys 1900-luvun puolivälistä 2000-luvun alkuun\
 \
 ? + 0\
 \
-(Tiivistelmä edellytetään pääsääntöisesti vain opinnäytetöissä.
-
-Tiivistelmässä esitetään työn keskeiset kohdat siten, että lukija ymmärtää tiivistelmän luettuaan
-raportin sisältämät pääasiat. Tiivistelmässä esitetään selvitettävän asian tausta, työn tavoite ja
-rajaus, keskeinen tietoperusta, työn toteutustapa, ajankohta, käytetyt menetelmät sekä tulokset
-ja päätelmät.
-
-Tiivistelmä etenee raportin mukaisessa järjestyksessä. Se on kuin raportti pienoiskoossa. Tiivis-
-telmän pitää olla itsenäinen kokonaisuus, joka on ymmärrettävissä raporttia lukematta.
-
-Tiivistelmä kirjoitetaan asiatyylillä, tiiviisti ja ymmärrettävästi. Siinä käytetään kokonaisia lauseita
-ja virkkeitä. Se kirjoitetaan passiivissa ja kolmannessa persoonassa (tekijä/tekijät) eikä ensim-
-mäisessä persoonassa (minä, me).
-
-Tiivistelmässä käytetään imperfektiä, kun viitataan aiemmin julkaistuihin tutkimuksiin, oman tut-
-kimuksen kulkuun tai omiin ja muiden tuloksiin. Aikamuoto on preesens, jos raportissa esitellään
-yleistettävissä olevia tuloksia. Preesensiä käytetään myös silloin, kun kuvataan tuotoksen käyt-
-töä.
-
-Tiivistelmä on enintään yhden sivun pituinen. Siinä tulee olla vähintään kolme tekstikappaletta,
-jotka erotetaan toisistaan yhdellä tyhjällä rivillä. Tiivistelmä ei saa sisältää lähdeviitteitä.)\
+(
+- Tiivistelmässä esitetään työn keskeiset kohdat siten, että lukija ymmärtää tiivistelmän luettuaan raportin sisältämät pääasiat. Tiivistelmässä esitetään selvitettävän asian tausta, työn tavoite ja rajaus, keskeinen tietoperusta, työn toteutustapa, ajankohta, käytetyt menetelmät sekä tulokset ja päätelmät.​
+- Tiivistelmä etenee raportin mukaisessa järjestyksessä. Se on kuin raportti pienoiskoossa. Tiivistelmän pitää olla itsenäinen kokonaisuus, joka on ymmärrettävissä raporttia lukematta.​
+- Tiivistelmä kirjoitetaan asiatyylillä, tiiviisti ja ymmärrettävästi. Siinä käytetään kokonaisia lauseita ja virkkeitä. Se kirjoitetaan passiivissa ja kolmannessa persoonassa (tekijä/tekijät) eikä ensimmäisessä persoonassa (minä, me).​
+- Tiivistelmässä käytetään imperfektiä, kun viitataan aiemmin julkaistuihin tutkimuksiin, oman tutkimuksen kulkuun tai omiin ja muiden tuloksiin. Perfektiä (esim. on käyttänyt/ollut/havainnut) käytetään tutkimustulosten ja päätelmien esittämiseen. Aikamuoto on preesens, jos raportissa esitellään yleistettävissä olevia tuloksia. Preesensiä käytetään myös silloin, kun kuvataan tuotoksen käyttöä.​
+- Tiivistelmä on enintään yhden sivun pituinen. Siinä tulee olla vähintään kolme tekstikappaletta, jotka erotetaan toisistaan yhdellä tyhjällä rivillä. Tiivistelmä ei saa sisältää lähdeviitteitä.​)\
 \
 Pelikonsolien historia ja kehitys 1900-luvun puolivälistä 2000-luvun alkuun on ollut vaiheikasta. Pelikonsolien teknologioissa on tehty huimia kehityksiä vuonna 1972 julkaistusta historian ensimmäisestä kotivideopelikonsolista eteenpäin 2000-luvun alkuun saakka. Monet eri pelikonsolit ja peliyhtiöt olivat merkityksellisiä tämän noin 30 vuoden ajanjakson aikana sekä kulttuurillisesti että videopelialan liiketoiminnan kannalta.
 
