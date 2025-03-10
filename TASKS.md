@@ -2,10 +2,11 @@
 2. kirjoita tiivistelmä ja oikolue se
 3. kopioi teksti uuteen Word-dokumenttiin VDI:n kautta
 4. korjaa lopuksi ehkä Wordin mahdollisesti herjaamat virheet
-5. lisää kuvia konsoleista (optional)
-6. palauta oppari wihiin
-7. ~kirjoita tietoperusta loppuun~
-8. ~oikolue tähän asti kirjoitettu tutkimusosuus, korjaa löytyneet virheet~
+5. Wordin muotoilu ja esim hyperlinkit kuntoon
+6. lisää kuvia konsoleista (optional)
+7. palauta oppari wihiin
+8. ~kirjoita tietoperusta loppuun~
+9. ~oikolue tähän asti kirjoitettu tutkimusosuus, korjaa löytyneet virheet~
 10. ~etsi vielä 1 lähde jo käsiteltyihin konsoleihin~
 11. ~lähteet ja lähdeviittaukset oikein~
 12. ~Word-pohja käyttöön~
