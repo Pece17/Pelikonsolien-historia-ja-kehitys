@@ -19,7 +19,7 @@ Pelikonsolien historia ja kehitys 1900-luvun puolivälistä 2000-luvun alkuun\
 \
 ? + 0\
 \
-Tiivistelmä edellytetään pääsääntöisesti vain opinnäytetöissä.
+(Tiivistelmä edellytetään pääsääntöisesti vain opinnäytetöissä.
 
 Tiivistelmässä esitetään työn keskeiset kohdat siten, että lukija ymmärtää tiivistelmän luettuaan
 raportin sisältämät pääasiat. Tiivistelmässä esitetään selvitettävän asian tausta, työn tavoite ja
@@ -39,8 +39,10 @@ yleistettävissä olevia tuloksia. Preesensiä käytetään myös silloin, kun k
 töä.
 
 Tiivistelmä on enintään yhden sivun pituinen. Siinä tulee olla vähintään kolme tekstikappaletta,
-jotka erotetaan toisistaan yhdellä tyhjällä rivillä. Tiivistelmä ei saa sisältää lähdeviitteitä.\
+jotka erotetaan toisistaan yhdellä tyhjällä rivillä. Tiivistelmä ei saa sisältää lähdeviitteitä.)\
 \
+Pelikonsolien historia ja kehitys 1900-luvun puolivälistä 2000-luvun alkuun on ollut vaiheikasta. Pelikonsolien teknologioissa on tehty huimia kehityksiä vuonna 1972 julkaistusta historian ensimmäisestä kotivideopelikonsolista eteenpäin 2000-luvun alkuun saakka. Monet eri pelikonsolit ja peliyhtiöt olivat merkityksellisiä tämän noin 30 vuoden ajanjakson aikana sekä kulttuurillisesti että videopelialan liiketoiminnan kannalta.
+
 Pelikonsolit, Videopelit, Videopeliala
 
 
