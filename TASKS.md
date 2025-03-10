@@ -2,7 +2,7 @@
 2. kirjoita tiivistelmä ja oikolue se
 3. kopioi teksti uuteen Word-dokumenttiin VDI:n kautta
 4. korjaa lopuksi ehkä Wordin mahdollisesti herjaamat virheet
-5. Wordin muotoilu ja esim hyperlinkit, metatiedot kuntoon (katso opparipalaveri powerpoint ohjeet)
+5. Wordin muotoilu ja esim hyperlinkit, accessibility check, metatiedot kuntoon (katso opparipalaveri powerpoint ohjeet)
 6. lisää kuvia konsoleista (optional)
 7. palauta oppari wihiin
 8. ~kirjoita tietoperusta loppuun~
