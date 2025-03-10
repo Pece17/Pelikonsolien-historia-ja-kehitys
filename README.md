@@ -375,7 +375,7 @@ Malliet, S. & De Meyer, G. 2005. The History of the Video Game. Teoksessa Raesse
 
 Sarrion, E. 2023. What Is ChatGPT ?. Luettavissa: https://link.springer.com/chapter/10.1007/978-1-4842-9529-8_1. Luettu: 27.2.2025.
 
-Stanton, R. 2015. A Brief History of Video Games. Robinson. Lontoo
+Stanton, R. 2015. A Brief History of Video Games. Robinson. Lontoo.
 
 Vilkka, H. 2023. Kirjallisuuskatsaus metodina, opinnäytetyön osana ja tekstilajina. Art House. Helsinki. E-kirja. Luettu: 17.2.2025.
 
