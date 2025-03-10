@@ -61,7 +61,12 @@ Pelikonsolit, Videopelit, Videopeliala
 ## Sisällys ✅
 
 1 Johdanto\
-  1.1 Käsitteet     
+  1.1 Käsitteet\
+    1.1.1 Analoginen\
+    1.1.2 Arcade-peli\
+    1.1.3 ChatGPT\
+    1.1.4 Flipperi\
+    1.1.5 Oskilloskooppi\
 2 Videopelit ja pelikonsolit\
 3 Pelikonsolien historia ja kehitys\
   3.1 Esihistoria\
