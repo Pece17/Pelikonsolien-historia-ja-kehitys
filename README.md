@@ -29,7 +29,9 @@ Pelikonsolien historia ja kehitys 1900-luvun puolivälistä 2000-luvun alkuun\
 
 Pelikonsolien historia ja kehitys 1900-luvun puolivälistä 2000-luvun alkuun on ollut vaiheikasta. Pelikonsolien teknologioissa on tehty huimia kehityksiä vuonna 1972 julkaistusta historian ensimmäisestä kotivideopelikonsolista eteenpäin 2000-luvun alkuun saakka. Monet eri pelikonsolit, videopelit ja peliyhtiöt olivat merkityksellisiä sekä kulttuurillisesti että videopelialan liiketoiminnan kannalta tämän noin 30 vuoden ajanjakson aikana.
 
-Opinnäytetyön tavoitteena oli kuvailevaa kirjallisuuskatsausta hyödyntäen avata kotivideopelikonsolien historiaa yleisesti niiden alkuajoista 2000-luvun alkuun saakka, sekä myös keskittyä tarkemmin kotivideopelikonsolien teknologisiin kehitysaskeliin tällä ajanjaksolla. Opinnäytetyön pääasiallinen rajaus oli tehty kotivideopelikonsolien historiaan ja kehitykseen, mutta työssä myös sivuttiin muun muassa videopelien esihistoriaa, videopelialaa, videopeliyhtiöitä, olennaisia henkilöitä pelikonsolien historiassa, käsikonsoleita, julkisia arcade-videopelejä ja pelitietokoneita.
+Opinnäytetyön tavoitteena oli kuvailevaa kirjallisuuskatsausta hyödyntäen avata kotivideopelikonsolien historiaa yleisesti niiden alkuajoista 2000-luvun alkuun saakka, sekä myös keskittyä tarkemmin kotivideopelikonsolien teknologisiin kehitysaskeliin tällä ajanjaksolla. Opinnäytetyön pääasiallinen rajaus oli tehty kotivideopelikonsolien historiaan ja kehitykseen, mutta työssä myös sivuttiin muun muassa videopelien esihistoriaa, videopelialaa, videopeliyhtiöitä, olennaisia henkilöitä videopelialan historiassa, käsikonsoleita, julkisia arcade-videopelejä ja pelitietokoneita.
+
+Opinnätetyön tietoperustassa avataan videopelien ja pelikonsolien kannalta olennaisia käsitteitä. Tutkimusosuudessa kuvataan pelikonsolien historiaa ja kehitystä niiden esihistoriasta 1900-luvun puolivälistä 2000-luvun alkuun saakka. Kuvailevan kirjallisuuskatsauksen mukaisesti tutkimuksessa käytettiin monia eri laadukkaita lähteitä käsittelemään samoja asioita. Lähteiden väleillä oli eroja ja diskurssia. 
 
 
 \
