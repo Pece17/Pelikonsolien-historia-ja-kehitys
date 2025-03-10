@@ -246,7 +246,7 @@ Angel De La Cruzin ja John Ryanin Tennis for Two -loppuprojektista Massachusetts
 Tämän alaluvun alaluvuissa käyn läpi tutkimuskysymyksiini löytämiäni vastauksia.
 
 
-#### 4.3.1 Kotivideopelikonsolien historia yleisesti niiden alkuajoista 2000-luvun alkuun saakka
+#### 4.3.1 Kotivideopelikonsolien historia yleisesti niiden alkuajoista 2000-luvun alkuun saakka ✅
 
 Minkälainen on kotivideopelikonsolien historia yleisesti niiden alkuajoista 2000-luvun alkuun saakka? Pelikonsolien historia ja kehitys -luku opinnätetyössäni kokonaisuudessaan vastaa tähän varsin laajaan kysymykseen sivuten myös kulttuurin ja videopelialan liiketoiminnan näkökulmia. Yritin parhaani mukaan referoida pelikonsolien historian tänä ajanjaksona minun mielestäni merkityksellisimpien pelikonsolien ja peliyhtiöiden kautta. Jos tämän opinnäytetyön lukija ei tunne pelikonsolien historiaa, Pelikonsolien historia ja kehitys -luku antaa mielestäni kattavan, mutta tiiviin läpileikkauksen aiheeseen. Alla olevat kappaleet tiivistävät tulokseni tähän tutkimuskysymykseen.
 
