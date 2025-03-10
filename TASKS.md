@@ -3,8 +3,8 @@
 3. kopioi teksti uuteen Word-dokumenttiin VDI:n kautta
 4. korjaa lopuksi ehkä Wordin mahdollisesti herjaamat virheet
 5. Wordin muotoilu ja esim hyperlinkit, accessibility check, metatiedot kuntoon, nimeä oikein (katso opparipalaveri powerpoint ohjeet)
-6. lisää kuvia konsoleista (optional)
-7. palauta oppari wihiin
+6. palauta oppari wihiin
+7. ~lisää kuvia konsoleista (optional)~
 8. ~kirjoita tietoperusta loppuun~
 9. ~oikolue tähän asti kirjoitettu tutkimusosuus, korjaa löytyneet virheet~
 10. ~etsi vielä 1 lähde jo käsiteltyihin konsoleihin~
