@@ -98,17 +98,32 @@ Käytin ChatGPT:tä jonkin verran opinnäytetyöni tukena, muun muassa aiheen ra
 
 ### 1.1 Käsitteet ✅
 
-Tässä alaluvussa avaan muutamia spesifejä käsitteitä, joita opinnäytetyöni sisältää, ja jotka on hyvä tuntea ennen varsinaisen tekstin lukemista. Käyn läpi opinnäytetyöni kannalta olennaisia käsitteitä myös Videopelit ja pelikonsolit -luvussa.
+Tämän alaluvun alaluvuissa avaan muutamia spesifejä käsitteitä, joita opinnäytetyöni sisältää, ja jotka on hyvä tuntea ennen varsinaisen tekstin lukemista. Käyn läpi opinnäytetyöni kannalta olennaisia käsitteitä myös Videopelit ja pelikonsolit -luvussa.
 
-Analoginen    Analoginen tarkoittaa kohteen esitystä tavalla, joka muistuttaa alkuperäistä kohdetta. Analogiset laitteet valvovat olosuhteita, kuten liikettä, lämpötilaa ja ääntä, ja muuntavat ne "analogisiksi" sähköisiksi tai mekaanisiksi kuvioiksi. Esimerkiksi analoginen kello edustaa maapallon pyörimistä pyörivillä viisareillaan kellotaulussa. Analogiset puhelimet taas muuttavat äänen värähtelyt samanmuotoisiksi elektronisiksi värähtelyiksi. Analoginen tarkoittaa jatkuvaa signaalia toisin kuin digitaalinen, joka hajottaa kaikki numeroiksi. Analogiset videokamerat skannaavat katselualuettaan rivi kerrallaan ja muuntavat äärettömästi vaihtelevien punaisen, vihreän ja sinisen (RGB) valon voimakkuudet analogisiksi sähköisiksi signaaleiksi. (PCMag s.a.)
 
-Arcade-peli    Arcade-peli tai kolikkopeli tarkoittaa tyypillisesti kolikoilla toimivaa peliä, joka on suunniteltu pelattavaksi pelihalleissa (Merriam-Webster 2025).
+#### 1.1.1 Analoginen ✅
 
-ChatGPT    ChatGPT on esikoulutettu luonnollisen kielen käsittelymalli (Natural language processing tai NLP), joka tarkoittaa tekoälyn osaa, jonka tarkoituksena on mahdollistaa tietokoneiden ymmärrys ja vuorovaikutus ihmisten kielten kanssa. (Sarrion 2023).
+Analoginen tarkoittaa kohteen esitystä tavalla, joka muistuttaa alkuperäistä kohdetta. Analogiset laitteet valvovat olosuhteita, kuten liikettä, lämpötilaa ja ääntä, ja muuntavat ne "analogisiksi" sähköisiksi tai mekaanisiksi kuvioiksi. Esimerkiksi analoginen kello edustaa maapallon pyörimistä pyörivillä viisareillaan kellotaulussa. Analogiset puhelimet taas muuttavat äänen värähtelyt samanmuotoisiksi elektronisiksi värähtelyiksi. Analoginen tarkoittaa jatkuvaa signaalia toisin kuin digitaalinen, joka hajottaa kaikki numeroiksi. Analogiset videokamerat skannaavat katselualuettaan rivi kerrallaan ja muuntavat äärettömästi vaihtelevien punaisen, vihreän ja sinisen (RGB) valon voimakkuudet analogisiksi sähköisiksi signaaleiksi. (PCMag s.a.)
 
-Flipperi    Flipperi (englanniksi pinball machine) tarkoittaa varhaisinta sähkömekaanista kolikolla toimivaa arcade-peliä, joita tyypillisesti löytyy esimerkiksi biljardihalleista ja pelihalleista. Flipperin pelaaja syöttää laitteeseen kolikon, mikä avaa jousimännän, jonka avulla pelaaja voi lingota teräspallon kujaa pitkin lasikannelliselle vinolle pelialueelle. Pelialueen yläpäästä pallo laskeutuu erilaisten porttien läpi, pylväiden välistä ja törmäten puskureihin – näiden elementtien sähköiset kosketuspisteet tuottavat kumulatiivisen tuloksen, joka on tallennettu koneen yläosassa olevaan valaistuun paneeliin. Lopuksi pallo putoaa yhteen useista rei'istä antaen erilaisia ​​pisteitä. (Encyclopædia Britannica, Inc. 2025.) Flipperi-laitteiden nimi tulee flippereistä tai mailoista, joiden avulla pelaaja pystyy lyömään pallon takaisin pelialueelle ja pitämään pelin käynnissä (Black 2011, 23–24).
 
-Oskilloskooppi    Oskilloskoopit ovat yksi tärkeimmistä työkaluista sähköisten signaalien analysoinnissa. Ensisijainen tieto, jota signaalien aaltomuodosta voidaan saada niiden avulla on amplitudin eli värähdyslaajuuden vaihtelun visualisointi ajan kuluessa. (Miguel Dias Pereira 2006.)
+#### 1.1.2 Arcade-peli ✅
+
+Arcade-peli tai kolikkopeli tarkoittaa tyypillisesti kolikoilla toimivaa peliä, joka on suunniteltu pelattavaksi pelihalleissa (Merriam-Webster 2025).
+
+
+#### 1.1.3 ChatGPT ✅
+
+ChatGPT on esikoulutettu luonnollisen kielen käsittelymalli (Natural language processing tai NLP), joka tarkoittaa tekoälyn osaa, jonka tarkoituksena on mahdollistaa tietokoneiden ymmärrys ja vuorovaikutus ihmisten kielten kanssa. (Sarrion 2023).
+
+
+#### 1.1.4 Flipperi ✅
+
+Flipperi (englanniksi pinball machine) tarkoittaa varhaisinta sähkömekaanista kolikolla toimivaa arcade-peliä, joita tyypillisesti löytyy esimerkiksi biljardihalleista ja pelihalleista. Flipperin pelaaja syöttää laitteeseen kolikon, mikä avaa jousimännän, jonka avulla pelaaja voi lingota teräspallon kujaa pitkin lasikannelliselle vinolle pelialueelle. Pelialueen yläpäästä pallo laskeutuu erilaisten porttien läpi, pylväiden välistä ja törmäten puskureihin – näiden elementtien sähköiset kosketuspisteet tuottavat kumulatiivisen tuloksen, joka on tallennettu koneen yläosassa olevaan valaistuun paneeliin. Lopuksi pallo putoaa yhteen useista rei'istä antaen erilaisia ​​pisteitä. (Encyclopædia Britannica, Inc. 2025.) Flipperi-laitteiden nimi tulee flippereistä tai mailoista, joiden avulla pelaaja pystyy lyömään pallon takaisin pelialueelle ja pitämään pelin käynnissä (Black 2011, 23–24).
+
+
+#### 1.1.5 Oskilloskooppi ✅
+
+Oskilloskoopit ovat yksi tärkeimmistä työkaluista sähköisten signaalien analysoinnissa. Ensisijainen tieto, jota signaalien aaltomuodosta voidaan saada niiden avulla on amplitudin eli värähdyslaajuuden vaihtelun visualisointi ajan kuluessa. (Miguel Dias Pereira 2006.)
 
 
 ## 2 Videopelit ja pelikonsolit ✅
