@@ -27,9 +27,9 @@ Pelikonsolien historia ja kehitys 1900-luvun puolivälistä 2000-luvun alkuun\
 - Tiivistelmä on enintään yhden sivun pituinen. Siinä tulee olla vähintään kolme tekstikappaletta, jotka erotetaan toisistaan yhdellä tyhjällä rivillä. Tiivistelmä ei saa sisältää lähdeviitteitä.​)\
 \
 
-Pelikonsolien historia ja kehitys 1900-luvun puolivälistä 2000-luvun alkuun on ollut vaiheikasta. Pelikonsolien teknologioissa on tehty huimia kehityksiä vuonna 1972 julkaistusta historian ensimmäisestä kotivideopelikonsolista eteenpäin 2000-luvun alkuun saakka. Monet eri pelikonsolit, videopelit ja peliyhtiöt olivat merkityksellisiä sekä kulttuurillisesti että videopelialan liiketoiminnan kannalta tämän noin 30 vuoden ajanjakson aikana. Opinnätetyön pääasiallinen rajaus oli tehty kotivideopelikonsolien historiaan ja kehitykseen, mutta työssä myös sivuttiin muun muassa videopelien esihistoriaa, 
+Pelikonsolien historia ja kehitys 1900-luvun puolivälistä 2000-luvun alkuun on ollut vaiheikasta. Pelikonsolien teknologioissa on tehty huimia kehityksiä vuonna 1972 julkaistusta historian ensimmäisestä kotivideopelikonsolista eteenpäin 2000-luvun alkuun saakka. Monet eri pelikonsolit, videopelit ja peliyhtiöt olivat merkityksellisiä sekä kulttuurillisesti että videopelialan liiketoiminnan kannalta tämän noin 30 vuoden ajanjakson aikana.
 
-Opinnäytetyön tavoitteena oli kuvailevaa kirjallisuuskatsausta hyödyntäen avata kotivideopelikonsolien historiaa yleisesti niiden alkuajoista 2000-luvun alkuun saakka, sekä myös keskittyä tarkemmin kotivideopelikonsolien teknologisiin kehitysaskeliin tällä ajanjaksolla. Opinnäytetyön rajaus oli kotiov
+Opinnäytetyön tavoitteena oli kuvailevaa kirjallisuuskatsausta hyödyntäen avata kotivideopelikonsolien historiaa yleisesti niiden alkuajoista 2000-luvun alkuun saakka, sekä myös keskittyä tarkemmin kotivideopelikonsolien teknologisiin kehitysaskeliin tällä ajanjaksolla. Opinnäytetyön pääasiallinen rajaus oli tehty kotivideopelikonsolien historiaan ja kehitykseen, mutta työssä myös sivuttiin muun muassa videopelien esihistoriaa, videopelialaa, videopeliyhtiöitä, olennaisia henkilöitä pelikonsolien historiassa, käsikonsoleita, julkisia arcade-videopelejä ja pelitietokoneita.
 
 
 \
