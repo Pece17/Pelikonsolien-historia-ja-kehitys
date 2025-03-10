@@ -23,17 +23,37 @@ Pelikonsolien historia ja kehitys 1900-luvun puolivälistä 2000-luvun alkuun\
 - Tiivistelmässä esitetään työn keskeiset kohdat siten, että lukija ymmärtää tiivistelmän luettuaan raportin sisältämät pääasiat. Tiivistelmässä esitetään selvitettävän asian tausta, työn tavoite ja rajaus, keskeinen tietoperusta, työn toteutustapa, ajankohta, käytetyt menetelmät sekä tulokset ja päätelmät.​
 - Tiivistelmä etenee raportin mukaisessa järjestyksessä. Se on kuin raportti pienoiskoossa. Tiivistelmän pitää olla itsenäinen kokonaisuus, joka on ymmärrettävissä raporttia lukematta.​
 - Tiivistelmä kirjoitetaan asiatyylillä, tiiviisti ja ymmärrettävästi. Siinä käytetään kokonaisia lauseita ja virkkeitä. Se kirjoitetaan passiivissa ja kolmannessa persoonassa (tekijä/tekijät) eikä ensimmäisessä persoonassa (minä, me).​
-- Tiivistelmässä käytetään imperfektiä, kun viitataan aiemmin julkaistuihin tutkimuksiin, oman tutkimuksen kulkuun tai omiin ja muiden tuloksiin. Perfektiä (esim. on käyttänyt/ollut/havainnut) käytetään tutkimustulosten ja päätelmien esittämiseen. Aikamuoto on preesens, jos raportissa esitellään yleistettävissä olevia tuloksia. Preesensiä käytetään myös silloin, kun kuvataan tuotoksen käyttöä.​
-- Tiivistelmä on enintään yhden sivun pituinen. Siinä tulee olla vähintään kolme tekstikappaletta, jotka erotetaan toisistaan yhdellä tyhjällä rivillä. Tiivistelmä ei saa sisältää lähdeviitteitä.​)\
+- Tiivistelmässä käytetään imperfektiä, kun viitataan aiemmin julkaistuihin tutkimuksiin, oman tutkimuksen kulkuun tai omiin ja muiden tuloksiin. Perfektiä (esim. on käyttänyt/ollut/havainnut) käytetään tutkimustulosten ja päätelmien esittämiseen. Aikamuoto on preesens, jos raportissa esitellään yleistettävissä olevia tuloksia. Preesensiä käytetään myös silloin, kun kuvataan tuotoksen käyttöä.​​)\
 \
 
 Pelikonsolien historia ja kehitys 1900-luvun puolivälistä 2000-luvun alkuun on ollut vaiheikasta. Pelikonsolien teknologioissa on tehty huimia kehityksiä vuonna 1972 julkaistusta historian ensimmäisestä kotivideopelikonsolista eteenpäin 2000-luvun alkuun saakka. Monet eri pelikonsolit, videopelit ja peliyhtiöt olivat merkityksellisiä sekä kulttuurillisesti että videopelialan liiketoiminnan kannalta tämän noin 30 vuoden ajanjakson aikana.
 
-Opinnäytetyön tavoitteena oli kuvailevaa kirjallisuuskatsausta hyödyntäen avata kotivideopelikonsolien historiaa yleisesti niiden alkuajoista 2000-luvun alkuun saakka, sekä myös keskittyä tarkemmin kotivideopelikonsolien teknologisiin kehitysaskeliin tällä ajanjaksolla. Kuvailevan kirjallisuuskatsauksen päämääränä on tiivistää olennainen tieto valituista tutkimuksista valitussa aihepiirissä, sekä tehdä johtopäätökset ennalta valittuihin tutkimuskysymyksiin. Opinnäytetyön pääasiallinen rajaus oli tehty kotivideopelikonsolien historiaan ja kehitykseen, mutta työssä myös sivuttiin muun muassa videopelien esihistoriaa, videopelialaa, videopeliyhtiöitä, olennaisia henkilöitä videopelialan historiassa, käsikonsoleita, julkisia arcade-videopelejä ja pelitietokoneita.
+Opinnäytetyön tavoitteena on kuvailevaa kirjallisuuskatsausta hyödyntäen avata kotivideopelikonsolien historiaa yleisesti niiden alkuajoista 2000-luvun alkuun saakka, sekä myös keskittyä tarkemmin kotivideopelikonsolien teknologisiin kehitysaskeliin tällä ajanjaksolla. Kuvailevan kirjallisuuskatsauksen päämääränä on tiivistää olennainen tieto valituista tutkimuksista valitussa aihepiirissä, sekä tehdä johtopäätökset ennalta valittuihin tutkimuskysymyksiin. Opinnäytetyön pääasiallinen rajaus on tehty kotivideopelikonsolien historiaan ja kehitykseen, mutta työssä myös sivutaan muun muassa videopelien esihistoriaa, videopelialaa, videopeliyhtiöitä, olennaisia henkilöitä videopelialan historiassa, käsikonsoleita, julkisia arcade-videopelejä ja pelitietokoneita.
 
-Opinnätetyön tietoperustassa avataan videopelien ja pelikonsolien kannalta olennaisia käsitteitä. Tutkimusosuudessa kuvataan pelikonsolien historiaa ja kehitystä niiden esihistoriasta 1900-luvun puolivälistä 2000-luvun alkuun saakka. Kuvailevan kirjallisuuskatsauksen mukaisesti tutkimuksessa käytettiin monia eri laadukkaita lähteitä käsittelemään samoja asioita, joita etsittiin esimerkiksi Google Scholar -hakukoneen kautta. Lähteiden väleillä oli eroja ja diskurssia, ja aiheesta saatiin näin kattavampi kuva.
+Opinnätetyön tietoperustassa avataan videopelien ja pelikonsolien kannalta olennaisia käsitteitä, kuten pelikonsolien kompenttien määritelmiä sekä videopelien ominaisuuksia. Tutkimusosuudessa kuvataan pelikonsolien historiaa ja kehitystä niiden esihistoriasta 1900-luvun puolivälistä 2000-luvun alkuun saakka. Kuvailevan kirjallisuuskatsauksen mukaisesti tutkimuksessa käytetään monia eri laadukkaita lähteitä käsittelemään samoja asioita, joita etsittiin esimerkiksi Google Scholar -hakukoneen kautta. Lähteiden välillä on eroja ja diskurssia, jonka ansioista aiheesta saadaan kattavampi kokonaiskuva. Lopuksi opinnäytetyössä pohditaan tutkimuksen toteutusta sekä tuloksia ja pohditaan johtopäätöksiä sekä omaa oppimista opinnäytetyön projektinhallinnan näkökulmasta.
 
 
+
+
+
+(Opinnäytetyön tavoitteena on selvittää nykyaikaisia pelikehityksen vaiheita ja miten Unity
+pelimoottoria voidaan hyödyntää pelikehityksessä. Selvityksen jälkeen työssä kuvataan Unity
+kehitysympäristössä luodun 2d roguelite pelin kehitys ja esitellään kehityksen lopputulosta.
+
+Tietoperustoissa kuvataan pelikehityksen vaiheita ja miten suunnittelu on tärkeässä osassa
+ennen kehityksen aloittamista. Suunnittelun jälkeinen toteutusvaihe on vaativa ja aikaa vievä
+osuus pelikehityksestä. Lisäksi kerrotaan, kuinka saavuttavuus on tärkeää myös huomioida
+moderneja pelejä kehitettäessä mahdollisimman suuren kohderyhmän saavuttamisessa.
+Perustan lopussa esitellään Unityn kehittämää moottoria ja kehitysympäristöä.
+
+Toiminnallisessa osiossa kerrotaan 2d roguelite pelin kehityksestä ja kuinka siinä hyödynnettiin
+Unity pelimoottoria ja moottorin mukana tulevaa kehitysympäristöä. Pelikehityksessä käytettiin
+hyväksi C# ohjelmointikieltä, jonka avulla erinäiset skriptit ohjaavat moottorin taustalla, melkein
+kaikkia pelissä tapahtuvia asioita.
+
+Työn lopussa pohditaan yhteenvetona, mitä työn aikana on opittu ja kuinka projektia voitaisiin
+jatkokehittää. Lisäksi annetaan ohjeet, kuinka pelin lähdekoodiin voi tutustua ja miten peliä voi
+itse kokeilla.)
 \
 Pelikonsolit, Videopelit, Videopeliala
 
