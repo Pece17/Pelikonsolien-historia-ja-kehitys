@@ -9,7 +9,7 @@ Amk-opinnäytetyö\
 2025
 
 
-## Tiivistelmä
+## Tiivistelmä ✅
 
 Pekka Hämäläinen\
 \
