@@ -17,7 +17,7 @@ Tietojenkäsittely tradenomi\
 \
 Pelikonsolien historia ja kehitys 1900-luvun puolivälistä 2000-luvun alkuun\
 \
-?\
+33\
 \
 Tämän opinnäytetyön tavoitteena oli kuvailevaa kirjallisuuskatsausta hyödyntäen avata kotivideopelikonsolien historiaa yleisesti niiden alkuajoista 2000-luvun alkuun saakka, sekä myös keskittyä tarkemmin kotivideopelikonsolien teknologisiin kehitysaskeliin tällä ajanjaksolla. Kuvailevan kirjallisuuskatsauksen päämääränä on tiivistää olennainen tieto valituista tutkimuksista valitussa aihepiirissä, sekä tehdä johtopäätökset ennalta valittuihin tutkimuskysymyksiin. Opinnäytetyön pääasiallinen rajaus on tehty kotivideopelikonsolien historiaan ja kehitykseen, mutta työssä myös sivutaan muun muassa videopelien esihistoriaa, videopelialaa sekä olennaisia henkilöitä sen historiassa, videopeliyhtiöitä, käsikonsoleita, julkisia arcade-videopelejä ja pelitietokoneita.
 
