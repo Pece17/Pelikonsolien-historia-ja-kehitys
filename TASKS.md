@@ -1,6 +1,4 @@
-1. Wordin muotoilu ja esim ~hyperlinkit~, ~accessibility check~, ~metatiedot kuntoon~, nimeä oikein (katso opparipalaveri powerpoint ohjeet)
-3. oikolue vielä kerran, tarkista että kappaleiden välit oikein
-4. palauta eri versiot oppareista wihiin
+3. oikolue vielä kerran, ~tarkista että kappaleiden välit oikein~
 5. spostia, että oppari Theseukseen
 6. hae valmistumista
 7. ~lisää kuvia konsoleista (optional)~
@@ -23,3 +21,5 @@
 1. ~kopioi teksti uuteen Word-dokumenttiin VDI:n kautta~
 2. ~korjaa lopuksi ehkä Wordin mahdollisesti herjaamat virheet~
 2. ~lopuksi tiivistelmään sivumäärä~
+1. ~Wordin muotoilu ja esim ~hyperlinkit~, ~accessibility check~, ~metatiedot kuntoon~, nimeä oikein (katso opparipalaveri powerpoint ohjeet)~
+2. ~palauta eri versiot oppareista wihiin~
