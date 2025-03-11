@@ -1,4 +1,4 @@
-3. oikolue vielä kerran, ~tarkista että kappaleiden välit oikein~
+1. oikolue vielä kerran, ~tarkista että kappaleiden välit oikein~
 5. spostia, että oppari Theseukseen
 6. hae valmistumista
 7. ~lisää kuvia konsoleista (optional)~
