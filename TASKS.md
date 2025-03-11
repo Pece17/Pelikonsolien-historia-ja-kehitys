@@ -1,5 +1,4 @@
 1. Wordin muotoilu ja esim ~hyperlinkit~, ~accessibility check~, ~metatiedot kuntoon~, nimeä oikein (katso opparipalaveri powerpoint ohjeet)
-2. lopuksi tiivistelmään sivumäärä
 3. oikolue vielä kerran, tarkista että kappaleiden välit oikein
 4. palauta eri versiot oppareista wihiin
 5. ~lisää kuvia konsoleista (optional)~
@@ -21,3 +20,4 @@
 25. ~kirjoita tiivistelmä ja oikolue se~
 1. ~kopioi teksti uuteen Word-dokumenttiin VDI:n kautta~
 2. ~korjaa lopuksi ehkä Wordin mahdollisesti herjaamat virheet~
+2. ~lopuksi tiivistelmään sivumäärä~
