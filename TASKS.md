@@ -1,7 +1,8 @@
 1. Wordin muotoilu ja esim ~hyperlinkit~, ~accessibility check~, ~metatiedot kuntoon~, nimeä oikein (katso opparipalaveri powerpoint ohjeet)
 2. lopuksi tiivistelmään sivumäärä
-3. palauta eri versiot oppareista wihiin
-4. ~lisää kuvia konsoleista (optional)~
+3. oikolue vielä kerran, tarkista että kappaleiden välit oikein
+4. palauta eri versiot oppareista wihiin
+5. ~lisää kuvia konsoleista (optional)~
 10. ~kirjoita tietoperusta loppuun~
 11. ~oikolue tähän asti kirjoitettu tutkimusosuus, korjaa löytyneet virheet~
 12. ~etsi vielä 1 lähde jo käsiteltyihin konsoleihin~
