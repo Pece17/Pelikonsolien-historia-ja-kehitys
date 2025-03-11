@@ -363,7 +363,7 @@ Malliet, S. & De Meyer, G. 2005. The History of the Video Game. Teoksessa Raesse
 
 Merriam-Webster 2025. arcade game. Luettavissa: https://www.merriam-webster.com/dictionary/arcade%20game. Luettu: 27.2.2025.
 
-Miguel Dias Pereira, J. 2006. The history and technology of oscilloscopes. Luettavissa: https://ieeexplore.ieee.org/abstract/document/4017100/authors#authors. Luettu: 27.2.2025.
+Miguel Dias Pereira, J. 2006. The history and technology of oscilloscopes. Luettavissa: https://ieeexplore.ieee.org/abstract/document/4017100. Luettu: 27.2.2025.
 
 PCMag s.a. 2D graphics. Luettavissa: https://www.pcmag.com/encyclopedia/term/2d-graphics. Luettu: 27.2.2025.
 
