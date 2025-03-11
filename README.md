@@ -13,7 +13,7 @@ Amk-opinnäytetyö\
 
 Pekka Hämäläinen\
 \
-Tradenomi (AMK), tietojenkäsittely\
+Tietojenkäsittely tradenomi\
 \
 Pelikonsolien historia ja kehitys 1900-luvun puolivälistä 2000-luvun alkuun\
 \
