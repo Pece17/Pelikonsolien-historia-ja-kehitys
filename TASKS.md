@@ -1,9 +1,7 @@
-1. kopioi teksti uuteen Word-dokumenttiin VDI:n kautta
-2. korjaa lopuksi ehkä Wordin mahdollisesti herjaamat virheet
-6. Wordin muotoilu ja esim hyperlinkit, accessibility check, metatiedot kuntoon, nimeä oikein (katso opparipalaveri powerpoint ohjeet)
-7. lopuksi tiivistelmään sivumäärä
-8. palauta eri versiot oppareista wihiin
-9. ~lisää kuvia konsoleista (optional)~
+1. Wordin muotoilu ja esim hyperlinkit, accessibility check, metatiedot kuntoon, nimeä oikein (katso opparipalaveri powerpoint ohjeet)
+2. lopuksi tiivistelmään sivumäärä
+3. palauta eri versiot oppareista wihiin
+4. ~lisää kuvia konsoleista (optional)~
 10. ~kirjoita tietoperusta loppuun~
 11. ~oikolue tähän asti kirjoitettu tutkimusosuus, korjaa löytyneet virheet~
 12. ~etsi vielä 1 lähde jo käsiteltyihin konsoleihin~
@@ -20,3 +18,5 @@
 23. ~tarkista, että lähteet ja lähdeviittaukset (sivunumerot tuloksissa) ovat oikein, myös pisteiden paikat~
 24. ~oikolue 4.3.2 Kotivideopelikonsolien teknologinen kehitys niiden alkuajoista 2000-luvun alkuun saakka~
 25. ~kirjoita tiivistelmä ja oikolue se~
+1. ~kopioi teksti uuteen Word-dokumenttiin VDI:n kautta~
+2. ~korjaa lopuksi ehkä Wordin mahdollisesti herjaamat virheet~
