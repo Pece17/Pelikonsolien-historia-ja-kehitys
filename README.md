@@ -27,7 +27,7 @@ Tutkimusosuuden jälkeen opinnäytetyössä määritellään tutkimusmenetelmä,
 
 Pelikonsolien historia ja kehitys 1900-luvun puolivälistä 2000-luvun alkuun saakka oli erittäin vaiheikasta. Tutkimuksen tulokset kuvaavat, että pelikonsolien teknologioissa tehtiin huimia kehityksiä komponenttien ja innovaatioiden osilta vuonna 1972 julkaistusta historian ensimmäisestä kotivideopelikonsolista eteenpäin 2000-luvun alkuun saakka. Monet eri pelikonsolit, videopelit, henkilöt ja peliyhtiöt olivat merkityksellisiä sekä kulttuurisesti että videopelialan liiketoiminnan kannalta tämän noin 30 vuoden ajanjakson aikana.\
 \
-Pelikonsolit, Videopelit, Videopeliala
+Pelikonsolit, videopelit, videopeliala
 
 
 ## Sisällys ✅
