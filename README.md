@@ -50,8 +50,8 @@ Pelikonsolit, videopelit, videopeliala
   4.1 Kuvaileva kirjallisuuskatsaus​\
   4.2 Kuvailevan kirjallisuuskatsauksen käyttö ja tutkimuksen aineisto\
   4.3 Tulokset\
-    4.3.1 Kotivideopelikonsolien historia yleisesti niiden alkuajoista 2000-luvun alkuun saakka\
-    4.3.2 Kotivideopelikonsolien teknologinen kehitys niiden alkuajoista 2000-luvun alkuun saakka\
+    4.3.1 Pelikonsolien historia yleisesti niiden alkuajoista 2000-luvun alkuun\
+    4.3.2 Pelikonsolien teknologinen kehitys niiden alkuajoista 2000-luvun alkuun\
 5 Pohdinta\
   5.1 Johtopäätökset ja suositukset\
   5.2 Oma oppiminen\
@@ -252,7 +252,7 @@ Angel De La Cruzin ja John Ryanin Tennis for Two -loppuprojektista Massachusetts
 Tämän alaluvun alaluvuissa käyn läpi tutkimuskysymyksiini löytämiäni vastauksia.
 
 
-#### 4.3.1 Kotivideopelikonsolien historia yleisesti niiden alkuajoista 2000-luvun alkuun saakka ✅
+#### 4.3.1 Pelikonsolien historia yleisesti niiden alkuajoista 2000-luvun alkuun ✅
 
 Minkälainen on kotivideopelikonsolien historia yleisesti niiden alkuajoista 2000-luvun alkuun saakka?
 
@@ -263,7 +263,7 @@ Vuosien 1958-1972 välillä videopelit pyörivät erilaisten tieteellisten instr
 Videopelialan veteraaneista vain Atari pystyi sinnittelemään mukana 1980-luvulla, kun japanilaiset dominoivat peleillään ja konsoleillaan. Esimerkiksi Pac-Man-pelistä tuli valtava kulttuurinen ilmiö, eivätkä Mario- tai Donkey Kong -pelitkään jääneet huomiotta. Nintendon NES, Sega Master System ja Atari 7800 olivat merkittäviä uusia konsoleita 1980-luvulla. Erään tutkimuksen mukaan vuoteen 1990 mennessä 30 prosentilla Yhdysvaltalaisista kotitalouksista oli NES-pelikonsoli, mikä kuvaa sitä, että pelikonsoleista oli tullut arkipäivisiä laitteita kotitalouksissa. 1990-luvun alussa Nintendo ja Sega kävivät kovaa taistelua videopelialan johdosta, ja Atari tippui kelkasta lopullisesti pelikonsolien osalta. Tämän vuosikymmenen puolivälissä uudeksi haastajaksi ilmestyi myöskin japanilainen Sony, joka päätyi anastamaan kapulan Nintendolta ja Segalta. Sony PlayStation, Nintendon SNES ja 64, Sega Genesis, Sega Saturn ja Sega Dreamcast olivat tärkeimpiä konsoleita 1990-luvulla. 2000-luvun alussa Sony vakiinnutti johtoasemansa videopelialalla, vaikka Nintendo ja uusi haastaja, Microsoft, yrittivät tosissaan taistella markkinaosuuksista. Sony PlayStation 2 on vieläkin historian menestynein pelikonsoli noin 155 miljoonalla yksiköllä. Sen lisäksi Nintendo GameCube ja Microsoft Xbox olivat 2000-luvun alun merkittävimpiä kotivideopelikonsoleita.
 
 
-#### 4.3.2 Kotivideopelikonsolien teknologinen kehitys niiden alkuajoista 2000-luvun alkuun saakka ✅
+#### 4.3.2 Pelikonsolien teknologinen kehitys niiden alkuajoista 2000-luvun alkuun ✅
 
 Miten kotivideopelikonsolit kehittyivät teknologisesti niiden alkuajoista 2000-luvun alkuun saakka?
 
