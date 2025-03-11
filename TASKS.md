@@ -1,4 +1,4 @@
-1. Wordin muotoilu ja esim hyperlinkit, accessibility check, metatiedot kuntoon, nimeä oikein (katso opparipalaveri powerpoint ohjeet)
+1. Wordin muotoilu ja esim ~hyperlinkit~, ~accessibility check~, ~metatiedot kuntoon~, nimeä oikein (katso opparipalaveri powerpoint ohjeet)
 2. lopuksi tiivistelmään sivumäärä
 3. palauta eri versiot oppareista wihiin
 4. ~lisää kuvia konsoleista (optional)~
