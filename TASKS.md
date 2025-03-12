@@ -1,6 +1,7 @@
-1. oikolue vielä kerran, ~tarkista että kappaleiden välit oikein~
-5. spostia, että oppari Theseukseen
-6. hae valmistumista
+1. Opinnäytetyön julkaisu Theseuksessa (ohjaajan luvan jälkeen)​, Lähetä viesti kirjasto.ont@haaga-helia.fi​ spostiin, että oppari Theseukseen, julkisesti
+2. Julkaistun opinnäytetyön urn-alkuisen linkin laittaminen Wihiin (arvioinnin valmistuttua)​
+3. Opinnäytetyön arviointilausunnon lataaminen Wihistä​
+6. hae valmistumista https://www.haaga-helia.fi/fi/valmistuminen
 7. ~lisää kuvia konsoleista (optional)~
 10. ~kirjoita tietoperusta loppuun~
 11. ~oikolue tähän asti kirjoitettu tutkimusosuus, korjaa löytyneet virheet~
@@ -23,3 +24,4 @@
 2. ~lopuksi tiivistelmään sivumäärä~
 1. ~Wordin muotoilu ja esim ~hyperlinkit~, ~accessibility check~, ~metatiedot kuntoon~, nimeä oikein (katso opparipalaveri powerpoint ohjeet)~
 2. ~palauta eri versiot oppareista wihiin~
+3. ~oikolue vielä kerran, ~tarkista että kappaleiden välit oikein~~
