@@ -1,6 +1,8 @@
 1. Opinnäytetyön julkaisu Theseuksessa (ohjaajan luvan jälkeen)​, Lähetä viesti kirjasto.ont@haaga-helia.fi​ spostiin, että oppari Theseukseen, julkisesti
 2. Julkaistun opinnäytetyön urn-alkuisen linkin laittaminen Wihiin (arvioinnin valmistuttua)​
 3. Opinnäytetyön arviointilausunnon lataaminen Wihistä​
+4. Opolle spostia, että voiko hakea valmistumista
+5. Tee avoimen väylän joustava erillishaku https://www.haaga-helia.fi/fi/avoin-amk/avoimen-vaylan-joustava-erillishaku
 6. hae valmistumista https://www.haaga-helia.fi/fi/valmistuminen
 7. ~lisää kuvia konsoleista (optional)~
 10. ~kirjoita tietoperusta loppuun~
