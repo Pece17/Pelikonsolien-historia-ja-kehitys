@@ -24,6 +24,6 @@
 2. ~lopuksi tiivistelmään sivumäärä~
 1. ~Wordin muotoilu ja esim ~hyperlinkit~, ~accessibility check~, ~metatiedot kuntoon~, nimeä oikein (katso opparipalaveri powerpoint ohjeet)~
 2. ~palauta eri versiot oppareista wihiin~
-3. ~oikolue vielä kerran, ~tarkista että kappaleiden välit oikein~~
-4. ~Opinnäytetyön julkaisu Theseuksessa (ohjaajan luvan jälkeen), ~Lähetä viesti kirjasto.ont@haaga-helia.fi spostiin, että oppari Theseukseen, julkisesti~~
+3. ~oikolue vielä kerran, tarkista että kappaleiden välit oikein~
+4. ~Opinnäytetyön julkaisu Theseuksessa (ohjaajan luvan jälkeen), Lähetä viesti kirjasto.ont@haaga-helia.fi spostiin, että oppari Theseukseen, julkisesti~
 5. ~Julkaistun opinnäytetyön urn-alkuisen linkin laittaminen Wihiin (arvioinnin valmistuttua)~
