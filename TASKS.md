@@ -1,4 +1,4 @@
-1. Opinnäytetyön julkaisu Theseuksessa (ohjaajan luvan jälkeen)​, Lähetä viesti kirjasto.ont@haaga-helia.fi​ spostiin, että oppari Theseukseen, julkisesti
+1. Opinnäytetyön julkaisu Theseuksessa (ohjaajan luvan jälkeen)​, ~Lähetä viesti kirjasto.ont@haaga-helia.fi​ spostiin, että oppari Theseukseen, julkisesti~
 2. Julkaistun opinnäytetyön urn-alkuisen linkin laittaminen Wihiin (arvioinnin valmistuttua)​
 3. Opinnäytetyön arviointilausunnon lataaminen Wihistä​
 4. Opolle spostia, että voiko hakea valmistumista ja mistä saa opintosuoritusotteet (https://www.haaga-helia.fi/fi/opintopalvelut)?
