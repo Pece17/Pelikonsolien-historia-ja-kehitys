@@ -1,4 +1,3 @@
-1. Opolle spostia, että voiko hakea valmistumista ja mistä saa opintosuoritusotteet (https://www.haaga-helia.fi/fi/opintopalvelut)?
 5. Tee avoimen väylän joustava erillishaku https://www.haaga-helia.fi/fi/avoin-amk/avoimen-vaylan-joustava-erillishaku (https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000009237)
 6. hae valmistumista https://www.haaga-helia.fi/fi/valmistuminen (Käytännössä prosessi etenee niin, että kun sinut on haussa hyväksytty tutkintoon, viedään aiemmat opintosuorituksesi uudelle opiskelijaroolille. Tämän jälkeen saat opintoneuvojalta (Linnea) viestin, jossa on ohjeistus valmistumisen hakemiseen ja haet valmistumista ohjeen mukaisesti. Prosessi on siis kaksivaiheinen: ensin haku tutkintoon ja sitten valmistumisen hakeminen. Viimeinen päivä hakea valmistumista tänä keväänä on 4.6. Valmistumisjuhla järjestetään 16.6. Finlandia-talossa.)
 7. ~lisää kuvia konsoleista (optional)~
@@ -27,3 +26,4 @@
 4. ~Opinnäytetyön julkaisu Theseuksessa (ohjaajan luvan jälkeen), Lähetä viesti kirjasto.ont@haaga-helia.fi spostiin, että oppari Theseukseen, julkisesti~
 5. ~Julkaistun opinnäytetyön urn-alkuisen linkin laittaminen Wihiin (arvioinnin valmistuttua)~
 6. ~Opinnäytetyön arviointilausunnon lataaminen Wihistä​~
+7. ~Opolle spostia, että voiko hakea valmistumista ja mistä saa opintosuoritusotteet (https://www.haaga-helia.fi/fi/opintopalvelut)?~
