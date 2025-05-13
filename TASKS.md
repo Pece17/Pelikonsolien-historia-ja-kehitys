@@ -1,4 +1,4 @@
-1. selvitä tutkintotodistushakemus mahdollinen virhe
+1. Sinun tulee ladata tutkintotodistuksesi itsellesi 21 päivän sisällä valmistumispäivästä. Saat aikaisintaan valmistumispäivänä ohjeet lataamiseen. Ohjeet tulevat tutkintotodistushakemuksella ilmoittamaasi henkilökohtaiseen sähköpostiosoitteeseen, lähettäjänä certificates@haaga-helia.fi.
 7. ~lisää kuvia konsoleista (optional)~
 10. ~kirjoita tietoperusta loppuun~
 11. ~oikolue tähän asti kirjoitettu tutkimusosuus, korjaa löytyneet virheet~
@@ -30,3 +30,4 @@
 9. ~Hyväksytyn hakemuksen jälkeen ja otettuasi tarjotun opiskelupaikan vastaan, sinulle luodaan uusi läsnä olevan tutkinto-opiskelijan rooli tutkintoon johtavaan koulutukseen.~
 10. ~Samalla olet velvollinen maksamaan korkeakouluopiskelijan terveydenhoitomaksun (YTHS) kuluvalta lukukaudelta (https://www.kela.fi/korkeakouluopiskelijan-terveydenhoitomaksu).~
 11. ~hae valmistumista uudella opiskelijanumerolla 4.6. mennessä https://www.haaga-helia.fi/fi/valmistuminen (Käytännössä prosessi etenee niin, että kun sinut on haussa hyväksytty tutkintoon, viedään aiemmat opintosuorituksesi uudelle opiskelijaroolille. Tämän jälkeen saat opintoneuvojalta (Linnea) viestin, jossa on ohjeistus valmistumisen hakemiseen ja haet valmistumista ohjeen mukaisesti. Prosessi on siis kaksivaiheinen: ensin haku tutkintoon ja sitten valmistumisen hakeminen. Viimeinen päivä hakea valmistumista tänä keväänä on 4.6. Valmistumisjuhla järjestetään 16.6. Finlandia-talossa.)~
+12. ~selvitä tutkintotodistushakemus mahdollinen virhe~
